@@ -19,33 +19,18 @@ readingOrder:
   - hrichy_pro_patera_knoxe_006.html
   - hrichy_pro_patera_knoxe_007.html
   - hrichy_pro_patera_knoxe_008.html
-  - hrichy_pro_patera_knoxe_009.html
   - hrichy_pro_patera_knoxe_010.html
-  - hrichy_pro_patera_knoxe_011.html
   - hrichy_pro_patera_knoxe_012.html
-  - hrichy_pro_patera_knoxe_013.html
   - hrichy_pro_patera_knoxe_014.html
-  - hrichy_pro_patera_knoxe_015.html
-  - hrichy_pro_patera_knoxe_016.html
-  - hrichy_pro_patera_knoxe_017.html
   - hrichy_pro_patera_knoxe_018.html
-  - hrichy_pro_patera_knoxe_019.html
   - hrichy_pro_patera_knoxe_020.html
-  - hrichy_pro_patera_knoxe_021.html
   - hrichy_pro_patera_knoxe_022.html
-  - hrichy_pro_patera_knoxe_023.html
-  - hrichy_pro_patera_knoxe_024.html
-  - hrichy_pro_patera_knoxe_025.html
   - hrichy_pro_patera_knoxe_026.html
-  - hrichy_pro_patera_knoxe_027.html
   - hrichy_pro_patera_knoxe_028.html
-  - hrichy_pro_patera_knoxe_029.html
   - hrichy_pro_patera_knoxe_030.html
-  - hrichy_pro_patera_knoxe_031.html
   - hrichy_pro_patera_knoxe_032.html
   - hrichy_pro_patera_knoxe_033.html
   - hrichy_pro_patera_knoxe_034.html
-  - hrichy_pro_patera_knoxe_035.html
   - colophon.html
 tocBase:
   - id: section-1
@@ -56,6 +41,52 @@ tocBase:
       - link: hrichy_pro_patera_knoxe_006.html
         title: Slovo autora
         hiddenTitle: true
+      - link: hrichy_pro_patera_knoxe_007.html
+        title: |-
+          Desatero pátera
+          Ronalda Arbuthnota Knoxe
+        hiddenTitle: false
+      - link: hrichy_pro_patera_knoxe_008.html
+        title: |-
+          Intimní
+          záležitost
+        hiddenTitle: false
+      - link: hrichy_pro_patera_knoxe_010.html
+        title: Omyl v Šlágrsé
+        hiddenTitle: false
+      - link: hrichy_pro_patera_knoxe_012.html
+        title: Ženské za volantem
+        hiddenTitle: false
+      - link: hrichy_pro_patera_knoxe_014.html
+        title: Otázka alibi
+        hiddenTitle: false
+      - link: hrichy_pro_patera_knoxe_018.html
+        title: Proč tolik šámusů
+        hiddenTitle: false
+      - link: hrichy_pro_patera_knoxe_020.html
+        title: Justiční omyl
+        hiddenTitle: false
+      - link: hrichy_pro_patera_knoxe_022.html
+        title: Matematikové z Grizzly Drive
+        hiddenTitle: false
+      - link: hrichy_pro_patera_knoxe_026.html
+        title: Atlantická romance
+        hiddenTitle: false
+      - link: hrichy_pro_patera_knoxe_028.html
+        title: Mezi námi děvčaty
+        hiddenTitle: false
+      - link: hrichy_pro_patera_knoxe_030.html
+        title: Třetí vrchol trojúhelníku
+        hiddenTitle: false
+      - link: hrichy_pro_patera_knoxe_032.html
+        title: Rozhřešení
+        hiddenTitle: false
+      - link: hrichy_pro_patera_knoxe_033.html
+        title: Autorova poznámka
+        hiddenTitle: false
+      - link: hrichy_pro_patera_knoxe_034.html
+        title: Poznámky pod čarou
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:
