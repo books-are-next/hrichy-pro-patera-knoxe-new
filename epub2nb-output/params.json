@@ -1,0 +1,864 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Hříchy pro pátera Knoxe",
+      "identifier": "f5b7cf6c-4315-4661-a335-ddb82f8fa509",
+      "author": "Josef Škvorecký",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-05-18T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "hrichy_pro_patera_knoxe_001.md",
+            "xhtml": "hrichy_pro_patera_knoxe_001.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_002.md",
+            "xhtml": "hrichy_pro_patera_knoxe_002.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_003.md",
+            "xhtml": "hrichy_pro_patera_knoxe_003.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_004.md",
+            "xhtml": "hrichy_pro_patera_knoxe_004.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_005.md",
+            "xhtml": "hrichy_pro_patera_knoxe_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_006.md",
+            "xhtml": "hrichy_pro_patera_knoxe_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_007.md",
+            "xhtml": "hrichy_pro_patera_knoxe_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_008.md",
+            "xhtml": "hrichy_pro_patera_knoxe_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_009.md",
+            "xhtml": "hrichy_pro_patera_knoxe_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_010.md",
+            "xhtml": "hrichy_pro_patera_knoxe_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_011.md",
+            "xhtml": "hrichy_pro_patera_knoxe_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_012.md",
+            "xhtml": "hrichy_pro_patera_knoxe_012.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_013.md",
+            "xhtml": "hrichy_pro_patera_knoxe_013.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_014.md",
+            "xhtml": "hrichy_pro_patera_knoxe_014.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_015.md",
+            "xhtml": "hrichy_pro_patera_knoxe_015.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_016.md",
+            "xhtml": "hrichy_pro_patera_knoxe_016.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_017.md",
+            "xhtml": "hrichy_pro_patera_knoxe_017.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_018.md",
+            "xhtml": "hrichy_pro_patera_knoxe_018.html",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_019.md",
+            "xhtml": "hrichy_pro_patera_knoxe_019.html",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_020.md",
+            "xhtml": "hrichy_pro_patera_knoxe_020.html",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_021.md",
+            "xhtml": "hrichy_pro_patera_knoxe_021.html",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_022.md",
+            "xhtml": "hrichy_pro_patera_knoxe_022.html",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_023.md",
+            "xhtml": "hrichy_pro_patera_knoxe_023.html",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_024.md",
+            "xhtml": "hrichy_pro_patera_knoxe_024.html",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_025.md",
+            "xhtml": "hrichy_pro_patera_knoxe_025.html",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_026.md",
+            "xhtml": "hrichy_pro_patera_knoxe_026.html",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_027.md",
+            "xhtml": "hrichy_pro_patera_knoxe_027.html",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_028.md",
+            "xhtml": "hrichy_pro_patera_knoxe_028.html",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_029.md",
+            "xhtml": "hrichy_pro_patera_knoxe_029.html",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_030.md",
+            "xhtml": "hrichy_pro_patera_knoxe_030.html",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_031.md",
+            "xhtml": "hrichy_pro_patera_knoxe_031.html",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_032.md",
+            "xhtml": "hrichy_pro_patera_knoxe_032.html",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_033.md",
+            "xhtml": "hrichy_pro_patera_knoxe_033.html",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_034.md",
+            "xhtml": "hrichy_pro_patera_knoxe_034.html",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "hrichy_pro_patera_knoxe_035.md",
+            "xhtml": "hrichy_pro_patera_knoxe_035.html",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Hříchy pro pátera Knoxe",
+      "identifier": "f5b7cf6c-4315-4661-a335-ddb82f8fa509",
+      "author": "Josef Škvorecký",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-05-18T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_001.md",
+        "xhtml": "hrichy_pro_patera_knoxe_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_002.md",
+        "xhtml": "hrichy_pro_patera_knoxe_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_003.md",
+        "xhtml": "hrichy_pro_patera_knoxe_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_004.md",
+        "xhtml": "hrichy_pro_patera_knoxe_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_005.md",
+        "xhtml": "hrichy_pro_patera_knoxe_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_006.md",
+        "xhtml": "hrichy_pro_patera_knoxe_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_007.md",
+        "xhtml": "hrichy_pro_patera_knoxe_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_008.md",
+        "xhtml": "hrichy_pro_patera_knoxe_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_009.md",
+        "xhtml": "hrichy_pro_patera_knoxe_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_010.md",
+        "xhtml": "hrichy_pro_patera_knoxe_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_011.md",
+        "xhtml": "hrichy_pro_patera_knoxe_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_012.md",
+        "xhtml": "hrichy_pro_patera_knoxe_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_013.md",
+        "xhtml": "hrichy_pro_patera_knoxe_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_014.md",
+        "xhtml": "hrichy_pro_patera_knoxe_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_015.md",
+        "xhtml": "hrichy_pro_patera_knoxe_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_016.md",
+        "xhtml": "hrichy_pro_patera_knoxe_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_017.md",
+        "xhtml": "hrichy_pro_patera_knoxe_017.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_018.md",
+        "xhtml": "hrichy_pro_patera_knoxe_018.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_019.md",
+        "xhtml": "hrichy_pro_patera_knoxe_019.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_020.md",
+        "xhtml": "hrichy_pro_patera_knoxe_020.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_021.md",
+        "xhtml": "hrichy_pro_patera_knoxe_021.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_022.md",
+        "xhtml": "hrichy_pro_patera_knoxe_022.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_023.md",
+        "xhtml": "hrichy_pro_patera_knoxe_023.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_024.md",
+        "xhtml": "hrichy_pro_patera_knoxe_024.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_025.md",
+        "xhtml": "hrichy_pro_patera_knoxe_025.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_026.md",
+        "xhtml": "hrichy_pro_patera_knoxe_026.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_027.md",
+        "xhtml": "hrichy_pro_patera_knoxe_027.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_028.md",
+        "xhtml": "hrichy_pro_patera_knoxe_028.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_029.md",
+        "xhtml": "hrichy_pro_patera_knoxe_029.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_030.md",
+        "xhtml": "hrichy_pro_patera_knoxe_030.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_031.md",
+        "xhtml": "hrichy_pro_patera_knoxe_031.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_032.md",
+        "xhtml": "hrichy_pro_patera_knoxe_032.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_033.md",
+        "xhtml": "hrichy_pro_patera_knoxe_033.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_034.md",
+        "xhtml": "hrichy_pro_patera_knoxe_034.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "hrichy_pro_patera_knoxe_035.md",
+        "xhtml": "hrichy_pro_patera_knoxe_035.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/2.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/3.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/4.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/5.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/6.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/7.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/8.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/9.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/10.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/11.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/12.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/15.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/18.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/19.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/20.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/21.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/22.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/23.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/24.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/25.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/26.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/13.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/17.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/16.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/14.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/SKIP.jpg"
+      }
+    ],
+    "classes": [
+      "calibre10",
+      "calibre12",
+      "calibre13",
+      "calibre14",
+      "calibre15",
+      "calibre19",
+      "calibre20",
+      "calibre28",
+      "calibre29",
+      "calibre3",
+      "calibre43",
+      "calibre5",
+      "calibre50",
+      "calibre54",
+      "calibre56",
+      "calibre57",
+      "calibre6",
+      "calibre7",
+      "e-bookdopiskurziva",
+      "e-bookdopiskurzivabezpredsazeni",
+      "e-bookhvezdickystred",
+      "e-bookhvezdickystred1",
+      "e-booklicenceobrazek",
+      "e-booklicenceparagraf",
+      "e-booklicencetext",
+      "e-booklicencetexthypertext9bchar",
+      "e-booknadpis",
+      "e-bookodsazeniodstavcepred",
+      "e-bookodsazeniodstavcepred1",
+      "e-bookodsazenixradku12bza",
+      "e-bookosoby",
+      "e-bookosobychar",
+      "e-bookprimarec",
+      "e-bookprozatext",
+      "e-bookprozatext1",
+      "e-bookprozatextbezpredsazeniprvradku",
+      "e-bookprozatextbezpredsazeniprvradku1",
+      "e-bookprozatextkurziva",
+      "e-bookprozatextkurzivabezpredsazeniprvradku",
+      "e-bookprozatextkurzivadoprava",
+      "e-bookprozatextuprostred",
+      "e-bookprozatextuprostredtucne",
+      "e-booktirazacitacetext",
+      "e-booktirazacitacetext1",
+      "e-booktirazacitacetextkurzivachar",
+      "e-booktirazautoradilo",
+      "e-booktirazodsazeni6b",
+      "e-booktirazpodnazevdila",
+      "e-booktitulkaautor",
+      "e-booktitulkadilo",
+      "e-booktitulkapodnazev",
+      "e-bookvenovani",
+      "e-bookvenovanicxspmiddle",
+      "e-bookversebezpredsazeni12bzakurziva",
+      "msofootnotereference",
+      "msofootnotetext",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection10",
+      "wordsection11",
+      "wordsection12",
+      "wordsection13",
+      "wordsection14",
+      "wordsection15",
+      "wordsection16",
+      "wordsection17",
+      "wordsection18",
+      "wordsection19",
+      "wordsection20",
+      "wordsection21",
+      "wordsection22",
+      "wordsection23",
+      "wordsection24",
+      "wordsection25",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6",
+      "wordsection7",
+      "wordsection8",
+      "wordsection9"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "hrichy-pro-patera-knoxe-new"
+    },
+    "generatedAt": 1648465420417
+  }
+}

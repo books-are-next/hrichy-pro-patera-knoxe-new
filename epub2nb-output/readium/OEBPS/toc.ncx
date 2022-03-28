@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="f5b7cf6c-4315-4661-a335-ddb82f8fa509" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Hříchy pro pátera Knoxe</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Desatero pátera Ronalda Arbuthnota Knoxe</text>
+      </navLabel>
+      <content src="Text/hrichy_pro_patera_knoxe_007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Intimní záležitost</text>
+      </navLabel>
+      <content src="Text/hrichy_pro_patera_knoxe_008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Omyl v Šlágrsé</text>
+      </navLabel>
+      <content src="Text/hrichy_pro_patera_knoxe_010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Ženské za volantem</text>
+      </navLabel>
+      <content src="Text/hrichy_pro_patera_knoxe_012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Otázka alibi</text>
+      </navLabel>
+      <content src="Text/hrichy_pro_patera_knoxe_014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Proč tolik šámusů</text>
+      </navLabel>
+      <content src="Text/hrichy_pro_patera_knoxe_018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Justiční omyl</text>
+      </navLabel>
+      <content src="Text/hrichy_pro_patera_knoxe_020.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Matematikové z Grizzly Drive</text>
+      </navLabel>
+      <content src="Text/hrichy_pro_patera_knoxe_022.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Atlantická romance</text>
+      </navLabel>
+      <content src="Text/hrichy_pro_patera_knoxe_026.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Mezi námi děvčaty</text>
+      </navLabel>
+      <content src="Text/hrichy_pro_patera_knoxe_028.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Třetí vrchol trojúhelníku</text>
+      </navLabel>
+      <content src="Text/hrichy_pro_patera_knoxe_030.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Rozhřešení</text>
+      </navLabel>
+      <content src="Text/hrichy_pro_patera_knoxe_032.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Autorova poznámka</text>
+      </navLabel>
+      <content src="Text/hrichy_pro_patera_knoxe_033.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Poznámky pod čarou</text>
+      </navLabel>
+      <content src="Text/hrichy_pro_patera_knoxe_034.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
