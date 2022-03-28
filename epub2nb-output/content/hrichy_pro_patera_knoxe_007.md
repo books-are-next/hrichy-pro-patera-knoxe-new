@@ -1,9 +1,9 @@
 ---
+title: |-
+  Desatero pátera
+  Ronalda Arbuthnota Knoxe
 contentType: prose
 ---
-
-## Desatero pátera  
-Ronalda Arbuthnota Knoxe
 
 1) Zločinec musí být někdo, o němž je zmínka brzo na začátku příběhu.
 

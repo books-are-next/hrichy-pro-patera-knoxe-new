@@ -1,8 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
 
- „Perosím, dámy,“ pravila osobitou výslovností černovláska s důlky ve tvářích a vzhlédla od novin ke dvěma hochům, kteří podobně jako ona seděli na vyšívaných polštářích na podlaze. Byly to francouzské noviny a byli to hoši oblečení v modrobíle pruhované kalhoty, jakým se na Západě říká tights_,_ protože přiléhají k tělu jako slupka přiléhá k jablku. Ale nebylo to na Západě, nýbrž na Malé Straně; pokoj, kde seděli, zdobil malířský stojan s netknutým plátnem, orientální koberečky, červotočiví svatí, jaké v opuštěných kapličkách kradou podnikaví venkované pro valutové turisty, a mystické malby, znázorňující nahé muže, jak podivně propleteni poletují v oblacích. Místnost tajemně ozařovala měděná lampa se stínítkem perforovaným do podoby čínského draka a uprostřed pokoje ve dvou rokokových křeslech sražených k sobě tak, že vzniklo něco na způsob bohatě vyřezávané kolébky, spinkalo v pěně bleděmodrého krajkoví růžové děťátko se zlatými vlásky.
+ „Perosím, dámy,“ pravila osobitou výslovností černovláska s důlky ve tvářích a vzhlédla od novin ke dvěma hochům, kteří podobně jako ona seděli na vyšívaných polštářích na podlaze. Byly to francouzské noviny a byli to hoši oblečení v modrobíle pruhované kalhoty, jakým se na Západě říká _tights__,_ protože přiléhají k tělu jako slupka přiléhá k jablku. Ale nebylo to na Západě, nýbrž na Malé Straně; pokoj, kde seděli, zdobil malířský stojan s netknutým plátnem, orientální koberečky, červotočiví svatí, jaké v opuštěných kapličkách kradou podnikaví venkované pro valutové turisty, a mystické malby, znázorňující nahé muže, jak podivně propleteni poletují v oblacích. Místnost tajemně ozařovala měděná lampa se stínítkem perforovaným do podoby čínského draka a uprostřed pokoje ve dvou rokokových křeslech sražených k sobě tak, že vzniklo něco na způsob bohatě vyřezávané kolébky, spinkalo v pěně bleděmodrého krajkoví růžové děťátko se zlatými vlásky.
 
 „Perosím, dámy,“ pravila tedy dívka, podala noviny, které ten den přivezla letadlem z Paříže, oběma hochům a hoši jako jeden muž otevřeli ústa nad velikou fotografií téže dívky s dolíčky na první straně a vydechli: „Ó! No né! Zuzáne!“
 
@@ -82,7 +83,7 @@ Odmlčela se.
 
 „Jé!“ vydechl Pavla.
 
-„– v noci,“ pokračovala Zuzán, „někdo vedle v pokoji sterašně zaječel. Vzbudilo mě to, šáhnu po Evoušovi a Evouš u mě v posteli nikde. A to už se všude po kevartýře vozývaly hlasy, rozsvěcovaly se světla, vyskočila jsem taky, a vedle v pánským pokoji, koukám, stojí Evouš a klepe se jak nachlazený štěně, a na kanapi leží Joyce a je ke kanapi připíchnutá bodcem na led, takovym dlouhym, špičatym, jak se tomu anglicky řiká ice pick_._ To už se holky namačkaly dovnitř, Lucy a Mireille hned vomdlely, Evouš povídal, aby někdo běžel zatelefonovat na policii, tak Ginette, Louise, Laura a Danielle zase utekly a mně se najednou začla v hlavě honit myšlenka a honí se a honí, až mě dohoní, a Evouš povídá: ‚Kdo to byl? Proboha, kdo to byl?‘ A já ji tam nechala, vodešla jsem do předsíně a dveře byly zevnitř na řetěz, kevartýr ve třetim poschodí, vrátila jsem se zpátky a Evouš zase: ‚Kdo to byl?‘“
+„– v noci,“ pokračovala Zuzán, „někdo vedle v pokoji sterašně zaječel. Vzbudilo mě to, šáhnu po Evoušovi a Evouš u mě v posteli nikde. A to už se všude po kevartýře vozývaly hlasy, rozsvěcovaly se světla, vyskočila jsem taky, a vedle v pánským pokoji, koukám, stojí Evouš a klepe se jak nachlazený štěně, a na kanapi leží Joyce a je ke kanapi připíchnutá bodcem na led, takovym dlouhym, špičatym, jak se tomu anglicky řiká _ice pick__._ To už se holky namačkaly dovnitř, Lucy a Mireille hned vomdlely, Evouš povídal, aby někdo běžel zatelefonovat na policii, tak Ginette, Louise, Laura a Danielle zase utekly a mně se najednou začla v hlavě honit myšlenka a honí se a honí, až mě dohoní, a Evouš povídá: ‚Kdo to byl? Proboha, kdo to byl?‘ A já ji tam nechala, vodešla jsem do předsíně a dveře byly zevnitř na řetěz, kevartýr ve třetim poschodí, vrátila jsem se zpátky a Evouš zase: ‚Kdo to byl?‘“
 
 „A kdo to byl, krucifix?“ vykřikl napjatý Pavla a Zuzán se záhadně usmála.
 
@@ -91,6 +92,8 @@ Odmlčela se.
 Pozorný čtenář ví už přirozeně všechno, a odpustil i hříšek – proti kterému přikázání? Nemyslím nestřídmost v jídle a pití, protože jde samozřejmě o Desatero pátera Knoxe. A obzvlášť, perosím, pečlivě dedukovat!
 
 * * *
+
+  
 
 „No byla to peřirozeně milenka Chladnýho Jeana. Jedna ze dvou, co se řízenim osudu sešly na tom Evoušovým dámskym dýchánku v Neuilly,“ pravila potom Zuzán. „Jedna byla Joyce, o existenci tý druhý nevěděla, a doplatila na ten nedostatek praktickýho vzdělání. Druhá, co Joyce propíchla ice jéerpickem, se to na ni ten den dověděla, a jak se zlískala, přišlo jí to líto, no, a teď sedí. S polehčujícíma okolnostma bude ještě deset let.“
 
@@ -102,13 +105,15 @@ Pozorný čtenář ví už přirozeně všechno, a odpustil i hříšek – p
 
 „Holmes já taky nejsem,“ řekla Zuzán, „a nikdy jsem nebyla. A von ani nikdo nemusí bejt, perotože je to jasný jak facinka.“ A Zuzán vstala, přistoupila k malířskému stojanu, a uhlem napsala na neposkvrněné plátno následující přehled, jejž Pavla později překryl olejovou malbou propletených mužských těl, otáčejících se kolem neónového měsíce:
 
-Den předtím: Evouš, já, Laura, Ginette, Danielle
+_Den předtím: Evouš, já, Laura, Ginette, Danielle_
 
-V Neuilly nejdřív: Evouš, já, Ginette, Louise, Lucy
+_V Neuilly nejdřív: Evouš, já, Ginette, Louise, Lucy_
 
-Potom: Já, Evouš, Louise, Ginette, Lucy, Laura, Danielle
+_Potom: Já, Evouš, Louise, Ginette, Lucy, Laura, Danielle_
 
-Nakonec: Já, Evouš, Louise, Ginette, Lucy, Laura, Danielle, Mireille.
+_Nakonec: Já, Evouš, Louise, Ginette, Lucy, Laura, Danielle, Mireille._
+
+  
 
 Pak Zuzán pohlédla na oba hochy tázavě, ale hoši nebyli příliš nadáni schopností logické dedukce, jež se ostatně objevuje spíše u mužů. Zapálila si tedy cigaretu, vyfoukla kouř a dolíčky ve tvářích na chvilku zahalil průsvitný stín. „Louise a Lucy,“ pravila, „který nebyly den předtím u Joyce, neslyšely, jak vypadá Evoušův milej. Laura a Danielle zase slyšely popis Evoušovýho milce a Chladnýho Jeana znaly, ale neslyšely to vo tom negramotnym milostnym psaníčku. A Mireille neslyšela z těchhle všech informací vůbec nic. A teďka: v úvahu pro autorství toho psaníčka plnýho chyb proti francouzský gramatice přicházely tři – když pominu sebe, ponivač já byla v Paříži poperve v životě a teprve dva dni, takže bych při nejlepší vůli Chladnýho Jeana zobnout nestačila: Mireille, ta byla venkovský trdlo, Evouš jako Češka a Joyce jako Angličanka.“ Zuzán vyňala z kabely dudlík a vrazila jej Pernille do růžové pusinky.
 
@@ -118,13 +123,15 @@ Pak Zuzán pohlédla na oba hochy tázavě, ale hoši nebyli příliš nadáni s
 
 „Vrahem byla ta, co znala všechny ty informace: tu, co jsme slyšely den předtím u Joyce, tu, co nám řekla Louise, než přišly Laura a Danielle, a tu, co nám svěřila Laura, než přilítla s brekem Mireille. A taky zároveň která věděla, kdo je Mireillinej milenec. Perostě, tahleta,“ a malířským uhlem dala do rámečku jedno jméno, které se vyskytovalo na všech seznamech:
 
-Den předtím: Evouš, já, Laura, GINETTE, Danielle
+_Den předtím: Evouš, já, Laura, GINETTE, Danielle_
 
-V Neuilly nejdřív: Evouš, já, GINETTE, Louise, Lucy
+_V Neuilly nejdřív: Evouš, já, GINETTE, Louise, Lucy_
 
-Potom: Já, Evouš, Louise, GINETTE, Lucy, Laura, Danielle
+_Potom: Já, Evouš, Louise, GINETTE, Lucy, Laura, Danielle_
 
-Nakonec: Já, Evouš, Louise, GINETTE, Lucy, Laura, Danielle, Mireille.
+_Nakonec: Já, Evouš, Louise, GINETTE, Lucy, Laura, Danielle, Mireille._
+
+  
 
 „Ginette to slyšela všecko,“ řekla potom. „A jediná znala Mireillinýho milence, takže věděla, že ta to neni. Vydedukovala si, úplně logicky, že je to Joyce, ponivač jako Angličanka dělá ve francouzštině chyby a bydlí v Neuilly. A že Evouš to není, ponivač Evoušovej Jean nemá voči jak nebe, ale spíš jako čert.“
 

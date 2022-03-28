@@ -1,4 +1,5 @@
 ---
+title: ''
 contentType: prose
 ---
 
@@ -42,7 +43,7 @@ Silný pán mávl rukou. „Jakýpak hezký. Sem gentleman!“
 
 „To ste teda výjimka. Gentlemani málem vyhynuli.“
 
-„Fakt?“ pánovi to zřejmě zalichotilo. „Ale z tebe mluvěj špatný zkušenosti, baby_._ Všichni chlapi takoví prezenti nejsou. Měla sis dávat víc majzla.“
+„Fakt?“ pánovi to zřejmě zalichotilo. „Ale z tebe mluvěj špatný zkušenosti, _baby__._ Všichni chlapi takoví prezenti nejsou. Měla sis dávat víc majzla.“
 
 Šedivé oči k němu vzhlédly s otázkou, jenže pán si to vyložil jako výčitku.
 
@@ -50,7 +51,7 @@ Silný pán mávl rukou. „Jakýpak hezký. Sem gentleman!“
 
 „Myslíte?“
 
-„Mám v tom praxi, baby_._ A je na mě spoleh. Já to znám, ty hotelový zázraky!“
+„Mám v tom praxi, _baby__._ A je na mě spoleh. Já to znám, ty hotelový zázraky!“
 
 „Myslíte?“ opakovala dívka.
 
@@ -58,7 +59,7 @@ Silný pán mávl rukou. „Jakýpak hezký. Sem gentleman!“
 
 Pán sebral ze země porodnický kufřík, ale naneštěstí ke stolu přistoupil barman s whiskou a zašilhal po zavazadle, jež se k mohutnému pánovi nehodilo o mnoho víc než literatura. Pán postavil kufřík zpátky na zem a vrhl na barmana pohled tak zavilý, že tlusťoch rychle umístil sklenici na dosah ruky, jež formátem odpovídala spíš gorile, a úslužně se vzdálil. Pán si – přiměřeně své postavě – srkl skotské, roztáhl předimenzovaná ústa v novém úsměvu a důvěrně se přes stolek naklonil k plavovlásce. Na demonstrování kufříku zapomněl.
 
-Pravil: „Tak žádný strachy. Až se večír uvidíme, nebude von,“ zdůraznil jakéhosi muže, o jehož totožnosti neměla dívka tušení, „už štont votravovat ti život, baby_!_“
+Pravil: „Tak žádný strachy. Až se večír uvidíme, nebude von,“ zdůraznil jakéhosi muže, o jehož totožnosti neměla dívka tušení, „už štont votravovat ti život, _baby__!_“
 
 „Jste strašně laskav,“ pípla blondýnka. „A kde se večír uvidíme? A kdy?“
 
@@ -66,7 +67,7 @@ Pravil: „Tak žádný strachy. Až se večír uvidíme, nebude von,“ zdůraz
 
 „A – ano.“
 
-„Dobrý. Tak až bude večír vzduch čistej, stačí, dyž zavoláš sem k Pellemu a k telefonu chtěj MacMaca.“ Naklonil se znovu přes stůl a na hřbet pěstěné ručky položil svou, medvědí. Ústa se mu roztáhla málem do zátylku. „Zichr je zichr, žejo? Tak nezapomeň, baby! MacMac!“
+„Dobrý. Tak až bude večír vzduch čistej, stačí, dyž zavoláš sem k Pellemu a k telefonu chtěj MacMaca.“ Naklonil se znovu přes stůl a na hřbet pěstěné ručky položil svou, medvědí. Ústa se mu roztáhla málem do zátylku. „Zichr je zichr, žejo? Tak nezapomeň, _baby_! MacMac!“
 
 Dívka s milým úsměvem zavrtěla hlavou. Vstala, chtěla zaplatit, ale silný pán, jenž byl gentleman, jí v tom zabránil. Ještě jednou se tedy mile usmála a prošla východem do slunečného severského rána.
 
@@ -87,7 +88,7 @@ Ucítil v zátylku něčí pohled. Ohlédl se a vyděsily ho zavilé oči pán
 
 Barman se rychle věnoval svým štamgastům.
 
-\* \* \*
+* * *
 
 „S někým si mě jasně splet,“ říkala plavovláska česky asi půl hodiny nato v pokoji s květovanými záclonkami, jež zahalovaly okno, zapuštěné do neobyčejně silné zdi. „A já ho přitom nechala. Není to sranda, Zuzáne?“
 
@@ -105,7 +106,7 @@ Za dveřmi už nikdo nebyl. Ale kousek dál na chodbě maličký podomek v pruh
 
 Blondýnka zavřela dveře.
 
-„To sou věci, co?“ pravila břišní tanečnice. „Todle je poteřetí. Posledně sem mu kelikou málem vyrazila voko a von dělal, že sbírá po kokosáku špačky. Dědek naderženej! A já blběna, já na něj eště zezačátku byla hodná! Pak mi ale pokojský řekly, že s tim měl už kolikrát průšvih. Tak se teď sválně svlíkaj večer do naha a rajcujou ho kerz klíčovou dírku.“
+„To sou věci, co?“ pravila břišní tanečnice. „Todle je poteřetí. Posledně sem mu kelikou málem vyrazila voko a von dělal, že sbírá po kokosáku špačky. Dědek naderženej! A já blběna, já na něj eště zezačátku byla _hodná_! Pak mi ale pokojský řekly, že s tim měl už kolikrát průšvih. Tak se teď sválně svlíkaj večer do naha a rajcujou ho kerz klíčovou dírku.“
 
 „Chudák dědek,“ pravila plavovláska. „To je strašný, jak to s jednim dovede cloumat.“
 
@@ -135,9 +136,9 @@ Suzi se ušklíbla.
 
 „Děkuju, teti. Ale neboj. Proti malérům mám pilulku.“
 
-\* \* \*
+* * *
 
-Dopoledne si plavovláska prohlížela lázeňské městečko, jemuž s dívkou jménem Suzi říkaly Šlágrsé. Bloumala po čisťounkých ulicích, hodinu strávila v obchodním domě a koupila si nakonec, po dlouhém uvažování, velice laciné plnicí pero s nevkusnou fotografií krásky v koupacím oděvu. Z neznámého důvodu ji nadchlo. V poledne zašla na lunch do skromně vypadající restaurace, která se však uvnitř ukázala být podnikem první třídy. Objednala si proto opět pouze smaerebrod a pivo.
+Dopoledne si plavovláska prohlížela lázeňské městečko, jemuž s dívkou jménem Suzi říkaly Šlágrsé. Bloumala po čisťounkých ulicích, hodinu strávila v obchodním domě a koupila si nakonec, po dlouhém uvažování, velice laciné plnicí pero s nevkusnou fotografií krásky v koupacím oděvu. Z neznámého důvodu ji nadchlo. V poledne zašla na _lunch_ do skromně vypadající restaurace, která se však uvnitř ukázala být podnikem první třídy. Objednala si proto opět pouze smaerebrod a pivo.
 
 U vedlejšího stolu seděla veselá společnost tří děvčat ve studentských čepicích a tří pánů v tenisových kalhotách. Restaurant intimně osvětlovaly barevné svíce a pološero plavovlásce velmi svědčilo. Snad proto upoutala pozornost vysokého blondýna, levičkou objímajícího jednu ze studentek. Může mu být nanejvejš pětadvacet, usoudila blondýnka melancholicky, otevřela kabelku, zadolovala v ní a vytáhla zrcátko. S uspokojením zjistila, že ve světle svíček nevypadá sama na mnohem víc. V šeru potom spolu rozehráli velice zkušenou partii očima, jež pokračovala, dokud smaerebrod nezmizel, a pak zvolna ustala. Mladíka příliš zaměstnávaly veselé studentky.
 
@@ -149,7 +150,7 @@ Viselo tam veliké zrcadlo a blondýnka, třebaže to bylo jenom čtvrt hodiny,
 
 Zpozorovala jakousi nedokonalost na dokonalých růžově natřených rtech, otevřela kabelku, zadolovala v ní a vytáhla růž. Ale měla ji vypotřebovanou. Opět koukla na odraz obličeje ve skle, udělala si mezi obočím vrásku a rychle ji zas vymazala a znovu si pomyslela:
 
-„Asi to bude tim mozkem. K tomuhle ciferníku se ten muj patrně nehodí. To spíš –“ vzpomněla si na jednoho poručíka, vedle její kulaté tváře objevil se v zrcadle jiný obličej, rovněž kulatý, jako měsíc, s modrýma očima a s výrazem příslovečné postavy z lidového folklóru. Do tohohle se hodí taková myslivna, pomyslila si. Protože u něj se to dá považovat za mimikry, i když to asi většinou neni, jenže měsíčný obličej se náhle scvrkl, zkrabatěl, proměnil se v bezvýraznou postarší ženskou tvář, v zrcadle se objevila ruka s lipstickem a zazněl bezvýrazný hlas:
+„Asi to bude tim mozkem. K tomuhle ciferníku se ten muj patrně nehodí. To spíš –“ vzpomněla si na jednoho poručíka, vedle její kulaté tváře objevil se v zrcadle jiný obličej, rovněž kulatý, jako měsíc, s modrýma očima a s výrazem příslovečné postavy z lidového folklóru. Do tohohle se hodí taková myslivna, pomyslila si. Protože u něj se to dá považovat za mimikry, i když to asi většinou neni, jenže měsíčný obličej se náhle scvrkl, zkrabatěl, proměnil se v bezvýraznou postarší ženskou tvář, v zrcadle se objevila ruka s _lipstickem_ a zazněl bezvýrazný hlas:
 
 „Mohu vám nabídnout svou?“
 
@@ -169,7 +170,7 @@ Blondýna se poopravenými ústy ušklíbla. Byla to dokonalá ústa, stvořená
 
 „Jo, to sem,“ pravila cynicky, a dáma jí dobře nerozuměla. „Už třikrát sem vyhrála ve stazce. A jednou dokonce stovku.“
 
-\* \* \*
+* * *
 
 Kráčely potom spolu parkem a paní Lundquistová pravila:
 
@@ -201,7 +202,7 @@ Dlouho nic neříkala. Plavovláska, když už to nemohla vydržet, se zeptala:
 
 „Že zavraždím já jeho.“
 
-\* \* \*
+* * *
 
 Šly kolem tenisových kurtů. Nízké slunce severského léta kladlo na wimbledonský trávník šikmé stíny a dívka, jež hrála na prvním kurtu u pěšiny, měla štíhlé, ale vypracované nohy tanečnice a mrštně se oháněla raketou.
 
@@ -237,9 +238,9 @@ Paní Lundquistová ji chytila za ruku, jako by se potřebovala o něco opřít
 
 „No tak, no tak,“ chlácholila ji dívka. V duchu si říkala: Tak ono je to ještě horší, než se to zdá, Zuzáne. Ono to je vůbec nejhorší. A chlácholila dámu, která se jen pomaloučku vzpamatovávala z leknutí.
 
-„Já vím, že je to trapné,“ sípala, hlas se jí chvěl. „Vám to asi připadá jako nesmysl. Ale já ho nenávidím! Já ho – já ho snad –“
+„Já vím, že je to trapné,“ sípala, hlas se jí chvěl. „Vám to asi připadá jako nesmysl. Ale já ho _nenávidím_! Já ho – já ho snad –“
 
-\* \* \*
+* * *
 
 Když rozčilenou dámu uložila do postele a nakrmila sedativy, usadila se plavovláska v hale, protože byla zvědavá a ráda pozorovala svět, jemuž říkala cvrkot. Kdysi dávno býval hotel Klášter skutečně klášterem. Zbudovali jej z kamene, metrové stěny se zdvíhaly v podivné asymetrii k modré švédské obloze. V hale plápolal krb a v rohu u starobylého stolu cídil maličký podomek v pruhované zástěře mosazné nádobí.
 
@@ -259,11 +260,11 @@ Blondýn povytáhl jedno obočí jako do velkého detailu.
 
 Blondýn zachoval vytrénovanou duchapřítomnost a opět předvedl chrup, poněkud stisknutý. Tanečnice se do něho zavěsila. Plavovlásku upoutalo něco, co se zalesklo za osmahlým uchem, esteticky přilepeným k blondýnově lebce. Pod mosazným talířem v rohu haly stál maličký podomek a jeho tvář se podobala antické masce žárlivosti.
 
-Blondýnka šlehla okem po hluboce oblouzeném děvčátku. Ach, Zuzáne, pomyslela si. Budu se tě asi muset zeptat, co to přesně znamená, žes na tamhle toho byla zezačátku hodná_._ Že tys nám ho taky přefikla, ty děvko?
+Blondýnka šlehla okem po hluboce oblouzeném děvčátku. Ach, Zuzáne, pomyslela si. Budu se tě asi muset zeptat, co to přesně znamená, žes na tamhle toho byla zezačátku _hodná__._ Že tys nám ho taky přefikla, ty děvko?
 
 Podomek v rohu třel mosaznou konvici tak, že se rozžhavila do běla. Krásná bílá dvojice mířila ke schodišti. Na prvním schodě se blondýn zastavil, otočil se k podomkovi a hlasem zcela samozřejmě si vědomým třídního rozdílu houkl:
 
-„Boy! Dojděte mi koupit holicí krém a přineste mi ho nahoru!“
+„_Boy!_ Dojděte mi koupit holicí krém a přineste mi ho nahoru!“
 
 Ó, řekla si v duchu plavovláska. Ó bože!
 
@@ -275,7 +276,7 @@ Hraběnka Wallensteinová ještě jednou pootočila lorňon za neslušnou sukní
 
 Ó bože! řekla si v duchu plavovláska. Partie bridže. Jakpak asi skončí tamta partie, pohlédla ke schodišti, ale děvčátko i její kavalír už zmizeli. Plavovláska si vzpomněla na dámu, na čas uklidněnou sedativy, a zauvažovala, jak dlouho asi takové prášky účinkují. Nevěděla jak, ale na mysl jí vytanul sympatický, ale obrovitý pan MacMac, jenž si to ten večer vyřídí s nějakým grázlem, a zamrazilo ji. Pak opět pomyslela na děvčátko v sukénce, jehož rozsáhlé vědomosti o Sörenu Lundquistovi nepřekročily asi oblast jeho navoněné postele. No nazdar, pomyslela si. Jak tohle všechno skončí. Znova ji zamrazilo. Zmocnila se jí neurčitá, ale bezesporu neblahá předtucha.
 
-\* \* \*
+* * *
 
 Kabaret Moulin Rouge zářil do přísvětlí severského večera neónovým větrným mlýnem, kopií slavného mlýna v srdci Paříže. Otáčející se fialová ramena rozehrála na plavovlásčině tváři příjemný kaleidoskop.
 
@@ -283,9 +284,9 @@ Prošla hloučkem nerozhodných flamendrů, kteří si u vchodu prohlíželi fo
 
 „Potřebuju mluvit s panem MacMacem. Sedí u vás v lokále.“ Chvilku ticho, pak vzdálený šum přeplněné hospody. Potom se ozval známý hlas mohutného pána s americkým přízvukem:
 
-„Baby?“
+_„Baby?“_
 
-_„Yes,“_ pípla blondýnka. „It's me.“
+_„_Yes,_“_ pípla blondýnka. „_It's me_.“
 
 Pán plynule přešel v američtinu:
 
@@ -301,13 +302,13 @@ Jenže zjistit, jak to vlastně je s ovzduším, se už nedalo. Přívětivý p
 
 „K – kde mám čekat?“
 
-„U baru, ne? Dáme si na voslavu vizoura. Tak bye, bye, baby! Take care!_“_
+„U baru, ne? Dáme si na voslavu vizoura. Tak _bye, bye, baby! Take care!__“_
 
 Pan MacMac zavěsil.
 
-You take care! pomyslela si blondýnka a počalo ji hryzat svědomí. Odešla do šatny a spatřila děvčátko Zuzán, rozkošnicky rozložené v křesílku, zasněné oči provrtávající strop až do lokálu, kde kolem jedenácté patrně zasedne věrolomný playboy Lundquist, aby se veřejně pokochal pohledem, který mu, pomyslela si blondýna, v soukromí už asi pomalu zevšedněl. A rozhodla se k činu.
+_You take care!_ pomyslela si blondýnka a počalo ji hryzat svědomí. Odešla do šatny a spatřila děvčátko Zuzán, rozkošnicky rozložené v křesílku, zasněné oči provrtávající strop až do lokálu, kde kolem jedenácté patrně zasedne věrolomný playboy Lundquist, aby se veřejně pokochal pohledem, který mu, pomyslela si blondýna, v soukromí už asi pomalu zevšedněl. A rozhodla se k činu.
 
-\* \* \*
+* * *
 
 Neuběhlo ani deset minut a děvčátko, nyní už nikoliv zasněné, se vyřítilo ze šatny a očima metalo blesky.
 
@@ -315,17 +316,17 @@ Neuběhlo ani deset minut a děvčátko, nyní už nikoliv zasněné, se vyří
 
 Plavovláska se dívala, jak její přítelkyně běží po schodech nahoru a proměňuje se v bílou spirálu. Říct sem jí to musela, pomyslela si a pokrčila rameny. V jejim vlastnim zájmu. Na zlomený srdce eště pilulku nemaj. Zavřela dveře a usadila se k zrcadlu. Pohlédla na svůj kulatý obličej, na oči posazené daleko od sebe. Načechrala si kadeře. Nojo, je to tak, řekla si v duchu. V každym případě to máš za sebou, Zuzoune. Pozdějc by to bylo eště horší.
 
-\* \* \*
+* * *
 
 V devět už seděla u baru, zvědavá, trochu postrašená, a znovu si prohlížela vlastní, tak nevysvětlitelně neúspěšnou krásu v zrcadle za barovým pultem. Odrážela právě třetí pokus o seznámení s podroušeným obchodníkem ze Stockholmu, když do baru vrazil mohutný pan MacMac a divoce se rozhlédl.
 
-Nějak divně. Blondýnku opět zamrazilo, pokolikáté, přestala počítat. Mohutný pan MacMac ji spatřil, dlouhými kroky se na jockeyských nohou přenesl k baru a prudce dosedl na stoličku. „Scotch?“ zeptala se nejistě plavovláska.
+Nějak divně. Blondýnku opět zamrazilo, pokolikáté, přestala počítat. Mohutný pan MacMac ji spatřil, dlouhými kroky se na jockeyských nohou přenesl k baru a prudce dosedl na stoličku. _„Scotch?“_ zeptala se nejistě plavovláska.
 
-„Nemám čas,“ pravil pan MacMac udýchaně. „V devět třicet mi jede vlak na Stockholm. A já mizim, baby!“
+„Nemám čas,“ pravil pan MacMac udýchaně. „V devět třicet mi jede vlak na Stockholm. A já mizim, _baby_!“
 
 Hleděl na ni tvrdě, zdálo se jí, že s podezřením. Pak mrkl po hodinách, přece jen si objednal skotskou a oslovil zputičkovanou zpěvačku:
 
-„Nehraješ na mě habaďůru, baby_,_ že ne?“
+„Nehraješ na mě habaďůru, _baby__,_ že ne?“
 
 „Já?“ podivila se uměle a znova ji zamrazilo.
 
@@ -345,7 +346,7 @@ Pod flitrovou sukní se blondýnce rozklepala kolena.
 
 Mohutný pán ji uchopil za ruku.
 
-„Netaháš mě za nos, baby_?_ Fakt byl? Seděl tu? Vidělas ho na vlastní voči?“
+„Netaháš mě za nos, _baby__?_ Fakt byl? Seděl tu? Vidělas ho na vlastní voči?“
 
 „F – fakt. Jenže – jenže –“
 
@@ -373,7 +374,7 @@ Pan MacMac znovu usrkl – přiměřeně ke své postavě – a pravil filozo
 
 Mozek za svraštěným obočím viditelně pracoval. Náhle se dopracoval něčeho, co pana MacMaca vyděsilo.
 
-„Damned!“ pravil. „Tohle smrdí!“
+_„Damned!“_ pravil. „Tohle smrdí!“
 
 „C – co se stalo?“ pípla plavovláska.
 
@@ -389,7 +390,7 @@ Pod plavovláskou se zakymácela stolička.
 
 „Ale to já – ne – nechtěla!“
 
-„Tak pročs teda volala Petersenovi, baby?_“_
+„Tak pročs teda volala Petersenovi, _baby?__“_
 
 „Já – já –“ za přehradu osobního zájmena se plavovláska nedostala. Mohutný pan MacMac zatím dále pracoval mozkem a mluvil spíš pro sebe:
 
@@ -399,31 +400,31 @@ Pod plavovláskou se zakymácela stolička.
 
 Pan MacMac překvapeně zdvihl obočí a zazíral na zbledlou zpěvačku.
 
-„Seš padlá na hlavu, baby?_“_
+„Seš padlá na hlavu, _baby?__“_
 
 „To já nechtěla! Vopravdu ne! Abyste ho zabil!“
 
 Pan MacMac dlouho zíral do tváře, jež křídovatěla. Nakonec pravil rezignovaně.
 
-„Asi je toho na tebe moc, baby_._ Já ho nevodškrt. Byl už vodškrtnutej, dyž sem se votočil vod sejfu a chtěl sem se vypařit. Ležel na podlaze, napůl pod postelí. Proto sem si ho prve nevšim. To teda bylo překvápko, baby_,_ to si piš! Někdo ho majz do kokosu, že měl z ksiftu vobrázkovou skládačku!“ Jak vyprávěl, pan MacMac se vzrušil a přešel do prezentu: „Tak ho překročim, du ke dveřim, sou zevnitř na závoru, vodšoupnu jí –“ Pan MacMac se zarazil, vytřeštil oči: „Moment!“ zvolal jako na lesy. „Moment! To je renonc!“
+„Asi je toho na tebe moc, _baby__._ Já ho nevodškrt. Byl už vodškrtnutej, dyž sem se votočil vod sejfu a chtěl sem se vypařit. Ležel na podlaze, napůl pod postelí. Proto sem si ho prve nevšim. To teda bylo překvápko, _baby__,_ to si piš! Někdo ho majz do kokosu, že měl z ksiftu vobrázkovou skládačku!“ Jak vyprávěl, pan MacMac se vzrušil a přešel do prezentu: „Tak ho překročim, du ke dveřim, sou zevnitř na závoru, vodšoupnu jí –“ Pan MacMac se zarazil, vytřeštil oči: „Moment!“ zvolal jako na lesy. „Moment! To je renonc!“
 
 Dívka zavrávolala, přidržela se pultu a nohy stoličky zastepovaly na mramorové podlaze. Zezelenala.
 
 „C – co eště?“
 
-Ale pan MacMac ji nevnímal, pokračoval v samomluvě: „Vokno zavřený zevnitř, že sem ho musel zvenčí vyříznout. Dvéře na terasu taky zalígrovaný zevnitř, na závoru. To si přeci jasně pamatuju, musel sem jí vodšoupnout. Dvéře na chodbu zamčený, klíč v zámku. Zkusil sem kliku, hned jak sem vlez dovnitř. Fuck it! Kudy se zdejch?“
+Ale pan MacMac ji nevnímal, pokračoval v samomluvě: „Vokno zavřený zevnitř, že sem ho musel zvenčí vyříznout. Dvéře na terasu taky zalígrovaný zevnitř, na závoru. To si přeci jasně pamatuju, musel sem jí vodšoupnout. Dvéře na chodbu zamčený, klíč v zámku. Zkusil sem kliku, hned jak sem vlez dovnitř. _Fuck it!_ Kudy se zdejch?“
 
 „Kdo?“ pípla dívka.
 
-A pan MacMac, ačkoliv gentleman, se na ni utrhl: „Copak seš pitomá, baby? Vrahoun přeci!“
+A pan MacMac, ačkoliv gentleman, se na ni utrhl: „Copak seš pitomá, _baby?_ Vrahoun přeci!“
 
 Plavovlásce to sebralo řeč. Mohutný pan MacMac si zamnul čelo, ale už nic nevymyslil. Naposled si srkl z nového drinku, tentokrát dokonce nepřiměřeně k své postavě, protože ledová kostka vypadla ze sklenice a roztříštila se na mramorové podlaze.
 
-„Fuck it!“ pravil pan MacMac. _„I'll fuck off!_ Tady něco smrdí! Ale pořádně! Todle neni samosebou! Bye bye, baby! Také care! Cos potřebovala, máš. Já mizim!“
+_„Fuck it!“_ pravil pan MacMac. _„_I'll fuck off!__ Tady něco smrdí! Ale pořádně! Todle neni samosebou! _Bye bye, baby! Také care!_ Cos potřebovala, máš. Já mizim!“
 
 Hodil na pult bankovku, ze země sebral porodnický kufírek a do puntíku realizoval svou metaforu. Jediné, co dívku potěšilo, bylo, že na místě činu neztratil svou kostkovanou čepici.
 
-\* \* \*
+* * *
 
 Stabilizovala svou polohu na barové stoličce žaludečním likérem a do tváře se jí skrze zelený nádech počala opět vracet noční běloba. Druhý a třetí likér stoličku zcela uzemnil. Při čtvrtém barmixér poznamenal:
 
@@ -437,7 +438,7 @@ V šatně pak zdrceně seděla před zrcadlem, ale nedívala se do něj. Z kaz
 
 Hlas přešel v těžké oddychování, potom v neartikulované výkřiky. Plavovláska si pomyslela, že takové výkřiky mají natočené na těch speciálních deskách, co je lisuje firma Pornophone a prodávají se v těch speciálních obchodech, co prodávají časopisy s fotografiema, které by se hodily do učebnic gynekologie, ale k tomu účelu se nezhotovujou. Ach jo. Pohlédla na sebe do zrcadla, tentokráte z jiného důvodu než obvykle. Byla pořád světle zelená. Za ní se otevřely dveře a dovnitř se vpotácela jiná vodníkova nevěsta.
 
-\* \* \*
+* * *
 
 „Tak se uklidni, prosim tě!“ Plavovláska nalévala do bledého děvčátka svůj šestý žaludeční likér. „Jak to teda bylo? Dveře z chodby byly zamčený, na bouchání nevodpovídal, a při tom bouchání tě viděla pokojská, což se ti teda vydařilo. Potom’s běžela dolu do haly a ven z hotelu a po vnějším schodišti nahoru na terasu a tams vrazila do Lundquistový.“
 
@@ -453,7 +454,7 @@ Prudce se odmlčela. Zpěvačka si pomyslela: Co ještě, proboha –
 
 „Jak sem letěla po schodech dólu z terasy – a to víš, jak sem asi vypadala – hůř než Lundquistová, možná – tak mě viděl Lund – no ten podomek –“
 
-„Cos na něj byla hodná?_“_ přerušila ji zpěvačka.
+„Cos na něj byla _hodná_?_“_ přerušila ji zpěvačka.
 
 „Na toho? Prosim tě! Ale šel eště s ňákym dědkem – vedli nahoru hraběnku Wallensteinovou – tu, co na všechno čumí lorňonem. Vona bydlí taky v apartmá na terase –“
 
@@ -473,9 +474,9 @@ Plavovláska vzdychla.
 
 „To dybych věděla. Řikal si MacMac. Ale to si jenom tak řikal.“
 
-\* \* \*
+* * *
 
-Vraždu objevila pokojská. V devět hodin si vzpomněla, že měla pánovi v apartmá na terase donést vyžehlené kalhoty a že na to zapomněla. Bylo jí divné, že se jich nedomáhal; patřil do kategorie rozčilujících se hostů. Když mu je donesla, pán byl v pokoji zamčený a na klepání neodpovídal. Pokojskou napadlo, jestli se mu neudělalo špatně a neomdlel. Neznělo to z jejích úst pravděpodobně, a Niels C. Kölln, detektiv z oddělení vražd, jemuž případ přidělili jako jeho první homicidium, se rozpomněl na učebnici kriminální psychologie a usoudil, že pokojská se spíš domýšlela nemravných věcí a chtěla se na ně podívat oknem z terasy. Připadalo mu to neskutečné, neboť měl za sebou přísně kalvínskou výchovu a o některých funkcích lidského těla se dozvěděl teprve při hodině pohlavní výchovy, jenže tenkrát profesorovi nevěřil. Uvěřil, teprve když jistý mladý pán, nalézající se v situaci označované profesorem pohlavní výchovy jako penis captivus_,_ zavolal na policii, ze studu však ohlásil vraždu. Kupodivu, pro kalvínského detektiva to neznamenalo šok, ale poněkud opožděné probuzení v podstatě zdravého zájmu. To bylo před týdnem, a nyní skoro litoval, že tentokráte zavolali oddělení vražd z dobrého důvodu. Pokojská, jata obavami o zdraví sekýrujícího hosta, absolvovala tedy cestu, kterou asi deset minut před ní vykonala Zuzán: dolů do haly, ven z hotelu a vnějším schodištěm na terasu. Dveře z terasy našla otevřené a uvnitř u postele hosta udeřeného do hlavy tak silně, že bylo po něm.
+Vraždu objevila pokojská. V devět hodin si vzpomněla, že měla pánovi v apartmá na terase donést vyžehlené kalhoty a že na to zapomněla. Bylo jí divné, že se jich nedomáhal; patřil do kategorie rozčilujících se hostů. Když mu je donesla, pán byl v pokoji zamčený a na klepání neodpovídal. Pokojskou napadlo, jestli se mu neudělalo špatně a neomdlel. Neznělo to z jejích úst pravděpodobně, a Niels C. Kölln, detektiv z oddělení vražd, jemuž případ přidělili jako jeho první homicidium, se rozpomněl na učebnici kriminální psychologie a usoudil, že pokojská se spíš domýšlela nemravných věcí a chtěla se na ně podívat oknem z terasy. Připadalo mu to neskutečné, neboť měl za sebou přísně kalvínskou výchovu a o některých funkcích lidského těla se dozvěděl teprve při hodině pohlavní výchovy, jenže tenkrát profesorovi nevěřil. Uvěřil, teprve když jistý mladý pán, nalézající se v situaci označované profesorem pohlavní výchovy jako _penis captivus__,_ zavolal na policii, ze studu však ohlásil vraždu. Kupodivu, pro kalvínského detektiva to neznamenalo šok, ale poněkud opožděné probuzení v podstatě zdravého zájmu. To bylo před týdnem, a nyní skoro litoval, že tentokráte zavolali oddělení vražd z dobrého důvodu. Pokojská, jata obavami o zdraví sekýrujícího hosta, absolvovala tedy cestu, kterou asi deset minut před ní vykonala Zuzán: dolů do haly, ven z hotelu a vnějším schodištěm na terasu. Dveře z terasy našla otevřené a uvnitř u postele hosta udeřeného do hlavy tak silně, že bylo po něm.
 
 Detektiv Niels C. Kölln si dal všechno dohromady přesně tak, jak to předpověděla plavovláska, provedl zatčení a ocitl se v transu. Ještě nikdy předtím si nevšiml, že některé mladé dívky mají ve tváři dolíčky. Přesto však do Stockholmu letěl telegram, nařizující zadržení svědka Lundquistové. Směřovala tam rychlíkem, v němž seděl také pán, který si říkal MacMac, ale o něm se telegram nezmiňoval.
 
@@ -495,7 +496,7 @@ Detektiv sebou škubnul a přikývl.
 
 „To já si asi nevzpomenu. Ale –“ zaváhala, „– ale dybyste snad zatim zjistil, proč, dyž byly dvéře na terasu votevřený, proč vrah vyříz támhletu díru?“ Prst se stříbrným nehtem ukázal na dokonale odvedenou práci, o níž detektiv, na rozdíl od plavovlásky, netušil, že ji odvedl pán, který si říkal MacMac. Dívka ho na ni upozornila, aby zakryla stopy, jež příliš nápadně směřovaly k zatčené. Dolíčky ve tvářích zločinkyně ovšem detektiva dávno přesvědčily, že je nevinná. Jenže to zas netušila zpěvačka.
 
-\* \* \*
+* * *
 
 Odešla a detektiv, poněkud zahanbený tím, že si nezvyklého významu celkem běžné díry v okně sám nevšiml, se věnoval tomu suvenýru na záhadného pána. Přes fatální indispozici, která do kriminalistické práce nepatří, dospěl nakonec k částečně správnému závěru, že okno vyřízl vrah, protože dveře byly zevnitř na závoru. Teprve když spáchal čin, odsunul závoru a uprchl dveřmi.
 
@@ -519,7 +520,7 @@ A rozběhla se za pikolíkem.
 
 Pikolík se dal na útěk.
 
-\* \* \*
+* * *
 
 Co mladému detektivovi chybělo na dedukčních schopnostech, nahradil prací nohou. Za chvíli stál pikolík v lati před Nielsem C. Köllnem a před plavovláskou a snažil se vzpomenout si na svoje alibi.
 
@@ -541,11 +542,11 @@ Niels C. Kölln nechápal, ale místo k pokoře přivedlo ho to k popuzenosti.
 
 * * *
 
-Vy zajisté také, milí čtenáři, takže snadno vydedukujete kdo, také proč, ale hlavně jak_?_ Je to samozřejmě Záhada zamčeného pokoje. Jenže pozor! Žádné hádání! Dedukce!
+Vy zajisté také, milí čtenáři, takže snadno vydedukujete _kdo_, také _proč_, ale hlavně _jak__?_ Je to samozřejmě Záhada zamčeného pokoje. Jenže pozor! Žádné hádání! Dedukce!
 
 * * *
 
-\* \* \*
+* * *
 
 Otočili se ke dveřím, jež vedly do chodby ke sklepu, když vtom zazvonilv recepci telefon. Uředník jej zvedl, a potom – významně nahlas – pravil:
 
@@ -593,7 +594,7 @@ Jeden velice mohutný kvádr zazněl dutě. Blondýnka se usmála, zdálo se, ž
 
 Drobná ruka se stříbrnými nehty se přitiskla na okraj mohutného kvádru. Zaskřípělo to, kvádr se otočil kolem svislé osy. Ukázalo se, že to je pouze tenká kamenná deska, zevnitř zpevněná železnou konstrukcí a usazená na dvou železných čepech. Za ní se černal veliký otvor vedoucí kamsi do nitra budovy.
 
-\* \* \*
+* * *
 
 „Ne,“ říkala profesorka. Stáli před tajnou chodbou a dívka, která byla nejenom zvědavá a chytrá, ale měla taky pochopení pro cizí strádání, poznala, že detektiv je zahanben. Rozhodla se tedy, že než provede konečný důkaz o nevině své společnice, zasvětí detektiva do tajů případu, který měl vyřešit. „Kdo je MacMac, nemám tušení,“ pokračovala. „A kdo to mluví na pásce, taky nevím. Ale ta páska pro ni má jasně velkou cenu, a ten panák, co ho vodškrtli –“
 
@@ -645,7 +646,7 @@ Detektiv se ulekl.
 
 Zarůžovělý Niels C. Kölln ji pokorně následoval.
 
-\* \* \*
+* * *
 
 Na žebříku si však vyměnili místa. Detektiv usoudil, že blondýnce v minisukních to tak bude příjemnější. Opět se mýlil. Plavovláska neměla kalvínské vychování. Stoupali po žebříku a detektiv svítil baterkou. Asi po deseti metrech šachta končila dvířky v boční stěně. Byla zavřená na petlici.
 
@@ -669,7 +670,7 @@ Nyní už chytrý čtenář také pochopil, proti kterému bodu Knoxova Desatera
 
 * * *
 
-\* \* \*
+* * *
 
 Plavovláska se zfeminizovala. „Ne a ne a ne!“ vztekala se, když opět seděli ve sklepě a detektiv se v duchu radoval z neúspěchu, z čehož měl zároveň výčitky puritánského svědomí. „Ne a ne! Jinak to neni možný! Četla sem to v jedný detektivce, a ten autor na to je specialista! Ňákej Carr nebo Dickson nebo jak! Záhada zamčenýho pokoje má známej počet řešení a na tenhle mord se nehodí žádný jiný než tohle!“
 
@@ -695,7 +696,7 @@ Dívka se rázem defeminizovala.
 
 Detektivovo sebevědomí se zhroutilo.
 
-\* \* \*
+* * *
 
 Druhá tajná chodba je dovedla k cíli, do apartmá, kde trapně skonal Sören Lundquist, a psychopatický podomek byl ještě tu noc zatčen. Jeho pohnutky byly skutečně identické s pohnutkami člena závodní stráže v Komárně, o němž plavovlásce vyprávěl sentimentální poručík. Dívku potěšilo, že adjektiva „hodná“ užila Zuzán v nepřeneseném smyslu. Biskupské gymnázium ji sice v oblasti těchto vztahů nepoznamenalo zvláštní zdrženlivostí, spíš jenom latinou, a kdyby bývala měla nějaký erb, asi by na něm stálo heslo: _Sunt certim denique…_ Zprávu o vraždě přinesly druhý den stockholmské večerníky a plavovlásce nastaly všední dny barové fušky. Večer co večer stála u mikrofonu a melodickým altem zvěstovala světu věčné pravdy o věčných, protože banálních, problémech, jež příliš nevzrušují mocné tohoto světa, snad proto, že na nich nejde tak dobře postavit kariéra.
 
@@ -703,6 +704,8 @@ Tragedy, tragedy!
 Here’s my catastrophy!  
 Tragedy, tragedy!  
 My man’s gone from me…
+
+  
 
 Po její levici dul obvykle sexuálně vyhladovělý Švéd do tenorsaxofonu, po pravici obvykle přiopilý Dán do trubky, za ní brnkal obvykle nadopovaný černý Američan na elektrofonickou basu a rezignovaný muž bez státní příslušnosti, obvykle se sklonem k těžkým blues, tremoloval na elektrických varhanách. V tomto malém symbolu století obsluhovala zpěvačka navíc bicí nástroje: módním střevíčkem šlapala charlestonky, košťátky v rukou s postříbřenými nehty lechtala malý bubínek, občas udeřila do velkého činelu, a zpívala:
 
@@ -712,6 +715,8 @@ Stop the whole month of June!
 Stop the band, stop this tune!  
 My man’s gone!
 
+  
+
 Tu sezónu bylo takové obsazení v módě a mimoto za to měla desetiprocentní příplatek. Kromě toho ušetřil majitel baru devadesát procent za bubeníkovu gáži. A plavovláska zpívala:
 
 Stop the trains everywhere!  
@@ -720,6 +725,8 @@ Stop the clouds on the go!
 Stop each loud radio!  
 I demand: Stop the show!  
 My man’s gone!
+
+  
 
 Večer co večer předváděla také černovláska s dolíčky ve tvářích platícímu publiku decentně, nicméně úplně, své tělíčko. Na Pragokoncertu to vedli jako taneční výstup v národním kroji a příplatek za totální odložení kroje šel do brunetčiny vlastní kapsy. Téměř každý večer pozoroval výstup bez národního kroje i detektiv Niels C. Kölln.
 
@@ -732,7 +739,7 @@ Where can my man be?
 
 A pořád čekala.
 
-\* \* \*
+* * *
 
 Dočkala se. Nikoli muže. Neuběhlo ani čtrnáct dní a jednou ráno seděl v hotelové hale starší stařec a pohledná mladá paní s hlavou v obrovité bílé kouli.
 
@@ -766,7 +773,7 @@ Plavovláska se usmála.
 
 Otočila se a odešla přes halu k turniketu, jímž proudilo světlo líbezného severského rána.
 
-\* \* \*
+* * *
 
 Než tam došla, turniket vyplivl do haly mladou dvojici v tenisových úborech. Přes tu kamufláž zpěvačka snadno poznala detektiva. Krátkou sukénku, jež odhaluje dívčí stehna až tam, kde dle folklórního úsloví jsou některé dámy veselé, nemusela poznávat. Otočila se a skryla se za palmu v kořenáči. Když tenisti zmizeli na schodišti, přistoupila k recepci a oslovila úředníka:
 

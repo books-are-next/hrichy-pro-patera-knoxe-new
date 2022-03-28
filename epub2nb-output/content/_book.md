@@ -2,18 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Hříchy pro pátera Knoxe
   identifier: f5b7cf6c-4315-4661-a335-ddb82f8fa509
   author: Josef Škvorecký
   publisher: Městská knihovna v Praze
   modified: '2017-05-18T00:00:00.000Z'
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
-  - hrichy_pro_patera_knoxe_001.html
   - hrichy_pro_patera_knoxe_002.html
-  - hrichy_pro_patera_knoxe_003.html
-  - hrichy_pro_patera_knoxe_004.html
   - hrichy_pro_patera_knoxe_005.html
   - hrichy_pro_patera_knoxe_006.html
   - hrichy_pro_patera_knoxe_007.html
@@ -45,10 +46,18 @@ readingOrder:
   - hrichy_pro_patera_knoxe_033.html
   - hrichy_pro_patera_knoxe_034.html
   - hrichy_pro_patera_knoxe_035.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: hrichy_pro_patera_knoxe_005.html
+        title: Věnování
+        hiddenTitle: true
+      - link: hrichy_pro_patera_knoxe_006.html
+        title: Slovo autora
+        hiddenTitle: true
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

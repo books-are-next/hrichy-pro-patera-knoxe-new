@@ -1,8 +1,7 @@
 ---
+title: Ženské za volantem
 contentType: prose
 ---
-
-## Ženské za volantem
 
 Hřích třetí
 
@@ -10,22 +9,22 @@ Whodunit
 
 Osoby, jak přicházejí na scénu:
 
-Zpěvačka z baru Orient: neuměla dobře italsky
+**Zpěvačka z baru Orient**: neuměla dobře italsky
 
-Laura: velmi zapůsobila na kapitána
+**Laura**: velmi zapůsobila na kapitána
 
-Dánka: stopla muže v červeném autě
+**Dánka**: stopla muže v červeném autě
 
-Hercule Potarot: neudělal příliš velkou čest svému téměř jmenovci
+**Hercule Potarot**: neudělal příliš velkou čest svému téměř jmenovci
 
 Playboyové; jeden z nich to byl:  
 
-Fillippo Terra
+**Fillippo Terra**
 
-Giovanni Pelotta
+**Giovanni Pelotta**
 
-Sergio Volante
+**Sergio Volante**
 
-Pignolo
+**Pignolo**
 
-Sylvestri
+**Sylvestri**

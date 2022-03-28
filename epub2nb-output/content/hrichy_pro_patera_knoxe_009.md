@@ -1,4 +1,5 @@
 ---
+title: ''
 contentType: prose
 ---
 
@@ -14,19 +15,21 @@ Ale všechno přece opravdu svědčilo proti ní. Pitva neklamně prokázala př
 
 A kromě toho měla klasický motiv ke klasické vraždě jedem. Věty protokolu uvízly poručíkovi přesně v paměti:
 
-PROKURÁTOR: Slečno svědkyně, vyprávějte nám, co jste uviděla v úterý 7. června asi ve tři hodiny odpoledne na chodbě před šatnou režiséra Weyra.
+_PROKURÁTOR: Slečno svědkyně, vyprávějte nám, co jste uviděla v úterý 7. června asi ve tři hodiny odpoledne na chodbě před šatnou režiséra Weyra._
 
-SVĚDKYNĚ: Šla jsem právě z maskérny, a jak jdu kolem dveří pana režiséra, najednou z nich vyletí Adamová, celá ubrečená.
+_SVĚDKYNĚ: Šla jsem právě z maskérny, a jak jdu kolem dveří pana režiséra, najednou z nich vyletí Adamová, celá ubrečená._
 
-PROKURÁTOR: Slyšela jste, že by obžalovaná při té příležitosti něco řekla?
+_PROKURÁTOR: Slyšela jste, že by obžalovaná při té příležitosti něco řekla?_
 
-SVĚDKYNĚ: Slyšela. Mezi dveřma se otočila a dovnitř řekla, přesně teda zaječela: „Počkej ty –“ – řekla hrozně sprostý slovo –
+_SVĚDKYNĚ: Slyšela. Mezi dveřma se otočila a dovnitř řekla, přesně teda zaječela: „Počkej ty –“ – řekla hrozně sprostý slovo –_
+
+  
 
 „Je to fakt, pane poručíku,“ řekla dívka v kabátci z kobercové látky. „I když se teda dnes tomu sama divím. I při mym poměrně mladym věku už bych měla mít rozum. Jenže co je to platný, ženská ho prostě někdy nemá. Já můžu mít hlavu jako účetní, jako že mám, a pak na mě sedne růžový opojení a chovám se jak Svéhlavička. To vy neznáte.“
 
 Poručíkovi takový stav ovšem neznám nebyl. Chtěl něco poznamenat, ale dívka ho nepustila ke slovu.
 
-„A kdybych to tomu holomkovi aspoň byla udělala. Kdybych ho aspoň měla na svědomí jako Šura –“ zarazila se.
+„A kdybych to tomu holomkovi aspoň byla udělala. Kdybych ho aspoň _měla_ na svědomí jako Šura –“ zarazila se.
 
 „Jako kdo?“ zeptal se poručík ostražitě.
 
@@ -54,7 +57,9 @@ Poručíkovi takový stav ovšem neznám nebyl. Chtěl něco poznamenat, ale dí
 
 Poručík neviděl v té chvíli ty oči, ale ten článek a ty fotografie:
 
-Role sourozenců svěřil režisér Weyr zajímavé dvojici. Bratra bude hrát Petr Weyr, studující DAMU, režisérův syn, jeho sestru mladá studentka medicíny Petra Hejduková. Už shoda křestních jmen má jistý půvab, ale ještě pozoruhodnější je jiná okolnost. Třebaže pan Weyr ml. má na křestním listě uveden jako rok narození 1948 a slečna Hejduková 1949, jsou ve skutečnosti stejně staří. Petr Weyr se totiž narodil několik minut před půlnocí na Silvestra 1948, zatímco Petra Hejduková spatřila světlo světa několik minut po půlnoci 1. ledna 1949. Bůhví, není-li v tom něco osudového…
+_Role sourozenců svěřil režisér Weyr zajímavé dvojici. Bratra bude hrát Petr Weyr, studující DAMU, režisérův syn, jeho sestru mladá studentka medicíny Petra Hejduková. Už shoda křestních jmen má jistý půvab, ale ještě pozoruhodnější je jiná okolnost. Třebaže pan Weyr ml. má na křestním listě uveden jako rok narození 1948 a slečna Hejduková 1949, jsou ve skutečnosti stejně staří. Petr Weyr se totiž narodil několik minut před půlnocí na Silvestra 1948, zatímco Petra Hejduková spatřila světlo světa několik minut po půlnoci 1. ledna 1949. Bůhví, není-li v tom něco osudového…_
+
+  
 
 Tak to napsala, i se třemi tečkami, paní redaktorka Malinovská ve Vlastě, v tom časopise pro ženy, sice socialistické, ale přesto ženy.
 
@@ -68,41 +73,45 @@ Tak to napsala, i se třemi tečkami, paní redaktorka Malinovská ve Vlastě, 
 
 To poručík věděl. Dramatický sled neblahých událostí zachycovaly soudní spisy.
 
-PROKURÁTOR: Vy, slečno Synková, jste tedy pracovala ve štábu pana režiséra Weyra jako takzvaná klapka. Můžete nám vylíčit, jak se vám jevilo chování zavražděného k obžalované ve středu 8. Června, tedy den po tom, co došlo k výstupu na chodbě před Weyrovou šatnou, jak nám to popsala svědkyně Moselová?
+_PROKURÁTOR: Vy, slečno Synková, jste tedy pracovala ve štábu pana režiséra Weyra jako takzvaná klapka. Můžete nám vylíčit, jak se vám jevilo chování zavražděného k obžalované ve středu 8. Června, tedy den po tom, co došlo k výstupu na chodbě před Weyrovou šatnou, jak nám to popsala svědkyně Moselová?_
 
-SVĚDKYNĚ: Pan režisér byl od rána ve špatný náladě a nejvíc to schytávala Adamová, myslím obžalovaná. Ona měla ten den první dva záběry. Pan režisér na ni, no ne, on nekřičel, ale mluvil tak ironicky, víte? Shazoval ji. Třeba jí řek: ‚Proboha, slečno, když už se to nedá spravit maskováním, musí se aspoň podle intonace zdát, že je vám pětadvacet!‘
+_SVĚDKYNĚ: Pan režisér byl od rána ve špatný náladě a nejvíc to schytávala Adamová, myslím obžalovaná. Ona měla ten den první dva záběry. Pan režisér na ni, no ne, on nekřičel, ale mluvil tak ironicky, víte? Shazoval ji. Třeba jí řek: ‚Proboha, slečno, když už se to nedá spravit maskováním, musí se aspoň podle intonace zdát, že je vám pětadvacet!‘_
 
-PROKURÁTOR: Jak na to reagovala obžalovaná?
+_PROKURÁTOR: Jak na to reagovala obžalovaná?_
 
-SVĚDKYNĚ: Normálně. Rozbrečela se. Ona měla vůbec celej den vlhko v optice. Museli ji v jednom kuse přepudrovávat a –
+_SVĚDKYNĚ: Normálně. Rozbrečela se. Ona měla vůbec celej den vlhko v optice. Museli ji v jednom kuse přepudrovávat a –_
 
-PROKURÁTOR (přerušuje svědkyni): Prosím?
+_PROKURÁTOR (přerušuje svědkyni): Prosím?_
 
-SVĚDKYNĚ: Prosím?
+_SVĚDKYNĚ: Prosím?_
 
-PROKURÁTOR: Říkala jste něco o optice.
+_PROKURÁTOR: Říkala jste něco o optice._
+
+  
 
 Nic tak zavánějícího špionáží na dívku sice neprasklo, ale stejně to s ní skončilo špatně. Poručík hleděl na její bledou tvář a najednou si uvědomil, že ji v duchu označuje pojmem ‚dívka‘, ačkoliv mohla být Zuzančinou matkou. Nemohl si však pomoci. Nebyla, věkem nebo bůhvíčím, z kategorie paní Borůvkové. Uvědomil si nebezpečí toho, spojuje-li se žena trestančina věku muži jeho věku v duchu s tím oroseným slovíčkem, zatřásl hlavou a usilovně zavzpomínal na jiné místo soudního protokolu, kde se znovu hovořilo o optice:
 
-PROKURÁTOR: Vy tedy, pane svědku, bydlíte ve vile, z níž je přímý výhled na vilu obžalovaného.
+_PROKURÁTOR: Vy tedy, pane svědku, bydlíte ve vile, z níž je přímý výhled na vilu obžalovaného._
 
-SVĚDEK: Ano, prosím, rovnou přes ulici. Mám tam na terase dalekohled, dělám amatérsky do astronomie –
+_SVĚDEK: Ano, prosím, rovnou přes ulici. Mám tam na terase dalekohled, dělám amatérsky do astronomie –_
 
-PROKURÁTOR: Co jste viděl večer den před vraždou, to jest v úterý, v okně prvního poschodí?
+_PROKURÁTOR: Co jste viděl večer den před vraždou, to jest v úterý, v okně prvního poschodí?_
 
-SVĚDEK: Tam má – nebo měl – pan režisér ložnici. Už bylo tma, asi v devět se tam najednou rozsvítilo. Já se zrovna koukal na večernici, a v tý ložnici jsem uviděl támhle slečnu –
+_SVĚDEK: Tam má – nebo měl – pan režisér ložnici. Už bylo tma, asi v devět se tam najednou rozsvítilo. Já se zrovna koukal na večernici, a v tý ložnici jsem uviděl támhle slečnu –_
 
-PROKURÁTOR: Obžalovanou?
+_PROKURÁTOR: Obžalovanou?_
 
-SVĚDEK: Ano. Ruku měla na vypínači, ale vtom za ní přišel pan režisér a zase zhas. Pak se přes vokna zatáhly záclony a zase se rozsvítilo.
+_SVĚDEK: Ano. Ruku měla na vypínači, ale vtom za ní přišel pan režisér a zase zhas. Pak se přes vokna zatáhly záclony a zase se rozsvítilo._
 
-PROKURÁTOR: A neslyšel jste nic?
+_PROKURÁTOR: A neslyšel jste nic?_
 
-SVĚDEK: Slyšel, to ale až pozdějc. Tak kolem jedenáctý. Naproti ve vile dělala nějaká ženská divy.
+_SVĚDEK: Slyšel, to ale až pozdějc. Tak kolem jedenáctý. Naproti ve vile dělala nějaká ženská divy._
 
-PROKURÁTOR: Chtěl jste říct: křičela?
+_PROKURÁTOR: Chtěl jste říct: křičela?_
 
-SVĚDEK: Jo, křičela. Bylo to slyšet až ke mně do ložnice.
+_SVĚDEK: Jo, křičela. Bylo to slyšet až ke mně do ložnice._
+
+  
 
 „Nojo,“ pravila dívka. „Feminizace na úrovni naprostý primitivizace. Já mu tam totiž přišla hodit tu roličku do ksiftu. Měla sem takovou uhozenou teorii, že tim ho naštvu, ponivač bude muset ty dva záběry přetáčet s ňákou jinou a to stojí prachy.“
 
@@ -124,25 +133,29 @@ Poručík nechápal, ale přikývl.
 
 Poručík ovšem věděl, proč se režisér rozhodl rozbít tu ideální dvojici mláďat k zulíbání, půvabnou téměř incestuálně. I o tom byla ve spisech naprosto věrohodná historka:
 
-Vlasta, ten časopis, se mi dostal do ruky v pondělí. Přinesla mi ji do ordinace jedna pacientka, jestli prý jsem to už viděl, a když já, že ne, tak abych se prý podíval, jak to Petrušce pěkně sluší. Byl tam ten článek, že naši Petru obsadil Weyr, aby hrála s jeho synem ve filmu. Jenomže něco takového jsem nemohl připustit. Proč? Podívejte se. V naší rodině se doktorské řemeslo dědí. Už pradědeček byl doktor, a děda, a můj otec taky. Já jsem první, kdo nemá syna. Nemohl jsem bohužel mít děti, trpím testikulární azoospermií, chci říct, že už jsem nemohl mít víc dětí. Štafetu musela proto převzít Petruška. Ale ona to udělala docela ráda. Už odmalička chtěla být doktorkou. A první ročník na fakultě jí dopad výborně. A teď se do toho, prosím vás, vžijte: Taková holka, hezká, veselá, výborná medička, a najednou se dostane k filmu. To jsem vám zapomněl říct jednu důležitou věc. Její matka, moje nebožka žena, byla herečka. Ne, že bych přeceňoval dědičnost, ale prostředí dělá hodně. Doma žila Petra pořád, abych tak řek, v ovzduší dezinfekce – a kdyby teď přičichla k filmu, ke slávě – ne. To jsem nechtěl riskovat. Tak jsem se vypravil za Rudou. Správně, za Weyrem. My jsme staří známí, ještě z gymplu, a s jeho manželkou vlastně Rudu seznámila moje první nebožka žena. Stýkali jsme se ještě nějakou dobu po jejich svatbě. Hráli jsme tenis, jezdili na chatu, jak to tak bývá. Ale Ruda pak dostal angažmá v Praze – to víte, jakoupak budoucnost má filmový režisér v Brně, jeho tchán byl šéfem nějaké tvůrčí skupiny na Barrandově. Tak naše styky přestaly. Mě sice pak přeložili do Pardubic, jenže to znáte. Už nebyl čas. Jednou dvakrát jsem se s Rudou viděl, když jsem byl služebně v Praze. Jinak nic. Děti se prakticky neznaly. A tak jsem se tedy za ním vypravil. On dal tu roli Petře stejně jen proto, aby mi udělal radost. Ale když jsem mu všechno vyložil, jak se bojím, aby z Petry nebyla mizerná filmová hvězda, když z ní může být dobrá doktorka, Ruda to uznal. Petra? Ne, té jsem to neřek. Ruda mi slíbil, že on jí to taky neřekne. Že se vymluví na kamerové zkoušky nebo na co. Že Petra není fotogenická. Že je? To já vím. Až moc. Je to moje dcera, ale snad to smím říct a nebude to vypadat jako sebechvála. Kdyby to nebyla moje dcera a kdyby mně bylo o čtvrtstoletí míň – no jo, uhod jste. Toho jsem se taky bál. Petr je kluk jako panna. A vyštudovat medicínu, to se dá těžce stihnout s jinýma starostma v hlavě, nebo dokonce s mrnětem v kočárku. Ne ne, já chci z Petry mít doktorku a pro ni taky bude mnohem lepší, když bude umět pořádně diagnostikovat apendicitýdu, místo aby hrála štěky ve filmu nebo obsluhovala nějakého hvězdu manžela. Tak jsem to Rudovi řek všechno tak, jak jsem si to myslel, a on mě poslech.
+_Vlasta, ten časopis, se mi dostal do ruky v pondělí. Přinesla mi ji do ordinace jedna pacientka, jestli prý jsem to už viděl, a když já, že ne, tak abych se prý podíval, jak to Petrušce pěkně sluší. Byl tam ten článek, že naši Petru obsadil Weyr, aby hrála s jeho synem ve filmu. Jenomže něco takového jsem nemohl připustit. Proč? Podívejte se. V naší rodině se doktorské řemeslo dědí. Už pradědeček byl doktor, a děda, a můj otec taky. Já jsem první, kdo nemá syna. Nemohl jsem bohužel mít děti, trpím testikulární azoospermií, chci říct, že už jsem nemohl mít víc dětí. Štafetu musela proto převzít Petruška. Ale ona to udělala docela ráda. Už odmalička chtěla být doktorkou. A první ročník na fakultě jí dopad výborně. A teď se do toho, prosím vás, vžijte: Taková holka, hezká, veselá, výborná medička, a najednou se dostane k filmu. To jsem vám zapomněl říct jednu důležitou věc. Její matka, moje nebožka žena, byla herečka. Ne, že bych přeceňoval dědičnost, ale prostředí dělá hodně. Doma žila Petra pořád, abych tak řek, v ovzduší dezinfekce – a kdyby teď přičichla k filmu, ke slávě – ne. To jsem nechtěl riskovat. Tak jsem se vypravil za Rudou. Správně, za Weyrem. My jsme staří známí, ještě z gymplu, a s jeho manželkou vlastně Rudu seznámila moje první nebožka žena. Stýkali jsme se ještě nějakou dobu po jejich svatbě. Hráli jsme tenis, jezdili na chatu, jak to tak bývá. Ale Ruda pak dostal angažmá v Praze – to víte, jakoupak budoucnost má filmový režisér v Brně, jeho tchán byl šéfem nějaké tvůrčí skupiny na Barrandově. Tak naše styky přestaly. Mě sice pak přeložili do Pardubic, jenže to znáte. Už nebyl čas. Jednou dvakrát jsem se s Rudou viděl, když jsem byl služebně v Praze. Jinak nic. Děti se prakticky neznaly. A tak jsem se tedy za ním vypravil. On dal tu roli Petře stejně jen proto, aby mi udělal radost. Ale když jsem mu všechno vyložil, jak se bojím, aby z Petry nebyla mizerná filmová hvězda, když z ní může být dobrá doktorka, Ruda to uznal. Petra? Ne, té jsem to neřek. Ruda mi slíbil, že on jí to taky neřekne. Že se vymluví na kamerové zkoušky nebo na co. Že Petra není fotogenická. Že je? To já vím. Až moc. Je to moje dcera, ale snad to smím říct a nebude to vypadat jako sebechvála. Kdyby to nebyla moje dcera a kdyby mně bylo o čtvrtstoletí míň – no jo, uhod jste. Toho jsem se taky bál. Petr je kluk jako panna. A vyštudovat medicínu, to se dá těžce stihnout s jinýma starostma v hlavě, nebo dokonce s mrnětem v kočárku. Ne ne, já chci z Petry mít doktorku a pro ni taky bude mnohem lepší, když bude umět pořádně diagnostikovat apendicitýdu, místo aby hrála štěky ve filmu nebo obsluhovala nějakého hvězdu manžela. Tak jsem to Rudovi řek všechno tak, jak jsem si to myslel, a on mě poslech._
+
+  
 
 A ještě několik vět z udivené výpovědi studující medicíny Petry Hejdukové:
 
-To je fakt, mně to bylo divný, že mi tu roli najednou zas vzal. A to o těch kamerovejch zkouškách, to by moh vykládat leda tak nějakejm husičkám z filmáče. Já si myslela, že se namích kvůli tý facce.
+_To je fakt, mně to bylo divný, že mi tu roli najednou zas vzal. A to o těch kamerovejch zkouškách, to by moh vykládat leda tak nějakejm husičkám z filmáče. Já si myslela, že se namích kvůli tý facce._
 
-PROKURÁTOR: Kvůli facce?
+_PROKURÁTOR: Kvůli facce?_
 
-SVĚDKYNĚ: Dala jsem mu facku, když mě vez v taxi z Barrandova. Moc na mně pracoval, a úplně bez dovolení. Tak jsem si řekla, vono to asi bude pravda o těch režisérech, že se za roličku musí jaksi platit činy, rozumíte?
+_SVĚDKYNĚ: Dala jsem mu facku, když mě vez v taxi z Barrandova. Moc na mně pracoval, a úplně bez dovolení. Tak jsem si řekla, vono to asi bude pravda o těch režisérech, že se za roličku musí jaksi platit činy, rozumíte?_
 
-PROKURÁTOR: Nic nezamlčujte!
+_PROKURÁTOR: Nic nezamlčujte!_
 
-SVĚDKYNĚ: Já nemám co. Jenže to mi zas ta rolička za to nestála. Tak jsem se na celou slávu stříbrnýho plátna vykašlala, stejně jsem to kvůli ní měla nahnutý s histolkou a táta by byl strašně smutnej, kdybych pukla u ríga. A už jsem o tom pak ani nepřemejšlela, proč mi vlastně tu roli vzal. Ale –
+_SVĚDKYNĚ: Já nemám co. Jenže to mi zas ta rolička za to nestála. Tak jsem se na celou slávu stříbrnýho plátna vykašlala, stejně jsem to kvůli ní měla nahnutý s histolkou a táta by byl strašně smutnej, kdybych pukla u ríga. A už jsem o tom pak ani nepřemejšlela, proč mi vlastně tu roli vzal. Ale –_
 
-PROKURÁTOR: Dopovězte, prosím!
+_PROKURÁTOR: Dopovězte, prosím!_
 
-SVĚDKYNĚ: No, že ji ale obsadil takovou napodobeninou, to teda - Takže je mi to vlastně teď divný, proč mi tu roli vzal. No, asi mu tamta byla po vůli. Takže –
+_SVĚDKYNĚ: No, že ji ale obsadil takovou napodobeninou, to teda - Takže je mi to vlastně teď divný, proč mi tu roli vzal. No, asi mu tamta byla po vůli. Takže –_
 
-PROKURÁTOR: Děkuji, slečno, to stačí.
+_PROKURÁTOR: Děkuji, slečno, to stačí._
+
+  
 
 „Kdepak, kvůli mně by ji nepřevobsadil,“ vzdychla dívka. „I dyž jinak to byla záhada. Viděl ste tu Laštovičkovou, co jí eště stih osobně angažovat, než – než sem ho, podle vás, voddělala?“
 
@@ -154,7 +167,9 @@ PROKURÁTOR: Děkuji, slečno, to stačí.
 
 A vzpomněl si na výslech režisérova asistenta:
 
-Volal, to bylo v úterý, den před vraždou. Asi v osm večer. Zrovna u mě byla redaktorka Malinovská, tak to hned druhej den dala do Lidový demokracie. Abych okamžitě, ještě v noci, sehnal Laštovičkovou, že převezme tu roli místo Hejdukový. Já chtěl něco namítnout, ale on jenom řek, že Hejdukový to zakázal tatínek a že se s tím nedá nic dělat, a sek s telefonem. Malinovská to pak ráno v novinách rozmázla: Že Petra Hejduková se role vzdala na přání otce. Údajně prý aby jí práce na filmu nepřekážela při studiu. Ale kdo prý ví…
+_Volal, to bylo v úterý, den před vraždou. Asi v osm večer. Zrovna u mě byla redaktorka Malinovská, tak to hned druhej den dala do Lidový demokracie. Abych okamžitě, ještě v noci, sehnal Laštovičkovou, že převezme tu roli místo Hejdukový. Já chtěl něco namítnout, ale on jenom řek, že Hejdukový to zakázal tatínek a že se s tím nedá nic dělat, a sek s telefonem. Malinovská to pak ráno v novinách rozmázla: Že Petra Hejduková se role vzdala na přání otce. Údajně prý aby jí práce na filmu nepřekážela při studiu. Ale kdo prý ví…_
+
+  
 
 „Rozum zůstává stát, viďte? Laštovičková!“ rozhořčovala se dívka. „Vyhodí takovýho cukrouška, jako je ta kráva Hejduková, a najme si vobličejík, kterej de zabírat jenom zezadu, aby se všichni v kině nepolekali. To mi teda vysvětlete!“ Dívka se málem rozohnila, vězeňskou šedí zázračně prosvitla bezmála svěží barva. Je to asi velice živá dívka, zauvažoval poručík. Tím smutněji jí musí být v base. A opět ho bodla výčitka svědomí, že si v tomhle případě trošku zalajdačil.
 
@@ -184,7 +199,7 @@ Zamyslela se, zmlkla. „Prostě nevim,“ řekla. „Asi je to ženskej instink
 
 „Taky bych chtěl,“ pravil poručík, ještě chvíli byl růžový a náhle zrudl. Dívka k němu vzhlédla šedivýma očima a instinkt jí cosi napověděl. Bohužel nebylo to nic, co by mohlo dokázat, že v noci ze středy na čtvrtek z 8. na 9. června nezavraždila režiséra Rudolfa Weyra v jeho vile hyoskinem.
 
-\* \* \*
+* * *
 
 Naopak, všechno ukazovalo na ni. Poručík si to znovu a znovu uvědomoval, když si večer nad jejími spisy zacpával uši, aby neslyšel, jak jeho potomci, osmnáctiletá Zuzanka a třináctiletý Pepíček, holdují vedle bigbeatu. Ne, klapka, kterou si režisér v úterý den před vraždou poslal pro prášky, měla sice příležitost vyměnit jednu uniformní tabletku za jinou, s hyoskinem, ale dokonaleji scházel jak motiv, tak přístup k jedu.
 
@@ -200,7 +215,7 @@ Soudní znalec ovšem v bolestech snadno rozeznal typické příznaky počínaj
 
 20.00 – svědek se vrací k dalekohledu
 
-22.30 – svědek vidí ženskou siluetu, která rozsvítí v ložnici, vejde, „zaváhá“, vrátí se a zhasne. Kdo, chtěl vědět prokurátor, byla ona ženská silueta, když celý červen bydlel Weyr ve vile prokazatelně sám, pouze se synem, který se toho dne vrátil domů až pozdě v noci, takže to nemohla být nějaká jeho přítelkyně. Je zřejmé, že mezi 19.30 a 20.00, kdy svědek byl u večeře, dostavila se k vile nějaká žena a Weyr ji pustil dovnitř. Ledaže ovšem vešla zadním vchodem – pak to mohlo být dřív, nebo spíš později. Možná že chodila vždycky zadem: Weyr se obával prozrazení. Buď jak buď, obžalovaná neprokázala na inkriminovanou dobu alibi – byla prý doma, ale svědky na to neměla, a mohla to tedy docela dobře být – a s největší pravděpodobností to byla, tvrdil prokurátor – ona, jejíž siluetu spatřil astronom ve vile, kde se za staženými záclonami odehrávalo drama. Vyvrcholilo asi kolem půl jedenácté. Tehdy došlo k hádce, rozčilený Weyr poslal obžalovanou do ložnice, aby mu přinesla prášek z dózy na nočním stolku. Na takovou příležitost obžalovaná čekala. Vešla do ložnice, rozsvítila, ale k posteli a k nočnímu stolku vůbec nepřistoupila. Nebylo třeba. Prášek s hyoskinem měla připravený u sebe, chvíli počkala – to se jevilo svědkovi jako „zaváhání“ – potom se vrátila do pracovny a podala prášek Weyrovi. Weyr jej spolkl a obžalovaná brzo nato odešla. Mohlo to být po 23.00, kdy už svědek odešel spát. Ve 24.00, přesně dle jízdního řádu hyoskinu, byl – dle odhadu soudního lékaře – režisér Weyr mrtev.
+22.30 – svědek vidí ženskou siluetu, která rozsvítí v ložnici, vejde, „zaváhá“, vrátí se a zhasne. Kdo, chtěl vědět prokurátor, byla ona ženská silueta, když celý červen bydlel Weyr ve vile prokazatelně sám, pouze se synem, který se toho dne vrátil domů až pozdě v noci, takže to nemohla být nějaká _jeho_ přítelkyně. Je zřejmé, že mezi 19.30 a 20.00, kdy svědek byl u večeře, dostavila se k vile nějaká žena a Weyr ji pustil dovnitř. Ledaže ovšem vešla zadním vchodem – pak to mohlo být dřív, nebo spíš později. Možná že chodila vždycky zadem: Weyr se obával prozrazení. Buď jak buď, obžalovaná neprokázala na inkriminovanou dobu alibi – byla prý doma, ale svědky na to neměla, a mohla to tedy docela dobře být – a s největší pravděpodobností to byla, tvrdil prokurátor – ona, jejíž siluetu spatřil astronom ve vile, kde se za staženými záclonami odehrávalo drama. Vyvrcholilo asi kolem půl jedenácté. Tehdy došlo k hádce, rozčilený Weyr poslal obžalovanou do ložnice, aby mu přinesla prášek z dózy na nočním stolku. Na takovou příležitost obžalovaná čekala. Vešla do ložnice, rozsvítila, ale k posteli a k nočnímu stolku vůbec nepřistoupila. Nebylo třeba. Prášek s hyoskinem měla připravený u sebe, chvíli počkala – to se jevilo svědkovi jako „zaváhání“ – potom se vrátila do pracovny a podala prášek Weyrovi. Weyr jej spolkl a obžalovaná brzo nato odešla. Mohlo to být po 23.00, kdy už svědek odešel spát. Ve 24.00, přesně dle jízdního řádu hyoskinu, byl – dle odhadu soudního lékaře – režisér Weyr mrtev.
 
 Poručík zvedl oči od spisů. Lampa se zeleným stínítkem vydělovala z temna pokoje pouze jeho tvář, kterou laskavější lidé přirovnávali k měsíci, zlomyslnější k vdolku. Fortissimové orgie vedle vyvrcholily, mečivý hlas z televizoru zpíval cosi, zdálo se, o svatém Vítu. Poručík usoudil, že to musí být něco jiného. Jak by se národní svatyně mohla dostat do bigbeatu? Přesto vstal, pootevřel dveře. Uviděl svou dceru Zuzanku, hledící vytřeštěným zrakem na mazaně vypadajícího mladíka, jenž se na obrazovce nechutně kroutil, doprovázen řacháním kytar. V pozadí stál opravdu velechrám – a vtom Zuzanka nahlas podotkla k vedle sedícímu bráškovi:
 
@@ -244,13 +259,17 @@ Dívka zavrtěla hlavou.
 
 „Teď ste mě zdrtil,“ pravila dívka. „To mi teda už nikdo nebude věřit vůbec nic. To je potom už v těchhle záležitostech vopravdu všecko možný.“
 
-\* \* \*
+* * *
+
+  
 
 Netušila, jakou vyslovila pravdu a jak se o ní v průběhu příštích dvou let, která stráví v daleké cizině, dokonale přesvědčí. Ani poručík to tehdy netušil. Obrátil list ve spisech a začetl se do výpovědi režisérova syna. I ta dívce tenkrát přitížila:
 
-Jo, nějakou hádku jsem slyšel. Jenom matně, mám pokoj v podkroví a otcovy milenky mě nezajímaj. Nějaká ženská tam ječela. Jestli obžalovaná, to nevím. Ženský, když ječej, mají úplně všechny úplně stejnej hlas. Jo. To bylo v úterý. Ve středu jsem to trochu natáh, vrátil jsem se až po půlnoci. To už bylo ve vile ticho. A ráno jdu vzbudit tátu, protože máma je už víc jak měsíc v Poděbradech. Měli jsme jet brzo do aťasu, a on tam ležel a bylo jaksi po něm. Já jinak vydržím dost – ale když jsem poznal, že je táta studenej, udělalo se mi nalevačku. Málem jsem tam omdlel.
+_Jo, nějakou hádku jsem slyšel. Jenom matně, mám pokoj v podkroví a otcovy milenky mě nezajímaj. Nějaká ženská tam ječela. Jestli obžalovaná, to nevím. Ženský, když ječej, mají úplně všechny úplně stejnej hlas. Jo. To bylo v úterý. Ve středu jsem to trochu natáh, vrátil jsem se až po půlnoci. To už bylo ve vile ticho. A ráno jdu vzbudit tátu, protože máma je už víc jak měsíc v Poděbradech. Měli jsme jet brzo do aťasu, a on tam ležel a bylo jaksi po něm. Já jinak vydržím dost – ale když jsem poznal, že je táta studenej, udělalo se mi nalevačku. Málem jsem tam omdlel._
 
-Ovšem neomdlel. Zavolal na policii a omdlel někdo jiný. A poručík, když v reminiscencích dospěl až sem, náhle jako by ožil. Vymrštil se z lenošky a zazíral do tmy pokoje. Před sebou, v místech, kde se na stěně slabě lesklo zarámované osvědčení vzorného pracovníka VB, uviděl tvář mladého Weyra, tu, na níž Zuzanka shledala jen nezajímavé, jalové hezounství. A pak mu vedle ní, před zrakem fantazie, naskočil obličej lékařovy dcery, permanentně a trochu příliš promyšleně udivený, jak říká: „…takovou napodobeninou, to teda – Takže je mi to vlastně teď divný, proč mi tu roli vzal…“ A poté oba obličeje zmizely a objevila se dívka v šatech z kobercové látky, to už neseděla za stolem, stála, podávala mu zmozolnatělou ruku, trápila ho šedivýma očima a na něco si vzpomněla: „Teď mi to došlo, pane poručíku – dejte mi tu fotku! No tu těch dvou nádherů.“ A když jí poručík ještě jednou podal výstřižek z novin, zahleděla se naň upřeně a pokračovala: „No jasně. Už to vim, co mně na těch dvou bylo divný. Mrkněte na to!“ Vrátila fotografii poručíkovi.
+  
+
+Ovšem neomdlel. Zavolal na policii a omdlel někdo jiný. A poručík, když v reminiscencích dospěl až sem, náhle jako by ožil. Vymrštil se z lenošky a zazíral do tmy pokoje. Před sebou, v místech, kde se na stěně slabě lesklo zarámované osvědčení vzorného pracovníka VB, uviděl tvář mladého Weyra, tu, na níž Zuzanka shledala jen nezajímavé, jalové hezounství. A pak mu vedle ní, před zrakem fantazie, naskočil obličej lékařovy dcery, permanentně a trochu příliš promyšleně udivený, jak říká: _„…takovou napodobeninou, to teda – Takže je mi to vlastně teď divný, proč mi tu roli vzal…“_ A poté oba obličeje zmizely a objevila se dívka v šatech z kobercové látky, to už neseděla za stolem, stála, podávala mu zmozolnatělou ruku, trápila ho šedivýma očima a na něco si vzpomněla: „Teď mi to došlo, pane poručíku – dejte mi tu fotku! No tu těch dvou nádherů.“ A když jí poručík ještě jednou podal výstřižek z novin, zahleděla se naň upřeně a pokračovala: „No jasně. Už to vim, co mně na těch dvou bylo divný. Mrkněte na to!“ Vrátila fotografii poručíkovi.
 
 Poručík mrkl, ale nechápal.
 
@@ -268,17 +287,17 @@ Poručík upřel modré oči do prázdna, lehounce se usmál, potom však rychle
 
 * * *
 
-Nyní máte v ruce dostatek stop. Vezmete-li také v úvahu, že v povídce se hřeší proti jednomu z přikázání pátera Knoxe, nebude pro vás těžké označit pachatele a motiv činu. Ovšem je třeba vydedukovat, nikoliv uhádnout!
+Nyní máte v ruce dostatek stop. Vezmete-li také v úvahu, že v povídce se hřeší proti jednomu z přikázání pátera Knoxe, nebude pro vás těžké označit pachatele a motiv činu. Ovšem je třeba _vydedukovat_, nikoliv _uhádnout!_
 
 * * *
 
-\* \* \*
+* * *
 
 Opět seděla proti němu a zase byl mezi nimi stůl, jenomže tentokrát mramorový stolek secesní kavárny Paříž, a šedivé oči lemovalo sice obludné, ale zato krásně profesionální malování, jaké bylo právě v módě. Z jejich skutečných let prozrazovala nyní tvář jen něco kolem dvou třetin a poručík se opékal na rožni potlačovaného citu. Nedalo se s tím nic dělat. Marně si připomínal jinou dívku, shodou okolností také Evu, tu, co si vzala mozkového chirurga. Ačkoliv jejich vztah by obstál i před nejpřísnějším zpovědníkem, stala se přesto – s přičiněním žárlivého praporčíka Málka – příčinou obrovského a patetického domácího vystoupení paní Borůvkové, předváděného po několik dní s pravým italským elánem. Při té vzpomínce se poručík otřásl, ale pohlédnuv na dosud pobledlou tvář před sebou, zkrášlenou ještě čerstvým zásahem kadeřníka, peklo vzpomínky ustoupilo trýznivému ráji přítomnosti. Altem, jenž prozrazoval zpěvačku, říkala dívka s obdivem:
 
 „Pane poručíku! To je teda eště neuvěřitelnější než ten člen závodní stráže!“
 
-„Upozorňoval jsem vás, že – ehm – in eroticis_,“_ poručík si vlastních zbytků učeneckého jazyka dovolil použít jen proto, že dívka měla klasické gymnázium. Nějakého vytahování byl dalek. _„In eroticis_ není – pokud jde o kriminalistiku – nic vyloučeno. Ona,“ pravil, „se sice dávno smířila s jeho milenkami i s tím, že už ji nemiluje. Ale s čím se smířit nemohla, bylo poznání, že ji vůbec nikdy nemiloval. Ani hned po svatbě, když o jeho citu byla pevně přesvědčena. Že si ji nevzal z lásky, ale kvůli jejímu otci, kterého potřeboval ke kariéře.“
+„Upozorňoval jsem vás, že – ehm – _in eroticis__,“_ poručík si vlastních zbytků učeneckého jazyka dovolil použít jen proto, že dívka měla klasické gymnázium. Nějakého vytahování byl dalek. _„_In eroticis__ není – pokud jde o kriminalistiku – nic vyloučeno. Ona,“ pravil, „se sice dávno smířila s jeho milenkami i s tím, že už ji nemiluje. Ale s čím se smířit nemohla, bylo poznání, že ji _vůbec nikdy_ nemiloval. Ani hned po svatbě, když o jeho citu byla pevně přesvědčena. Že si ji nevzal z lásky, ale kvůli jejímu otci, kterého potřeboval ke kariéře.“
 
 „A to jí stačilo jenom to, aby to poznala?“
 

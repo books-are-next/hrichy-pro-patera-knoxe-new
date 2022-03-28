@@ -1,28 +1,32 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Hříchy pro pátera Knoxe",
       "identifier": "f5b7cf6c-4315-4661-a335-ddb82f8fa509",
       "author": "Josef Škvorecký",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2017-05-18T00:00:00.000Z"
+      "modified": "2017-05-18T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "e-booknadpis ",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis",
+      "h2": "",
       "h3": "",
       "h4": "",
-      "hr": "",
+      "hr": "e-bookhvezdickystred e-bookhvezdickystred1 ",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "e-bookodsazeniodstavcepred e-bookodsazeniodstavcepred1 e-bookprozatextbezpredsazeniprvradku e-bookprozatextbezpredsazeniprvradku1 ",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "blockquote": "e-bookvenovani e-bookvenovanicxspmiddle ",
+      "figure": "",
+      "em": "e-bookdopiskurziva e-bookdopiskurzivabezpredsazeni e-bookprozatextkurziva e-bookprozatextkurzivabezpredsazeniprvradku e-bookprozatextkurzivadoprava e-booktirazacitacetextkurzivachar ",
+      "strong": "e-bookprozatextuprostredtucne e-booktirazautoradilo e-bookosoby e-bookosobychar",
       "remove": "",
       "ignore": ""
     },
@@ -30,17 +34,19 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "hrichy_pro_patera_knoxe_001.md",
             "xhtml": "hrichy_pro_patera_knoxe_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_002.md",
@@ -48,32 +54,35 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_003.md",
             "xhtml": "hrichy_pro_patera_knoxe_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_004.md",
             "xhtml": "hrichy_pro_patera_knoxe_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_005.md",
@@ -84,7 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "hrichy_pro_patera_knoxe_006.md",
@@ -95,7 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Slovo autora"
           },
           {
             "filename": "hrichy_pro_patera_knoxe_007.md",
@@ -106,7 +119,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_008.md",
@@ -117,7 +131,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_009.md",
@@ -128,7 +143,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_010.md",
@@ -139,7 +155,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_011.md",
@@ -150,7 +167,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_012.md",
@@ -161,7 +179,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_013.md",
@@ -172,7 +191,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_014.md",
@@ -183,7 +203,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_015.md",
@@ -194,7 +215,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_016.md",
@@ -205,7 +227,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_017.md",
@@ -216,7 +239,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_018.md",
@@ -227,7 +251,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_019.md",
@@ -238,7 +263,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_020.md",
@@ -249,7 +275,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_021.md",
@@ -260,7 +287,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_022.md",
@@ -271,7 +299,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_023.md",
@@ -282,7 +311,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_024.md",
@@ -293,7 +323,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_025.md",
@@ -304,7 +335,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_026.md",
@@ -315,7 +347,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_027.md",
@@ -326,7 +359,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_028.md",
@@ -337,7 +371,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_029.md",
@@ -348,7 +383,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_030.md",
@@ -359,7 +395,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_031.md",
@@ -370,7 +407,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_032.md",
@@ -381,7 +419,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_033.md",
@@ -392,7 +431,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_034.md",
@@ -403,7 +443,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hrichy_pro_patera_knoxe_035.md",
@@ -414,7 +455,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -466,13 +508,13 @@
         "xhtml": "hrichy_pro_patera_knoxe_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Desatero pátera\nRonalda Arbuthnota Knoxe",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_007.md",
         "xhtml": "hrichy_pro_patera_knoxe_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Intimní\nzáležitost",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_008.md",
         "xhtml": "hrichy_pro_patera_knoxe_008.html"
@@ -484,7 +526,7 @@
         "xhtml": "hrichy_pro_patera_knoxe_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Omyl v Šlágrsé",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_010.md",
         "xhtml": "hrichy_pro_patera_knoxe_010.html"
@@ -496,7 +538,7 @@
         "xhtml": "hrichy_pro_patera_knoxe_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ženské za volantem",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_012.md",
         "xhtml": "hrichy_pro_patera_knoxe_012.html"
@@ -508,7 +550,7 @@
         "xhtml": "hrichy_pro_patera_knoxe_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Otázka\nalibi",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_014.md",
         "xhtml": "hrichy_pro_patera_knoxe_014.html"
@@ -532,7 +574,7 @@
         "xhtml": "hrichy_pro_patera_knoxe_017.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Proč tolik šámusů",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_018.md",
         "xhtml": "hrichy_pro_patera_knoxe_018.html"
@@ -544,7 +586,7 @@
         "xhtml": "hrichy_pro_patera_knoxe_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Justiční omyl",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_020.md",
         "xhtml": "hrichy_pro_patera_knoxe_020.html"
@@ -556,7 +598,7 @@
         "xhtml": "hrichy_pro_patera_knoxe_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Matematikové\nz Grizzly Drive",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_022.md",
         "xhtml": "hrichy_pro_patera_knoxe_022.html"
@@ -580,7 +622,7 @@
         "xhtml": "hrichy_pro_patera_knoxe_025.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Atlantická\nromance",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_026.md",
         "xhtml": "hrichy_pro_patera_knoxe_026.html"
@@ -592,7 +634,7 @@
         "xhtml": "hrichy_pro_patera_knoxe_027.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Mezi námi děvčaty",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_028.md",
         "xhtml": "hrichy_pro_patera_knoxe_028.html"
@@ -604,7 +646,7 @@
         "xhtml": "hrichy_pro_patera_knoxe_029.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Třetí\nvrchol trojúhelníku",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_030.md",
         "xhtml": "hrichy_pro_patera_knoxe_030.html"
@@ -616,19 +658,19 @@
         "xhtml": "hrichy_pro_patera_knoxe_031.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Rozhřešení",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_032.md",
         "xhtml": "hrichy_pro_patera_knoxe_032.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Autorova\npoznámka",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_033.md",
         "xhtml": "hrichy_pro_patera_knoxe_033.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámky pod čarou",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_034.md",
         "xhtml": "hrichy_pro_patera_knoxe_034.html"
@@ -859,6 +901,6 @@
       "user": "books-are-next",
       "repo": "hrichy-pro-patera-knoxe-new"
     },
-    "generatedAt": 1648465420417
+    "generatedAt": 1648466377433
   }
 }

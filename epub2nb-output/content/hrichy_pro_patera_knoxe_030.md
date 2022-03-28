@@ -1,8 +1,9 @@
 ---
+title: |-
+  Třetí
+  vrchol trojúhelníku
 contentType: prose
 ---
-
-## Třetí vrchol trojúhelníku
 
 Hřích desátý
 
@@ -10,28 +11,28 @@ Whydunit
 
 Osoby, jak přicházejí na scénu:
 
-Poručík Borůvka: toho dne dostal špatnou zprávu
+**Poručík Borůvka**: toho dne dostal špatnou zprávu
 
-Zuzanka: nic si z toho nedělala
+**Zuzanka**: nic si z toho nedělala
 
-Příslušnice: dala se přesvědčit, že jí není dobře
+**Příslušnice**: dala se přesvědčit, že jí není dobře
 
-Ing. Ludvík Arnold: vrátil se právě z Indie
+**Ing. Ludvík Arnold**: vrátil se právě z Indie
 
-Irenka Obdržálková: něco u něho zapomněla
+**Irenka Obdržálková**: něco u něho zapomněla
 
-Dr. Petr Bydžovský: šel pěšky domů
+**Dr. Petr Bydžovský**: šel pěšky domů
 
-Milena Pelentová: byla tam dřív než poručík
+**Milena Pelentová**: byla tam dřív než poručík
 
-Ing. Rudolf Pelent: nechodil rád na večírky
+**Ing. Rudolf Pelent**: nechodil rád na večírky
 
-Lucie Ejemová: nemohla zapomenout
+**Lucie Ejemová**: nemohla zapomenout
 
-Paní Fehérová: měla ve zvyku hrát při práci na gramofon
+**Paní Fehérová**: měla ve zvyku hrát při práci na gramofon
 
-Praporčík Málek: vzorný příslušník Bezpečnosti
+**Praporčík Málek**: vzorný příslušník Bezpečnosti
 
-Dr. Seifert: vyznal se i ve zbraních
+**Dr. Seifert**: vyznal se i ve zbraních
 
-Secesní dáma: viděla vycházet měsíc nad prejzovými střechami
+**Secesní dáma**: viděla vycházet měsíc nad prejzovými střechami
