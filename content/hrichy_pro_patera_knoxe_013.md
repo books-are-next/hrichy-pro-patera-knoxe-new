@@ -1,4 +1,5 @@
 ---
+title: ''
 contentType: prose
 ---
 
@@ -10,11 +11,11 @@ Ale zřejmě to jde na odbyt, krámeček sype miliónky lir, Lauřiny brilianty 
 
 A Laura, celá bez sebe, že mě Pragokoncert dodal rovnou do Rimini, si mě plete s vrbou, mele a plácá, i když mám podezření, že mě na ty věčný pikniky za město vyváží hlavně proto, aby nebyla spatřená riminskou honorací ve společnosti sůvy z baru Orient, tedy mě. Čeština se z ní sype tempem italštiny a mně se klíží oči a klíží, chce se mi spát. Za křovím na silnici se objeví nějaká holka v šortkách, na zádech ruksak s vlaječkou, na tu dálku neznámo jakou, stopařka, a kráčí pomalu dlouhýma kroky po kraji betonky, slunce jí zapaluje zrzavou hlavu měděnou září. Pak se zastaví, otočí, zvedne ruku, dá paleček vzhůru, jak to tu holky dělaj. A už zaševelí brzdy, už na silnici zastavuje vozejk barvy malin a v něm pán celej v bílym, no aby nezastavil, když má ta dívčina takový okončetiny, a holka obíhá chladič, hups do vozejku a vozejk odpálí jako vystřelenej z děla. A já v tu chvíli usínám a spim na tom čerstvým piniovym vzduchu, co ho Giulio prodává blbejm Američanum, a spim jak zabitá.
 
-\* \* \*
+* * *
 
 Proto jsem taky neměla tuchy, kolik času vlastně uplynulo do nenávratna, když mě Laura vzbudila. Slunce, aspoň se mi zdálo, sebou skoro ani nehnulo, sbalily jsme zbytky ohromného pikniku, nasedly do sporťáčku, skodrcaly po klikatý polní cestě mezi keříčkama na betonku, a tam Laura dala vozejku do těla. Rrrrup – v rychlostní skříni se ozve nezdravej zvuk, ale už si to hasíme stotřicítkou po šedivý betonce, mezi piniema a živejma ploty, a když se ohlídnu nalevo na Lauru, má svůj nádhernej antickej profil hrdě vztyčenej na pozadí rozmazanejch zelení a havraní vlasy jí plápolaj ve větru jak černá pochodeň.
 
-\* \* \*
+* * *
 
 Jenže daleko jsme nedojely. Zrovna když Laura, na dvou kolech, vybrala ostrou zatáčku kolem motoristický kaple svatýho Kryštofa, vyloup se před náma z perspektivy bílej policejní džíp, za nim hlouček policajtů a jeden zved plácačku a stopnul nás, taktak to Laura stačila ubrzdit.
 
@@ -24,7 +25,7 @@ Jenže daleko jsme nedojely. Zrovna když Laura, na dvou kolech, vybrala ostrou 
 
 Tak jsme tam zahly a za chvilku se před náma vynoří parkovišťátko s výletní restaurací a před ní v řadě jako na výstavu seřazenejch pět sporťáčků barvy malin a u každýho pán v bílym a u každýho pána dva policajti a všichni spolu vedou diskusi, jak se řiká, vzrušenou, zřejmě se jim něco nelíbí. A já tonu v nevědomosti, o co jde.
 
-\* \* \*
+* * *
 
 Z tý nevědomosti mě vysvobodil kapitán, kterej se jmenoval Hercule Potarot, což snad byl nějakej vtip jistym způsobem sečtělejch rodičů. Vyvalil nejdřív oči na náš sporťáček a na mladíčka s důležitým obličejem, kterej si naskočil na chladič a zaved nás na parkovišťátko, a sotva Laura zabrzdila, zařval na toho vyžehlence:
 
@@ -40,7 +41,7 @@ Mladíček zakoktal:
 
 Tím jsem se konečně dověděla, proč tu stojí těch pět vzrušenejch pánů v bílejch kombinézách. Laura se jakoby s potlačeným výkřikem vztyčila na sedadle, otevřela dvířka a vzhledem k svýmu společenskýmu postavení omdlela dekoltem rovnou do náruče kapitána Potarota.
 
-\* \* \*
+* * *
 
 Vyšlo najevo, že kapitán Lauru zná, a to tak říkajíc dost dobře. Aspoň její cukrbliky nevypadaly na premiéru, a kapitán taky moc přeochotně podal referát.
 
@@ -124,7 +125,7 @@ Laura se předvedla bez chyby. Obešla každýho zvlášť, kolem dokolečka, mh
 
 „A máme tě, bestie!“ zařval vítězně. „Já věděl, že to seš ty! Přiznej se!“
 
-\* \* \*
+* * *
 
 Vybranej playboy se jmenoval Fillippo Terra, klepal se jak to jeho jméno a nebylo mi nejasný, proč si ho Laura vybrala. Byl ze všech pěti o poznání nejhezčí a nejvylízanější.
 
@@ -144,7 +145,7 @@ A mimoto se stalo něco, co vypadalo na definitivní zpečetění playboyovýho
 
 „V –“ mládenec naprosto zrosolovatěl, „– v automatu u Picciniho –“
 
-Kapitán se ušklíbl a z papírku přeslabikoval: _„Made in Denmark._ Tak zavoláme Piccinimu, jestli vede dánské žvýkací gumy.“
+Kapitán se ušklíbl a z papírku přeslabikoval: _„_Made in Denmark_._ Tak zavoláme Piccinimu, jestli vede dánské žvýkací gumy.“
 
 Upřel na playboye žlutý zrak a hošík se vůčihledně měnil v sulc.
 
@@ -164,7 +165,7 @@ To, na co se playboy zmoh, mu teda vůbec nepomohlo.
 
 Na rozdíl od Laury předvedl playboy úplně nepadělaný upadnutí do mdlob.
 
-\* \* \*
+* * *
 
 A mně ho bylo líto. Jak se tak pomalu sešinul na zem a zátylkem se praštil o blatník svýho krásnýho vozejku, měla jsem najednou pocit něčeho divnýho. „Lauro, ty potvoro,“ povídám hrdince dne česky. „Ty sis to vymyslela, nekecej. Vybrala sis ho, ponivač se ti nejvíc líbil.“
 
@@ -192,7 +193,9 @@ To, milí čtenáři, víte jistě vy také. Vraha zatím označit nemůžete, a
 
 * * *
 
-„Co nepravíte!“ kapitán spráskl ruce a pak udeřil pěstí rozjařeně do stolu, až z hrdla opletený láhve ustříklo Lauře za ňadra. „Bílý muž měl na nose knírek!“ Nová rána pěstí. „Ale pak to nemohl být žádný z přítomných pánů, cha, cha, cha!“ veselil se kapitán nad tou švandovní záležitostí. „Protože žádný nemá knírek na nose!“
+  
+
+„Co nepravíte!“ kapitán spráskl ruce a pak udeřil pěstí rozjařeně do stolu, až z hrdla opletený láhve ustříklo Lauře za ňadra. „Bílý muž měl na nose knírek!“ Nová rána pěstí. „Ale pak to nemohl být žádný z přítomných pánů, cha, cha, cha!“ veselil se kapitán nad tou švandovní záležitostí. „Protože žádný nemá knírek _na_ nose!“
 
 „Jestli signor dovolí,“ pravím ironicky. „Když signora Laura má oprávnění na osmdesát metrů poznat muže, že to je on, mám já oprávnění poznat muže, že to není on.“
 
@@ -208,7 +211,7 @@ Kapitán vytáhne obočí.
 
 Kapitán mě chce opět zpražit svou stometrákovou ironií, ale vtom ho osvítí nějakej nápad: „Výborně, signorina, proč ne?“ praví mile. „Kriminalistická praxe nás učí, že na místě činu dochází leckdy ke zhroucení pachatele!“
 
-\* \* \*
+* * *
 
 Tak teda zas sedíme s Laurou na trávníku, ještě se tu válej papíry z našeho pikniku, slunce zřetelně popošlo k západu a na modravý betonce stíny zešikměly. A je s náma tentokrát kapitán Potarot a ironií se překonává: „O, signorina si troufá!“ žertuje. „Signorina nerozezná porche od alfa romeo, signorina neví nic o automobilové technice, a přesto si troufá rozpoznat pachatele následkem jeho vozu!“
 
@@ -248,7 +251,7 @@ Potrátek udělá ohromenýho a laškovně hodí sebejistým očkem po Lauře.
 
 „Pohyby?“ podiví se Potarot divadelně. „Ale vrah byl zastrčený v autě. Příliš se nehýbal.“
 
-„Vrah se vůbec nehýbal. Hýbala se oběť_“_ povídám.
+„Vrah se _vůbec_ nehýbal. Hýbala se _oběť__“_ povídám.
 
 „Ach tak, signorina si všímá ženských nohou, nezastrčených v kalhotkách!“ A Potrátek na mě zahrozí prstíkem. „Signorina je patrně zvláštní signorina. Avšak poněkud přehání. Dedukce je dedukce, jenomže z pohybu nohou oběti usuzovati na vraha – příliš fantastické!“
 
@@ -268,17 +271,17 @@ A Potrátek je pořád v dobrý náladě.
 
 „Jak jste to povídala, signorino?“
 
-„Slyšel jste správně,“ pravím ledově. „Dívka oběhla chladič a posadila se vedle vraha.“
+„Slyšel jste správně,“ pravím ledově. „Dívka _oběhla_ chladič a posadila se vedle vraha.“
 
 A kapitán Potarot provede něco, co ho šlechtí. Vstane z uválený trávy, přitáhne si řemení, opráší puky, hluboce se přede mnou ukloní a zahanbeně pronese:
 
 „Signorino, promiňte prosím mou nevychovanost. Hluboce se kořím vašemu postřehu.“
 
-\* \* \*
+* * *
 
 Když jsme potom sjeli dolu na silnici, stálo tam za sebou pět zaparkovanejch vozejků a v nich vyčerpaně sedělo pět bílejch playboyů, a tam to konečně došlo i Lauře, mý stoprocentně ženský přítelkyni. To už teda taky muselo. Jak jsme se zastavili před prvním vozejkem a koukli na ně, vzorně vyřízený v zástupu na kraji silnice, čtyři playboyové seděli v zástupu, jenom jeden z řady vybočoval. Ten, co seděl ve voze jaguár. Sylvestri, synátor nějakýho průmyslníka, kterej si tu svou přepychovou návnadu na stopařky dovez rovnou z Anglie. A ponivač chtěl mít něco úplně extra, nevybral si kontinentální verzi toho báječnýho autíčka.
 
-\* \* \*
+* * *
 
 Ještě ten večer mi vrchní v baru Orient předal čtyři dopisy. Ve všech plno květnatejch díků, a což je mnohem zajímavější, taky různý nabídky. Ani jedna sice k sňatku, ale dva mě zvali na rande do Říma, jeden do Benátek a jeden dokonce na měsíc na túru soukromou jachtou po Atlantiku. Uložila jsem dopejsky do šuplíku v šatně a odtamtud mi je ještě ten večír někdo neznámej ukrad.
 
@@ -292,10 +295,14 @@ Laura se udobřila. Pojala dokonce obdiv k mýmu mozečku.
 
 To tedy spíš to první, pomyslím si a kouknu taky na kresbičku. Nad ní stál žalostnej důkaz, jak se v cizině zapomíná na pravopis mateřštiny:
 
-Dívka objehla chladič a posadila se vedle řídiče.
+_Dívka objehla chladič a posadila se vedle řídiče._
+
+  
 
 A pod tím byl celej ten fórek vyvedenej v pastelkách jedný ze šesti Lubomířinejch dcer.
 
-![2](./resources/2.jpg)  
+* * *
+
+  
 
 A já si řekla, že mi ten zloděj, co ukrad ty výhodný nabídky, prokázal možná dobrou službu. Playboyům s otevřenýma sporťákama není co věřit. A měsíc na soukromý jachtě. Tůdle.

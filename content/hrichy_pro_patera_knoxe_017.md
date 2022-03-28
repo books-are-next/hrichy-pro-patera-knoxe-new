@@ -1,10 +1,13 @@
 ---
+title: ''
 contentType: prose
 ---
 
+  
+
 „V Palmovém salóně pořádali maškarní bál,“ pravil Niels. „Pan Cyrus mohl mít v kapse škrabošku, nasadit si ji, nechat vyvěšené sluchátko, aby nad kabinou svítila červená, projít salónem na chodbu ke kuchyním a vyjet výtahem pro personál nahoru do třetího poschodí. Dorazil by tam přibližně ve chvíli, kdy paní Ericsonová zhasla televizor a odešla do svého pokoje. K vykonání činu stačilo pár vteřin, obzvlášť když pan Jensen byl opilý.“
 
-„Jenomže Jensen čekal, že ho někdo přídě voddělat. Dával by si majzla,“ namítla zpěvačka a na hladkém čele, napuštěném krémy, se objevila přemýšlivá vráska. „Asi by se bránil, ne? Nebyly tam aspoň nějaký povalený židle nebo něco?“
+„Jenomže Jensen _čekal_, že ho někdo přídě voddělat. Dával by si majzla,“ namítla zpěvačka a na hladkém čele, napuštěném krémy, se objevila přemýšlivá vráska. „Asi by se bránil, ne? Nebyly tam aspoň nějaký povalený židle nebo něco?“
 
 Detektiv zavrtěl hlavou.
 
@@ -46,6 +49,8 @@ Niels obrátil plánek a na zadní stranu napsal:
 
 483062 ................................................................ možné chyby
 
+  
+
 „Zjistit majitele jedenácti telefonních stanic ve Stockholmu je už detail. Za půl hodiny jsme ho měli. Byl to nějaký pan Wahlsund a potvrdil všechno –“
 
 Detektiv si všiml, že vráska na plavovlásčině čele se prohloubila. Dívka si všimla, že si detektiv všiml její vrásky, a ihned přestala přemýšlet.
@@ -58,11 +63,13 @@ Detektiv si všiml, že vráska na plavovlásčině čele se prohloubila. Dívka
 
 * * *
 
-Máte nyní v ruce vše, co potřebujete k vysvětlení, jak byla vražda provedena. Nezapomeňte, že čtete HOWdunit, a není tedy vaším úkolem identifikovat pachatele. Ale hřích proti přikázání dobrého pátera je už celkem zřejmý.
+Máte nyní v ruce vše, co potřebujete k vysvětlení, _jak_ byla vražda provedena. Nezapomeňte, že čtete HOWdunit, a není tedy vaším úkolem identifikovat pachatele. Ale hřích proti přikázání dobrého pátera je už celkem zřejmý.
 
 Ovšem nehádat – dedukovat!
 
 * * *
+
+  
 
 Když v půl čtvrté ráno zazvonila u dveří detektiva Nielse C. Köllna, detektiv jí vzdor té nekalvínské hodině okamžitě otevřel. Ukázalo se, že tu noc ještě vůbec neodešel spát. Zavedl zpěvačku do kuchyně, kam se dostavila i zamračená Zuzán a nabídla se, že zpěvačce uvaří kafe.
 
@@ -98,29 +105,31 @@ Detektiv měl opět nepříjemný pocit neprofesionální neschopnosti.
 
 Psala:
 
-7.30 – Angličan přichází do haly, telefonuje z kabiny, recepčního pak ztratí z dohledu.
+_7.30 – Angličan přichází do haly, telefonuje z kabiny, recepčního pak ztratí z dohledu._
 
-Cca 8.00 – Cyrus si telefonicky smlouvá schůzku s Jensenem v baru.
+_Cca 8.00 – Cyrus si telefonicky smlouvá schůzku s Jensenem v baru._
 
-Cca 9.00 – Jensen vychází ze svého pokoje a přitom ho vidí Ericsonová. Jensen nevypadá opile.
+_Cca 9.00 – Jensen vychází ze svého pokoje a přitom ho vidí Ericsonová. Jensen nevypadá opile._
 
-Krátce po 9.00 – Angličan si vypůjčuje od recepčního jízdní řád a pak odchází z hotelu.
+_Krátce po 9.00 – Angličan si vypůjčuje od recepčního jízdní řád a pak odchází z hotelu._
 
-Krátce po 9.00 – Jensen přichází do baru vchodem z ulice. Je opilý.
+_Krátce po 9.00 – Jensen přichází do baru vchodem z ulice. Je opilý._
 
-Před 9.30 – Do baru vchází z ulice Cyrus a hned nato východem do haly odchází z baru Jensen.
+_Před 9.30 – Do baru vchází z ulice Cyrus a hned nato východem do haly odchází z baru Jensen._
 
-Krátce po 9.30 – Ericsonová vidí Jensena vcházet do pokoje.
+_Krátce po 9.30 – Ericsonová vidí Jensena vcházet do pokoje._
 
-Cca 9.35 – Jensen telefonuje do baru, aby Cyrus přišel nahoru do pokoje. Cyrus odchází z baru, ale cestou se stavuje v telefonní kabině, kde zůstává asi deset minut.
+_Cca 9.35 – Jensen telefonuje do baru, aby Cyrus přišel nahoru do pokoje. Cyrus odchází z baru, ale cestou se stavuje v telefonní kabině, kde zůstává asi deset minut._
 
-9.40 – Ericsonová odchází od televizoru do svého pokoje.
+_9.40 – Ericsonová odchází od televizoru do svého pokoje._
 
-Krátce po 9.45 – Ericsonová se ze svého pokoje vrací ke dveřím Jensenova pokoje a klíčovou dírkou ho vidí mrtvého.
+_Krátce po 9.45 – Ericsonová se ze svého pokoje vrací ke dveřím Jensenova pokoje a klíčovou dírkou ho vidí mrtvého._
 
-9.50 – Cyrus vychází z telefonní kabiny, připojuje se k Ericsonové a recepčnímu a jedou nahoru výtahem.
+_9.50 – Cyrus vychází z telefonní kabiny, připojuje se k Ericsonové a recepčnímu a jedou nahoru výtahem._
 
-Cca 9.55 – Všichni tři objevují v pokoji zavražděného Jensena. Má na zápěstí hodinky, které se při pádu na zem rozbily a zastavily na 8.57.
+_Cca 9.55 – Všichni tři objevují v pokoji zavražděného Jensena. Má na zápěstí hodinky, které se při pádu na zem rozbily a zastavily na 8.57._
+
+  
 
 Niels C. Kölln položil prst na konec posledního řádku a pravil:
 
@@ -128,7 +137,9 @@ Niels C. Kölln položil prst na konec posledního řádku a pravil:
 
 „Na to se –“ řekla plavovláska a použila jednoho z výrazů, které detektivově choti vynesly mezi jeho známými špatnou pověst. „Na tohle se podívej!“ A ukázala na zápis:
 
-Cca 9.00 – Jensen vychází ze svého pokoje a přitom ho vidí Ericsonová. Jensen nevypadá opile.
+_Cca 9.00 – Jensen vychází ze svého pokoje a přitom ho vidí Ericsonová. Jensen _nevypadá opile.__
+
+  
 
 „Ericsonová tam seděla tou dobou už asi hodinu,“ řekla blondýnka. „Dívala se na nějaký politiky. Jestli byl Angličan u Jensena, musel vodejít před vosmou hodinou, ponivač ty politikové Ericsonovou nezajímali tak, aby neviděla a neslyšela, a ponivač seděla u televizoru až do půl desátý. A Anglán už krátce po devátý byl u recepčního. Jestli ale Anglán vodešel vod Jensena už před vosmou, kde potom byl až do devíti hodin?“
 
@@ -136,7 +147,9 @@ Cca 9.00 – Jensen vychází ze svého pokoje a přitom ho vidí Ericsonová.
 
 „A tadyhle,“ ukázala plavovláska na další zápis:
 
-Krátce po 9.00 – Jensen přichází do baru vchodem z ulice. Je opilý.
+_Krátce po 9.00 – Jensen přichází do baru vchodem z ulice. _Je opilý.__
+
+  
 
 „Kdepak se to asi Jensen nadral,“ zeptala se zpěvačka. „Ve vejtahu? Protože dyž šel kolem babky Ericsonový, eště nevrávoral. A proč šel do baru vchodem z ulice, dyž pak z něj vyšel východem do haly?“
 
@@ -182,11 +195,11 @@ Detektiv zamyšleně zíral na svou ženu. Zpěvačka řekla:
 
 „Inu Zuzanko,“ pravil Niels C. Kölln. „Byl to dvojník.“
 
-„Dvojník?“
+„_Dvojník_?“
 
 Seděli, sami překvapeni tím neortodoxním řešením.
 
-\* \* \*
+* * *
 
 „Já nevím, čím to,“ zavrtěl pak hlavou Niels, „ale do čeho se připlete Eva, to je vždycky nějaké tak trochu neskutečné –“
 
@@ -210,7 +223,7 @@ Obě se zadívaly na Zuzánino domácí štěstí. Kdykoli mluvily svou mateřš
 
 „Doba vraždy se nedá stanovit přesně na minutu,“ řekl Niels. „Ale větší časový rozdíl by třeba přece jen mohl vadit. Proto dvojník čekal až skoro do devíti, a teprve pak Jensena zabil.“
 
-„Potřebovali prostě mrtvolku poměrně čerstvou,“ pravila zpěvačka. „A dyž vrahoun uviděl Cyruse přicházet do baru, zdejch se nahoru – to ho viděla Ericsonová, ovšem coby Jensena. Ta mu trochu udělala čáru přes rozpočet. Nepočítal, že tam bude eště strašit. Ale naštěstí se votrávila tim bigbeatem a vodešla, tak von honem brnk do baru pro Cyruse a vypařil se. Možná v nějaký jiný paruce a v nějakejch jinejch brejlích. To nevim. Ale to už nemoh bejt problém. Z takovýho grandhotelu se dá zmizet, dyž člověk chce zmizet. Prve, coby Anglán, von chtěl bejt navopak viditelnej. Proto se tak zajímal vo to, jak jezděj vlaky.“
+„Potřebovali prostě mrtvolku poměrně čerstvou,“ pravila zpěvačka. „A dyž vrahoun uviděl Cyruse přicházet do baru, zdejch se nahoru – to ho viděla Ericsonová, ovšem coby Jensena. Ta mu trochu udělala čáru přes rozpočet. Nepočítal, že tam bude eště strašit. Ale naštěstí se votrávila tim bigbeatem a vodešla, tak von honem brnk do baru pro Cyruse a vypařil se. Možná v nějaký jiný paruce a v nějakejch jinejch brejlích. To nevim. Ale to už nemoh bejt problém. Z takovýho grandhotelu se dá zmizet, dyž člověk _chce_ zmizet. Prve, coby Anglán, von chtěl bejt navopak viditelnej. Proto se tak zajímal vo to, jak jezděj vlaky.“
 
 Na kávovaru se rozsvítilo světýlko a upoutalo plavovlásčinu pozornost.
 

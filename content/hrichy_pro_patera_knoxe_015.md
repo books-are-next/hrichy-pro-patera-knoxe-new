@@ -1,4 +1,5 @@
 ---
+title: ''
 contentType: prose
 ---
 
@@ -12,19 +13,19 @@ Neznámý se ještě zeptal na domovní telefon a recepční ukázal na opačn�
 
 V hale bylo tou dobou dost živo a recepční měl plné ruce práce. O Angličana se už nezajímal. Nemohl proto později říct, čím se cizinec zaměstnával, než se znovu objevil v hale hotelu Majestic.
 
-\* \* \*
+* * *
 
 V šeru palmového zákoutí na chodbě ve třetím poschodí svítil bledý čtverec obrazovky. Čtyři sociálně demokratičtí politikové na ní diskutovali o velikých výhodách násilné revoluce. Stará paní Ericsonová, která velice neměla ráda násilí, vzhlédla k hodinám nad televizorem. Bylo za dvě minuty devět. Paní Ericsonová odevzdaně sklopila oči zpět k obrazovce, ale vtom vrzly dveře pokoje přímo proti televiznímu zákoutí a skřípot odvedl pozornost paní Ericsonové od pánů ve výborně ušitých šatech na obrazovce směrem ke dveřím. Ale když na nich spočinula pohledem, byly pouze pootevřené. Paní Ericsonová se přesto nevrátila k revoluci. Věděla, že v pokoji bydlí její dávný známý, pan Jensen, a nechtěla promeškat příležitost k přátelskému pozdravu. Nemusela čekat dlouho. Dveře znovu vrzly, otevřely se skoro dokořán a objevil se v nich pan Jensen. Vykročil do chodby, zavřel za sebou a setkal se s očima staré paní. Paní Ericsonová se usmála a kývla. I pan Jensen se zdvořile uklonil a odešel směrem k výtahu. Stará paní Ericsonová měla pocit, že se ho na něco chtěla zeptat, ale nemohla si vzpomenout. Pak na to přestala myslet, protože na obrazovce právě skončili politikové, naskočila reklama na zubní pastu a paní Ericsonová se spokojeně uvelebila v křesle. Po zubní pastě byl na pořadu její oblíbený horror.
 
-\* \* \*
+* * *
 
 Pán v černých brýlích se znovu objevil v hale, právě když stojací hodiny odbily devět. Přistoupil k recepčnímu a požádal ho anglicky o jízdní řád. Recepční mu podal žádanou knihu, ale ani tentokrát mu nevěnoval pozornost. Teprve po chvíli vzhlédl od svých záznamů a uviděl, jak Angličana polyká turniket. Za turniketem byl tmavý severský večer. Tma.
 
-\* \* \*
+* * *
 
 Chvíli nato se z té tmy za rohem hotelu vynořil pan Jensen. Tmu tam rozptyloval neónový nápis nad vchodem do hotelového baru, v jehož světle se leskly epolety na livreji vrátného. Pan Jensen přešel kolem zářícího muže a vrátný jej zdvořile pozdravil. Pan Jensen, ve Stockholmu obvykle osvobozený od manželky, býval častým hostem toho nočního podniku a zdrojem dobrých tuzérů. Pokynul nyní muži v livreji a vrávoravě vkročil do dveří.
 
-\* \* \*
+* * *
 
 Zazněl vlažňoučký potlesk, plavovlasá zpěvačka se uklonila, parket se pomalu vyprazdňoval. V baru bylo živo. Saxofonista s frajerským knírkem položil zpěvačce ruku na nahé rameno, ta mu ji z něho energicky sundala a zamířila přes parket k nálevnímu pultu. Měla krátké flitrové šaty a z bílé tváře profesionálního nočňátka svítily přitlumeným světlem dvě daleko od sebe posazené šedivé oči.
 
@@ -64,7 +65,7 @@ Pán si šluknul a rozkašlal se. Okamžitě vyňal cigaretu z úst a pohléd
 
 Pan Jensen zavrtěl hlavou, s podezřením si změřil dívčinu přívětivou tvář, pak cigaretu opatrně vložil zpátky do úst a zatáhl. Řeřavá muška na konci cigarety se zdvojila v šedém skle dívčiných očí. Pan Jensen je zastřel závojem hustého bílého dýmu, který neprošel plícemi.
 
-\* \* \*
+* * *
 
 Před vchod do baru hotelu Majestic předjel taxík a neónová záře, oblévající portýra v generálské uniformě, dopadla na obličej urostlého muže, jenž vystoupil z taxíku. Měl na sobě šedý dvouřadový oblek, a když se narovnal, měřil dobrý metr pětadevadesát. Huňaté černé obočí vtiskovalo tváři výraz rozhněvanosti. Muž pohlédl na náramkové hodinky a srovnal si čas s věžními hodinami, svítícími na kostelní věži naproti hotelu jako medový měsíc. Bylo za deset minut půl desáté. Dlouhými kroky vešel energicky do baru.
 
@@ -83,15 +84,17 @@ Usmála se.
 Put your cheek on my cheek,  
 Close your eyes, lift your hand…
 
+  
+
 Ve vchodu – v tom, co se jím do baru vcházelo z ulice – se objevil urostlý muž s huňatým obočím a zamračeně se rozhlédl barem. Pan Jensen odvrátil žádostivý zrak od flitrového přeludu, otočil se na stoličce a zabrejlil poněkud šilhavě do uhmataného zrcadla za láhvemi.
 
 Pak se mu patrně udělalo nevolno, protože škytl, svezl se ze stoličky jako pytel brambor a vyběhl dveřmi do chodby, která spojovala bar s hotelovou halou a kde byly toalety.
 
-\* \* \*
+* * *
 
 Hrabě Drákula, proklát špičatým kůlem, naposled nelidsky zařval a rozplynul se v hnilobnou loužičku před dvěma milióny vděčných diváků. Stará paní Ericsonová vzdychla a zvedla oči od obrazovky. Setkala se, toho večera podruhé, s pohledem pana Jensena, jenž právě přicházel od výtahů a v přítmí chodby se mu leskla pleš. Paní Ericsonová měla opět pocit, že se ho chtěla na něco zeptat, ale zase nevěděla na co. Pan Jensen se usmál, kývl a paní Ericsonová mu to oplatila. Vrzly dveře a pleš jejího známého zmizela za brokátovými tapetami. Paní Ericsonová vzdychla, ne a ne si vzpomenout, a věnovala se opět obrazovce. Na ní právě kvarteto vlasatých mladíků rozpoutalo decibelové peklo. Paní Ericsonová se zachmuřila.
 
-\* \* \*
+* * *
 
 Urostlý muž v pečlivě vyžehleném obleku si prohlédl pečlivě ošetřené nehty a pátravě se rozhlédl po baru. Usrkl ohavnosti, nazývající se bezalkoholické šampaňské, a soustředil zamračený pohled na pódium.
 
@@ -107,13 +110,13 @@ pokračovala. Toho se však už saxofonista neodvážil.
 
 Zamračený muž se zájmem pohlédl té zajímavé blondýnce do očí.
 
-\* \* \*
+* * *
 
 Kvarteto vlasáčů naříkalo v rudimentárních slabikách a otřásalo televizorem. Tvář paní Ericsonové, která ještě před chvílí zářila z šera spokojeným úsměvem nad krutými kousky hraběte Drákuly, podobala se nyní posmrtné masce.
 
 Najednou stará paní zamžourala a energickým stiskem knoflíku odstranila rámusící trubadúry z obrazovky. Zívla, těžce vstala, pohlédla na dveře číslo 327, zavrtěla hlavou, stařeckými krůčky se odšourala ke dveřím svého pokoje. Otevřela je, vstoupila dovnitř. Na co jsem se to jen chtěla zeptat pana Jensena? řekla si v duchu. Co to jen bylo? Pomalu se jala rozepínat knoflíky šedého mohérového svetru.
 
-\* \* \*
+* * *
 
 „Pardon,“ pravil číšník diskrétně. „Pan Cyrus?“
 
@@ -125,27 +128,27 @@ Urostlý muž k němu zvedl huňatá obočí.
 
 Pán zachmuřeně kývl. Když se vrchní vzdálil, zvedl sklenici se zbytkem odporné tekutiny a ještě jednou pohlédl na zajímavou zpěvačku.
 
-„It's a shake, iťs a shake“ zpívala a nohama v stříbrných střevíčkách přešlapovala sem tam tanečními krůčky. Saxofonista k ní opět přistoupil a přidal se k poslednímu verši v duetu:
+„_It's a shake, iťs a shake_“ zpívala a nohama v stříbrných střevíčkách přešlapovala sem tam tanečními krůčky. Saxofonista k ní opět přistoupil a přidal se k poslednímu verši v duetu:
 
-„It's a hippy, hippy shake_!_“ a opět spočinul dlaní na flitrovaných oblinách.
+„_It's a hippy, hippy shake__!_“ a opět spočinul dlaní na flitrovaných oblinách.
 
 „_A_ _hippy, a hippy –_“ pěli dvojhlasně a urostlý muž chmurně sledoval estetické pohyby jehlových střevíčků.
 
 „_– a hip – py – shake!_“ zavěsil se dívčin hlas na koruně a stříbrná jehla se zabořila do saxofonistovy lakýrky. Saxofonista nehudebně vyjekl, zanechal zpěvu, takže korunu držel pouze blondýnčin melodický alt. Saxofonista se odbelhal k pultíku s notami a urostlý muž třikrát krátce zatleskal. Potom se zvedl a vyšel z baru chodbou vedoucí do hotelové haly.
 
-\* \* \*
+* * *
 
 Inu ovšem, řekla si opět v duchu paní Ericsonová. Na toho dentistu. Nebylo to nic důležitého, ale pan Jensen říkal, že pracuje úplně bezbolestně – No, ještě není tak pozdě – pohlédla na hodinky, bylo za pět minut tři čtvrtě na deset. Pan Jensen určitě ještě nespí.
 
 Vrásčitými prsty se jala opět zapínat mohérový svetr.
 
-\* \* \*
+* * *
 
 V hale hotelu se to hemžilo maškarami a recepční sčítal za pultem jakási čísla. Ze dveří označených neónovým nápisem BAR vyšel urostlý muž s huňatým obočím, zaváhal a vstoupil do jedné z telefonních kabin na druhém konci haly. Nade dveřmi kabiny se rozsvítilo červené světlo na znamení, že se tam mluví. Kabiny měly zvukotěsné dveře z leštěného dřeva, takže dovnitř nebylo vidět.
 
 Z Palmového salónu zněly zvuky taneční hudby. Klub Kiwanis tam pořádal maškarní večírek. Recepční unaveně pohlédl na stojací hodiny. Ukazovaly za pět minut tři čtvrtě na deset. Před recepčním se prostírala únavná, dlouhá noc.
 
-\* \* \*
+* * *
 
 Stará paní Ericsonová zaklepala na dveře pokoje č. 327. Nikdo neodpověděl. Zaklepala znovu. Nic. Jenom kdesi v hlubinách hotelu odtloukly libozvučné hodiny tři čtvrti na deset. Paní Ericsonová stiskla kliku, ale dveře nepovolily. Stará paní nerozhodně zašilhala po klíčové dírce, kudy do šera chodby tryskala žlutá nit. Zkusila však napřed ještě jednou zaklepat. Pak tiše zavolala do klíčové dírky:
 
@@ -155,7 +158,7 @@ Stará paní Ericsonová zaklepala na dveře pokoje č. 327. Nikdo neodpověděl
 
 Uviděla pana Jensena. Sešpulila scvrklá ústa, jako by na něj chtěla zapískat. Nato se narovnala a s rychlostí, jakou by u ní sotva kdo čekal, se rozběhla k liftu.
 
-\* \* \*
+* * *
 
 „Nemýlíte se?“ otázal se recepční a s nedůvěrou pohlédl na starou dámu.
 
@@ -173,7 +176,7 @@ Dorazili tam všichni současně. Oba muži dali staré dámě přednost a rece
 
 Recepční stiskl knoflík a lift se tiše vznesl do vyšších prostor hotelu Majestic.
 
-\* \* \*
+* * *
 
 Ve třetím poschodí dali opět přednost staré dámě. Pak recepční znovu pokynul urostlému muži a všichni tři se vydali husím pochodem po chodbě. Směřovali k stejnému cíli a zastavili se přede dveřmi pokoje č. 327.
 
@@ -193,7 +196,7 @@ Někdo mu provedl ošklivou věc.
 
 Ležel na koberci na břiše a z levého spánku se šklebila krvavá rána.
 
-\* \* \*
+* * *
 
 Detektiv Niels C. Kölln, jenž se na místo činu dostavil v půl jedenácté, hleděl na to boží dopuštění téměř láskyplně. Byla to jeho první vražda na novém působišti a velmi mu záleželo na tom, aby se ve Stockholmu uvedl pokud možno oslnivě.
 
@@ -203,7 +206,7 @@ Pán, který před ním ležel na zeleném koberci, měl prsty poznamenané kuř
 
 „Vy jste s ním tedy mluvil kolem osmé hodiny?“ zeptal se urostlého pána se zamračeným obočím.
 
-„Mluvil. Telefonicky z mého hotelu Esplanade. Potvrdili jsme si, že za ním mám přijít v půl desáté sem do baru, jak jsme se před týdnem smluvili. Chtěli jsme se ještě krátce poradit, než půjdeme na pozdní dinner k panu Lundstromovi.“
+„Mluvil. Telefonicky z mého hotelu Esplanade. Potvrdili jsme si, že za ním mám přijít v půl desáté sem do baru, jak jsme se před týdnem smluvili. Chtěli jsme se ještě krátce poradit, než půjdeme na pozdní _dinner_ k panu Lundstromovi.“
 
 „Vy jste včera ráno přiletěl z Kodaně a on přijel dnes večerním vlakem z Uppsaly. Schůzka s panem Lundstromem byla smluvena, říkal jste, už před týdnem?“
 
@@ -219,7 +222,7 @@ Pán, který před ním ležel na zeleném koberci, měl prsty poznamenané kuř
 
 Detektiv se lekl. Vzdychl. „Co se dá dělat,“ pravil. Podle posledních zpráv, které měl k dispozici z korespondence své ženy, měla zpěvačka být někde v Itálii. Ale zpěváci jsou potulní ptáci. A pěkní ptáci, pomyslel si. „Tak pro ni pošlete,“ řekl rezignovaně.
 
-\* \* \*
+* * *
 
 Zpěvačka projevila bouřlivou radost, že detektiva vidí. On sám se choval velmi komisně. To plavovlásku zarazilo. Co sem mu udělala, řekla si v duchu. Přeci nic špatnýho. Anebo mu snad Zuzán už leze na nervy? To brzo!
 
@@ -227,7 +230,7 @@ Příčina detektivova chladu tkvěla však jinde. Částečně ještě žárlil
 
 Omezil tedy výslech na minimum a choval se ke zpěvačce jako naprostý cizinec. Ani ji nepozval na návštěvu. Jenže to nepočítal s dívčinou mstivostí, jež patřila k jejím nepočetným výhodným vlastnostem.
 
-\* \* \*
+* * *
 
 Když krátce po druhé v noci dorazil domů, seděly jeho žena a zpěvačka ve společnosti tří lahví, dvou prázdných a jedné načaté, a vypadaly podle toho.
 
@@ -265,7 +268,7 @@ To byla vcelku pravda, a proto se mladé ženy nafoukly.
 
 Dostalo se mu facky, po níž se zapotácel a měl dojem, že je odpočítáván v ringu v tělocvičně policejní akademie.
 
-\* \* \*
+* * *
 
 V noci se dostavily kalvínské výčitky svědomí kvůli Šlágrsé, kvůli nevděčnosti i kvůli tomu výrazu, a tak se detektiv – po dnu bezvýsledného pátrání – uchýlil do baru, kde se posílil míšeným nápojem, jemuž tam říkali Nadělení.
 
@@ -288,3 +291,5 @@ Oboustranná touha po odpuštění nemohla nevyústit ve smír. Stvrdili jej Nad
 „Jaký alibi? Dyť byl v době mordu v telefonní budce a –“
 
 „– a z budky se dá vyjít nejen do haly, ale taky do Palmového salónu. Já vím,“ kývl detektiv, vytáhl z kapsy plánek a rozložil jej na barovém pultu:
+
+* * *
