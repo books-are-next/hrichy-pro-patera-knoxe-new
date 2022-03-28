@@ -2,16 +2,16 @@
   "author": "Josef Škvorecký",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "skvorecky-hrichy-pro-patera-knoxe-67a3d4e",
+  "identifier": "skvorecky-hrichy-pro-patera-knoxe-8b3eea9",
   "languagecode": "cs",
   "modified": "2017-05-18T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Hříchy pro pátera Knoxe",
-  "revision": "67a3d4e",
+  "revision": "8b3eea9",
   "generatedAt": {
-    "date": "Mon Mar 28 2022 11:21:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648466494063
+    "date": "Mon Mar 28 2022 11:29:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648466962674
   },
   "documents": [
     {
@@ -97,13 +97,13 @@
     {
       "title": "Intimní\nzáležitost • Hříchy pro pátera Knoxe",
       "file": "hrichy_pro_patera_knoxe_008.html",
-      "words": 76,
-      "chars": 543,
-      "ideas": 14,
+      "words": 7108,
+      "chars": 42775,
+      "ideas": 187,
       "role": "chapter",
       "order": 4,
       "prev": "hrichy_pro_patera_knoxe_007.html",
-      "next": "hrichy_pro_patera_knoxe_009.html",
+      "next": "hrichy_pro_patera_knoxe_010.html",
       "toc": [
         {
           "index": 0,
@@ -115,35 +115,15 @@
       ]
     },
     {
-      "title": "Hříchy pro pátera Knoxe",
-      "file": "hrichy_pro_patera_knoxe_009.html",
-      "words": 7032,
-      "chars": 42232,
-      "ideas": 173,
+      "title": "Omyl v Šlágrsé • Hříchy pro pátera Knoxe",
+      "file": "hrichy_pro_patera_knoxe_010.html",
+      "words": 8174,
+      "chars": 50374,
+      "ideas": 392,
       "role": "chapter",
       "order": 5,
       "prev": "hrichy_pro_patera_knoxe_008.html",
-      "next": "hrichy_pro_patera_knoxe_010.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Omyl v Šlágrsé • Hříchy pro pátera Knoxe",
-      "file": "hrichy_pro_patera_knoxe_010.html",
-      "words": 114,
-      "chars": 767,
-      "ideas": 17,
-      "role": "chapter",
-      "order": 6,
-      "prev": "hrichy_pro_patera_knoxe_009.html",
-      "next": "hrichy_pro_patera_knoxe_011.html",
+      "next": "hrichy_pro_patera_knoxe_012.html",
       "toc": [
         {
           "index": 0,
@@ -155,35 +135,15 @@
       ]
     },
     {
-      "title": "Hříchy pro pátera Knoxe",
-      "file": "hrichy_pro_patera_knoxe_011.html",
-      "words": 8060,
-      "chars": 49607,
-      "ideas": 375,
-      "role": "chapter",
-      "order": 7,
-      "prev": "hrichy_pro_patera_knoxe_010.html",
-      "next": "hrichy_pro_patera_knoxe_012.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Ženské za volantem • Hříchy pro pátera Knoxe",
       "file": "hrichy_pro_patera_knoxe_012.html",
-      "words": 52,
-      "chars": 339,
-      "ideas": 14,
+      "words": 4495,
+      "chars": 27546,
+      "ideas": 151,
       "role": "chapter",
-      "order": 8,
-      "prev": "hrichy_pro_patera_knoxe_011.html",
-      "next": "hrichy_pro_patera_knoxe_013.html",
+      "order": 6,
+      "prev": "hrichy_pro_patera_knoxe_010.html",
+      "next": "hrichy_pro_patera_knoxe_014.html",
       "toc": [
         {
           "index": 0,
@@ -195,35 +155,15 @@
       ]
     },
     {
-      "title": "Hříchy pro pátera Knoxe",
-      "file": "hrichy_pro_patera_knoxe_013.html",
-      "words": 4443,
-      "chars": 27207,
-      "ideas": 137,
-      "role": "chapter",
-      "order": 9,
-      "prev": "hrichy_pro_patera_knoxe_012.html",
-      "next": "hrichy_pro_patera_knoxe_014.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Otázka\nalibi • Hříchy pro pátera Knoxe",
       "file": "hrichy_pro_patera_knoxe_014.html",
-      "words": 65,
-      "chars": 403,
-      "ideas": 14,
+      "words": 6101,
+      "chars": 37335,
+      "ideas": 248,
       "role": "chapter",
-      "order": 10,
-      "prev": "hrichy_pro_patera_knoxe_013.html",
-      "next": "hrichy_pro_patera_knoxe_015.html",
+      "order": 7,
+      "prev": "hrichy_pro_patera_knoxe_012.html",
+      "next": "hrichy_pro_patera_knoxe_018.html",
       "toc": [
         {
           "index": 0,
@@ -235,75 +175,15 @@
       ]
     },
     {
-      "title": "Hříchy pro pátera Knoxe",
-      "file": "hrichy_pro_patera_knoxe_015.html",
-      "words": 3504,
-      "chars": 21469,
-      "ideas": 126,
-      "role": "chapter",
-      "order": 11,
-      "prev": "hrichy_pro_patera_knoxe_014.html",
-      "next": "hrichy_pro_patera_knoxe_016.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hříchy pro pátera Knoxe",
-      "file": "hrichy_pro_patera_knoxe_016.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 12,
-      "prev": "hrichy_pro_patera_knoxe_015.html",
-      "next": "hrichy_pro_patera_knoxe_017.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hříchy pro pátera Knoxe",
-      "file": "hrichy_pro_patera_knoxe_017.html",
-      "words": 2532,
-      "chars": 15463,
-      "ideas": 108,
-      "role": "chapter",
-      "order": 13,
-      "prev": "hrichy_pro_patera_knoxe_016.html",
-      "next": "hrichy_pro_patera_knoxe_018.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Proč tolik šámusů • Hříchy pro pátera Knoxe",
       "file": "hrichy_pro_patera_knoxe_018.html",
-      "words": 112,
-      "chars": 748,
-      "ideas": 18,
+      "words": 13627,
+      "chars": 80905,
+      "ideas": 106,
       "role": "chapter",
-      "order": 14,
-      "prev": "hrichy_pro_patera_knoxe_017.html",
-      "next": "hrichy_pro_patera_knoxe_019.html",
+      "order": 8,
+      "prev": "hrichy_pro_patera_knoxe_014.html",
+      "next": "hrichy_pro_patera_knoxe_020.html",
       "toc": [
         {
           "index": 0,
@@ -315,35 +195,15 @@
       ]
     },
     {
-      "title": "Hříchy pro pátera Knoxe",
-      "file": "hrichy_pro_patera_knoxe_019.html",
-      "words": 13515,
-      "chars": 80157,
-      "ideas": 88,
-      "role": "chapter",
-      "order": 15,
-      "prev": "hrichy_pro_patera_knoxe_018.html",
-      "next": "hrichy_pro_patera_knoxe_020.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Justiční omyl • Hříchy pro pátera Knoxe",
       "file": "hrichy_pro_patera_knoxe_020.html",
-      "words": 68,
-      "chars": 435,
-      "ideas": 12,
+      "words": 5220,
+      "chars": 31505,
+      "ideas": 238,
       "role": "chapter",
-      "order": 16,
-      "prev": "hrichy_pro_patera_knoxe_019.html",
-      "next": "hrichy_pro_patera_knoxe_021.html",
+      "order": 9,
+      "prev": "hrichy_pro_patera_knoxe_018.html",
+      "next": "hrichy_pro_patera_knoxe_022.html",
       "toc": [
         {
           "index": 0,
@@ -355,35 +215,15 @@
       ]
     },
     {
-      "title": "Hříchy pro pátera Knoxe",
-      "file": "hrichy_pro_patera_knoxe_021.html",
-      "words": 5152,
-      "chars": 31070,
-      "ideas": 226,
-      "role": "chapter",
-      "order": 17,
-      "prev": "hrichy_pro_patera_knoxe_020.html",
-      "next": "hrichy_pro_patera_knoxe_022.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Matematikové\nz Grizzly Drive • Hříchy pro pátera Knoxe",
       "file": "hrichy_pro_patera_knoxe_022.html",
-      "words": 114,
-      "chars": 728,
-      "ideas": 16,
+      "words": 15005,
+      "chars": 88499,
+      "ideas": 124,
       "role": "chapter",
-      "order": 18,
-      "prev": "hrichy_pro_patera_knoxe_021.html",
-      "next": "hrichy_pro_patera_knoxe_023.html",
+      "order": 10,
+      "prev": "hrichy_pro_patera_knoxe_020.html",
+      "next": "hrichy_pro_patera_knoxe_026.html",
       "toc": [
         {
           "index": 0,
@@ -395,75 +235,15 @@
       ]
     },
     {
-      "title": "Hříchy pro pátera Knoxe",
-      "file": "hrichy_pro_patera_knoxe_023.html",
-      "words": 8507,
-      "chars": 50689,
-      "ideas": 34,
-      "role": "chapter",
-      "order": 19,
-      "prev": "hrichy_pro_patera_knoxe_022.html",
-      "next": "hrichy_pro_patera_knoxe_024.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hříchy pro pátera Knoxe",
-      "file": "hrichy_pro_patera_knoxe_024.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 20,
-      "prev": "hrichy_pro_patera_knoxe_023.html",
-      "next": "hrichy_pro_patera_knoxe_025.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hříchy pro pátera Knoxe",
-      "file": "hrichy_pro_patera_knoxe_025.html",
-      "words": 6384,
-      "chars": 37082,
-      "ideas": 74,
-      "role": "chapter",
-      "order": 21,
-      "prev": "hrichy_pro_patera_knoxe_024.html",
-      "next": "hrichy_pro_patera_knoxe_026.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Atlantická\nromance • Hříchy pro pátera Knoxe",
       "file": "hrichy_pro_patera_knoxe_026.html",
-      "words": 92,
-      "chars": 592,
-      "ideas": 15,
+      "words": 7038,
+      "chars": 43731,
+      "ideas": 220,
       "role": "chapter",
-      "order": 22,
-      "prev": "hrichy_pro_patera_knoxe_025.html",
-      "next": "hrichy_pro_patera_knoxe_027.html",
+      "order": 11,
+      "prev": "hrichy_pro_patera_knoxe_022.html",
+      "next": "hrichy_pro_patera_knoxe_028.html",
       "toc": [
         {
           "index": 0,
@@ -475,35 +255,15 @@
       ]
     },
     {
-      "title": "Hříchy pro pátera Knoxe",
-      "file": "hrichy_pro_patera_knoxe_027.html",
-      "words": 6946,
-      "chars": 43139,
-      "ideas": 205,
-      "role": "chapter",
-      "order": 23,
-      "prev": "hrichy_pro_patera_knoxe_026.html",
-      "next": "hrichy_pro_patera_knoxe_028.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Mezi námi děvčaty • Hříchy pro pátera Knoxe",
       "file": "hrichy_pro_patera_knoxe_028.html",
-      "words": 118,
-      "chars": 766,
-      "ideas": 20,
+      "words": 4126,
+      "chars": 24907,
+      "ideas": 91,
       "role": "chapter",
-      "order": 24,
-      "prev": "hrichy_pro_patera_knoxe_027.html",
-      "next": "hrichy_pro_patera_knoxe_029.html",
+      "order": 12,
+      "prev": "hrichy_pro_patera_knoxe_026.html",
+      "next": "hrichy_pro_patera_knoxe_030.html",
       "toc": [
         {
           "index": 0,
@@ -515,60 +275,20 @@
       ]
     },
     {
-      "title": "Hříchy pro pátera Knoxe",
-      "file": "hrichy_pro_patera_knoxe_029.html",
-      "words": 4008,
-      "chars": 24141,
-      "ideas": 71,
-      "role": "chapter",
-      "order": 25,
-      "prev": "hrichy_pro_patera_knoxe_028.html",
-      "next": "hrichy_pro_patera_knoxe_030.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Třetí\nvrchol trojúhelníku • Hříchy pro pátera Knoxe",
       "file": "hrichy_pro_patera_knoxe_030.html",
-      "words": 100,
-      "chars": 636,
-      "ideas": 18,
+      "words": 10516,
+      "chars": 63738,
+      "ideas": 338,
       "role": "chapter",
-      "order": 26,
-      "prev": "hrichy_pro_patera_knoxe_029.html",
-      "next": "hrichy_pro_patera_knoxe_031.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Třetí\nvrchol trojúhelníku",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hříchy pro pátera Knoxe",
-      "file": "hrichy_pro_patera_knoxe_031.html",
-      "words": 10416,
-      "chars": 63102,
-      "ideas": 320,
-      "role": "chapter",
-      "order": 27,
-      "prev": "hrichy_pro_patera_knoxe_030.html",
+      "order": 13,
+      "prev": "hrichy_pro_patera_knoxe_028.html",
       "next": "hrichy_pro_patera_knoxe_032.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Třetí\nvrchol trojúhelníku",
           "id": null,
           "children": []
         }
@@ -581,8 +301,8 @@
       "chars": 5483,
       "ideas": 24,
       "role": "chapter",
-      "order": 28,
-      "prev": "hrichy_pro_patera_knoxe_031.html",
+      "order": 14,
+      "prev": "hrichy_pro_patera_knoxe_030.html",
       "next": "hrichy_pro_patera_knoxe_033.html",
       "toc": [
         {
@@ -601,7 +321,7 @@
       "chars": 7986,
       "ideas": 20,
       "role": "chapter",
-      "order": 29,
+      "order": 15,
       "prev": "hrichy_pro_patera_knoxe_032.html",
       "next": "hrichy_pro_patera_knoxe_034.html",
       "toc": [
@@ -621,9 +341,9 @@
       "chars": 18,
       "ideas": 1,
       "role": "chapter",
-      "order": 30,
+      "order": 16,
       "prev": "hrichy_pro_patera_knoxe_033.html",
-      "next": "hrichy_pro_patera_knoxe_035.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -635,34 +355,14 @@
       ]
     },
     {
-      "title": "Hříchy pro pátera Knoxe",
-      "file": "hrichy_pro_patera_knoxe_035.html",
-      "words": 38,
-      "chars": 234,
-      "ideas": 10,
-      "role": "chapter",
-      "order": 31,
-      "prev": "hrichy_pro_patera_knoxe_034.html",
-      "next": "colophon.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Tiráž • Hříchy pro pátera Knoxe",
       "file": "colophon.html",
-      "words": 171,
-      "chars": 1269,
-      "ideas": 15,
+      "words": 209,
+      "chars": 1503,
+      "ideas": 25,
       "role": "colophon",
       "order": null,
-      "prev": "hrichy_pro_patera_knoxe_035.html",
+      "prev": "hrichy_pro_patera_knoxe_034.html",
       "next": null,
       "toc": [
         {
@@ -682,9 +382,9 @@
       "ideas": 2193
     },
     "chapters": {
-      "words": 84204,
-      "chars": 508988,
-      "ideas": 2174
+      "words": 84166,
+      "chars": 508754,
+      "ideas": 2164
     }
   }
 }
