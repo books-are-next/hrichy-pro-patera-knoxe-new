@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - hrichy_pro_patera_knoxe_002.html
+  - promo.html
   - hrichy_pro_patera_knoxe_005.html
   - hrichy_pro_patera_knoxe_006.html
   - hrichy_pro_patera_knoxe_007.html

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Intimní
-  záležitost
+title: Intimní záležitost
 contentType: prose
 ---
 

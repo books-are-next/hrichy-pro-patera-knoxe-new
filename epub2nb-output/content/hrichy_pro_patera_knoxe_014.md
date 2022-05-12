@@ -1,7 +1,5 @@
 ---
-title: |-
-  Otázka
-  alibi
+title: Otázka alibi
 contentType: prose
 ---
 

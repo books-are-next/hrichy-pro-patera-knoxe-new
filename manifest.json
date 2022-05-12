@@ -1,22 +1,43 @@
 {
-  "author": "Josef Škvorecký",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "skvorecky-hrichy-pro-patera-knoxe-8b3eea9",
-  "languagecode": "cs",
-  "modified": "2017-05-18T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Hříchy pro pátera Knoxe",
-  "revision": "8b3eea9",
+  "author": "Josef Škvorecký",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "skvorecky-hrichy-pro-patera-knoxe-dc688f6",
+  "revision": "dc688f6",
+  "readingOrder": [
+    "promo.html",
+    "hrichy_pro_patera_knoxe_005.html",
+    "hrichy_pro_patera_knoxe_006.html",
+    "hrichy_pro_patera_knoxe_007.html",
+    "hrichy_pro_patera_knoxe_008.html",
+    "hrichy_pro_patera_knoxe_010.html",
+    "hrichy_pro_patera_knoxe_012.html",
+    "hrichy_pro_patera_knoxe_014.html",
+    "hrichy_pro_patera_knoxe_018.html",
+    "hrichy_pro_patera_knoxe_020.html",
+    "hrichy_pro_patera_knoxe_022.html",
+    "hrichy_pro_patera_knoxe_026.html",
+    "hrichy_pro_patera_knoxe_028.html",
+    "hrichy_pro_patera_knoxe_030.html",
+    "hrichy_pro_patera_knoxe_032.html",
+    "hrichy_pro_patera_knoxe_033.html",
+    "hrichy_pro_patera_knoxe_034.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Mar 28 2022 11:29:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648466962674
+    "date": "Thu May 12 2022 10:41:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352092748
   },
   "documents": [
     {
-      "title": "Hříchy pro pátera Knoxe",
-      "file": "hrichy_pro_patera_knoxe_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +45,7 @@
       "order": 0,
       "prev": null,
       "next": "hrichy_pro_patera_knoxe_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Hříchy pro pátera Knoxe",
@@ -42,7 +55,7 @@
       "ideas": 3,
       "role": "chapter",
       "order": 1,
-      "prev": "hrichy_pro_patera_knoxe_002.html",
+      "prev": "promo.html",
       "next": "hrichy_pro_patera_knoxe_006.html",
       "toc": [
         {
@@ -75,11 +88,11 @@
       ]
     },
     {
-      "title": "Desatero pátera\nRonalda Arbuthnota Knoxe • Hříchy pro pátera Knoxe",
+      "title": "Desatero pátera Ronalda Arbuthnota Knoxe",
       "file": "hrichy_pro_patera_knoxe_007.html",
       "words": 150,
-      "chars": 1014,
-      "ideas": 13,
+      "chars": 1015,
+      "ideas": 12,
       "role": "chapter",
       "order": 3,
       "prev": "hrichy_pro_patera_knoxe_006.html",
@@ -88,18 +101,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Desatero pátera\nRonalda Arbuthnota Knoxe",
+          "name": "Desatero pátera Ronalda Arbuthnota Knoxe",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Intimní\nzáležitost • Hříchy pro pátera Knoxe",
+      "title": "Intimní záležitost",
       "file": "hrichy_pro_patera_knoxe_008.html",
       "words": 7108,
-      "chars": 42775,
-      "ideas": 187,
+      "chars": 42776,
+      "ideas": 186,
       "role": "chapter",
       "order": 4,
       "prev": "hrichy_pro_patera_knoxe_007.html",
@@ -108,14 +121,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Intimní\nzáležitost",
+          "name": "Intimní záležitost",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Omyl v Šlágrsé • Hříchy pro pátera Knoxe",
+      "title": "Omyl v Šlágrsé",
       "file": "hrichy_pro_patera_knoxe_010.html",
       "words": 8174,
       "chars": 50374,
@@ -135,7 +148,7 @@
       ]
     },
     {
-      "title": "Ženské za volantem • Hříchy pro pátera Knoxe",
+      "title": "Ženské za volantem",
       "file": "hrichy_pro_patera_knoxe_012.html",
       "words": 4495,
       "chars": 27546,
@@ -155,11 +168,11 @@
       ]
     },
     {
-      "title": "Otázka\nalibi • Hříchy pro pátera Knoxe",
+      "title": "Otázka alibi",
       "file": "hrichy_pro_patera_knoxe_014.html",
       "words": 6101,
-      "chars": 37335,
-      "ideas": 248,
+      "chars": 37336,
+      "ideas": 247,
       "role": "chapter",
       "order": 7,
       "prev": "hrichy_pro_patera_knoxe_012.html",
@@ -168,14 +181,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Otázka\nalibi",
+          "name": "Otázka alibi",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Proč tolik šámusů • Hříchy pro pátera Knoxe",
+      "title": "Proč tolik šámusů",
       "file": "hrichy_pro_patera_knoxe_018.html",
       "words": 13627,
       "chars": 80905,
@@ -195,7 +208,7 @@
       ]
     },
     {
-      "title": "Justiční omyl • Hříchy pro pátera Knoxe",
+      "title": "Justiční omyl",
       "file": "hrichy_pro_patera_knoxe_020.html",
       "words": 5220,
       "chars": 31505,
@@ -215,11 +228,11 @@
       ]
     },
     {
-      "title": "Matematikové\nz Grizzly Drive • Hříchy pro pátera Knoxe",
+      "title": "Matematikové z Grizzly Drive",
       "file": "hrichy_pro_patera_knoxe_022.html",
       "words": 15005,
-      "chars": 88499,
-      "ideas": 124,
+      "chars": 88500,
+      "ideas": 123,
       "role": "chapter",
       "order": 10,
       "prev": "hrichy_pro_patera_knoxe_020.html",
@@ -228,18 +241,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Matematikové\nz Grizzly Drive",
+          "name": "Matematikové z Grizzly Drive",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Atlantická\nromance • Hříchy pro pátera Knoxe",
+      "title": "Atlantická romance",
       "file": "hrichy_pro_patera_knoxe_026.html",
       "words": 7038,
-      "chars": 43731,
-      "ideas": 220,
+      "chars": 43732,
+      "ideas": 219,
       "role": "chapter",
       "order": 11,
       "prev": "hrichy_pro_patera_knoxe_022.html",
@@ -248,14 +261,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Atlantická\nromance",
+          "name": "Atlantická romance",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Mezi námi děvčaty • Hříchy pro pátera Knoxe",
+      "title": "Mezi námi děvčaty",
       "file": "hrichy_pro_patera_knoxe_028.html",
       "words": 4126,
       "chars": 24907,
@@ -275,11 +288,11 @@
       ]
     },
     {
-      "title": "Třetí\nvrchol trojúhelníku • Hříchy pro pátera Knoxe",
+      "title": "Třetí vrchol trojúhelníku",
       "file": "hrichy_pro_patera_knoxe_030.html",
       "words": 10516,
-      "chars": 63738,
-      "ideas": 338,
+      "chars": 63739,
+      "ideas": 337,
       "role": "chapter",
       "order": 13,
       "prev": "hrichy_pro_patera_knoxe_028.html",
@@ -288,14 +301,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Třetí\nvrchol trojúhelníku",
+          "name": "Třetí vrchol trojúhelníku",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Rozhřešení • Hříchy pro pátera Knoxe",
+      "title": "Rozhřešení",
       "file": "hrichy_pro_patera_knoxe_032.html",
       "words": 844,
       "chars": 5483,
@@ -315,11 +328,11 @@
       ]
     },
     {
-      "title": "Autorova\npoznámka • Hříchy pro pátera Knoxe",
+      "title": "Autorova poznámka",
       "file": "hrichy_pro_patera_knoxe_033.html",
       "words": 1284,
-      "chars": 7986,
-      "ideas": 20,
+      "chars": 7987,
+      "ideas": 19,
       "role": "chapter",
       "order": 15,
       "prev": "hrichy_pro_patera_knoxe_032.html",
@@ -328,14 +341,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Autorova\npoznámka",
+          "name": "Autorova poznámka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Poznámky pod čarou • Hříchy pro pátera Knoxe",
+      "title": "Poznámky pod čarou",
       "file": "hrichy_pro_patera_knoxe_034.html",
       "words": 3,
       "chars": 18,
@@ -355,11 +368,11 @@
       ]
     },
     {
-      "title": "Tiráž • Hříchy pro pátera Knoxe",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 209,
-      "chars": 1503,
-      "ideas": 25,
+      "words": 179,
+      "chars": 1325,
+      "ideas": 19,
       "role": "colophon",
       "order": null,
       "prev": "hrichy_pro_patera_knoxe_034.html",
@@ -377,14 +390,14 @@
   ],
   "totals": {
     "all": {
-      "words": 84383,
-      "chars": 510306,
-      "ideas": 2193
+      "words": 84353,
+      "chars": 510135,
+      "ideas": 2180
     },
     "chapters": {
       "words": 84166,
-      "chars": 508754,
-      "ideas": 2164
+      "chars": 508761,
+      "ideas": 2157
     }
   }
 }

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Třetí
-  vrchol trojúhelníku
+title: Třetí vrchol trojúhelníku
 contentType: prose
 ---
 

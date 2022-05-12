@@ -1,7 +1,5 @@
 ---
-title: |-
-  Autorova
-  poznámka
+title: Autorova poznámka
 contentType: prose
 ---
 

@@ -52,7 +52,7 @@
             "filename": "hrichy_pro_patera_knoxe_002.md",
             "xhtml": "hrichy_pro_patera_knoxe_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -523,13 +523,13 @@
         "xhtml": "hrichy_pro_patera_knoxe_006.html"
       },
       {
-        "titleSuggest": "Desatero pátera\nRonalda Arbuthnota Knoxe",
+        "titleSuggest": "Desatero pátera Ronalda Arbuthnota Knoxe",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_007.md",
         "xhtml": "hrichy_pro_patera_knoxe_007.html"
       },
       {
-        "titleSuggest": "Intimní\nzáležitost",
+        "titleSuggest": "Intimní záležitost",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_008.md",
         "xhtml": "hrichy_pro_patera_knoxe_008.html"
@@ -565,7 +565,7 @@
         "xhtml": "hrichy_pro_patera_knoxe_013.html"
       },
       {
-        "titleSuggest": "Otázka\nalibi",
+        "titleSuggest": "Otázka alibi",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_014.md",
         "xhtml": "hrichy_pro_patera_knoxe_014.html"
@@ -613,7 +613,7 @@
         "xhtml": "hrichy_pro_patera_knoxe_021.html"
       },
       {
-        "titleSuggest": "Matematikové\nz Grizzly Drive",
+        "titleSuggest": "Matematikové z Grizzly Drive",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_022.md",
         "xhtml": "hrichy_pro_patera_knoxe_022.html"
@@ -637,7 +637,7 @@
         "xhtml": "hrichy_pro_patera_knoxe_025.html"
       },
       {
-        "titleSuggest": "Atlantická\nromance",
+        "titleSuggest": "Atlantická romance",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_026.md",
         "xhtml": "hrichy_pro_patera_knoxe_026.html"
@@ -661,7 +661,7 @@
         "xhtml": "hrichy_pro_patera_knoxe_029.html"
       },
       {
-        "titleSuggest": "Třetí\nvrchol trojúhelníku",
+        "titleSuggest": "Třetí vrchol trojúhelníku",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_030.md",
         "xhtml": "hrichy_pro_patera_knoxe_030.html"
@@ -679,7 +679,7 @@
         "xhtml": "hrichy_pro_patera_knoxe_032.html"
       },
       {
-        "titleSuggest": "Autorova\npoznámka",
+        "titleSuggest": "Autorova poznámka",
         "subtitleSuggest": "",
         "filename": "hrichy_pro_patera_knoxe_033.md",
         "xhtml": "hrichy_pro_patera_knoxe_033.html"
@@ -916,6 +916,6 @@
       "user": "books-are-next",
       "repo": "hrichy-pro-patera-knoxe-new"
     },
-    "generatedAt": 1648466905976
+    "generatedAt": 1652351533982
   }
 }

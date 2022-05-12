@@ -1,5 +1,5 @@
 ---
-title: "Matematikové\nz\_Grizzly Drive"
+title: "Matematikové z\_Grizzly Drive"
 contentType: prose
 ---
 
