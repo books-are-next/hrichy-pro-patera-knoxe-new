@@ -1,7 +1,5 @@
 ---
-title: |-
-  Desatero pátera
-  Ronalda Arbuthnota Knoxe
+title: Desatero pátera Ronalda Arbuthnota Knoxe
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Atlantická
-  romance
+title: Atlantická romance
 contentType: prose
 ---
 
