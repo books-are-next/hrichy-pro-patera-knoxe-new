@@ -3,6 +3,8 @@ title: Autorova poznámka
 contentType: prose
 ---
 
+<section>
+
 Poté, co jsme s Honzou Zábranou stvořili trilogii Vražd, a když jsem sám napsal Smutek poručíka Borůvky, v psaní detektivek se mi zalíbilo; hodlal jsem pokračovat a pátral jsem po něčem, co by v žánru bylo novum, nebo, jak říkají v Americe, co by bylo _first__._ Nebylo to snadné. Nejdřív jsem uvažoval o originálnějším detektivovi, než byl Borůvka, ale v tomhle směru existoval po pionýrech (tedy po Poeově Dupinovi a jeho mnohem úspěšnější napodobenině, Doylovu Sherlocku Holmesovi) nepřeberný zástup géniů, charakterizovaných nejširším spektrem zvláštností a výstředností, od nehybného tlusťocha Nerona Wolfa přes anonymního staříka v rohu čajovny baronky Orczyové, slepce Maxe Carradose v příbězích Ernesta Bramaha k mnoha dalším. Po první dámě v branži – z románu _Zkušenosti Loveday Brookeové, detektivky_ (1894, autorka Catherine Louise Pirkisová) – následoval stále nepřehlednější roj stopařek, jak v hříšné farnosti, tak v betonové džungli.
 
 Brzy jsem tedy opustil snahu přivést na scénu bezprecedentního Velkého Detektiva; do nepravděpodobných extrémů, jakým by byl třeba pátrač pygmejské rasy v Kostelci, jsem nechtěl zacházet. Napadl mě však R. Austin Freeman a jeho pozapomenutá technika „příběhu naruby“: vrah je od začátku známý a napětí spočívá v tom, jak detektiv postupně odhaluje stopy, až podle nich pachatele dostane na elektrické křeslo. Jenže, pokud jsem věděl, od Freemanova _The Singing Bone_ (1912) nikdo známější tuhle techniku nepoužil, a já jsem se nechtěl stát frapantním prvním napodobitelem (Columbo, který se k předchůdcům nepřiznává, se objevil až později a jenom v televizi). A pak jsem si vzpomněl na pátera Knoxe, a dostal jsem ten nápad. Dodnes si lichotím, že jsem byl první a zatím jediný, jenže při stále rostoucí záplavě detektivních opusů to s jistotou tvrdit nemohu.
@@ -48,3 +50,5 @@ Ve filmové podobě byla to tedy jasná hra, nikoli tragický příběh o lidec
 Aspoň si myslím.
 
 _J. Š._
+
+</section>

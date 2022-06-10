@@ -3,6 +3,8 @@ title: Justiční omyl
 contentType: prose
 ---
 
+<section>
+
 Hřích šestý
 
 Whodunit
@@ -25,7 +27,11 @@ Osoby, jak přicházejí na scénu:
 
 **Dozorce**: něco se mu nezdálo
 
+</section>
 
+
+
+<section>
 
 Dívka stála u výkladní skříně s nosem přimáčknutým na zářící křišťál a v kratičké sukni, jaké donedávna nosívaly jenom školačky čtvrté obecné. Následkem toho poutaly její pozoruhodné nohy pozornost většiny mužů čekajících v hale binghamtonského letiště na večerní let společnosti MOHAWK z New Yorku do Binghamtonu a dále do Buffala a Chicaga. Ale ona sama patřila nadšeně na falešné zlato předmětů za výkladem _souvenir shopu__,_ otočila se a zavolala:
 
@@ -449,7 +455,9 @@ Je nespolehlivý.
 
 * * *
 
-  
+</section>
+
+<section>
 
 Detektiv se otočil a šel si sednout. Dlouho mlčel, přemýšlel. Viděl, jak dívčina kolena, ani trochu nezakrytá sukničkou, se rozklepala.
 
@@ -522,3 +530,5 @@ Dozorce, který právě znovu nahlédl dovnitř, se funkčně rozhořčil. Prudc
 „Krotil bych se, Cornhill, jo? A konec návštěvy! Prosím, slečno.“
 
 Plavovláska hrdě vyšla z cely. Bob Cornhill se v slzách zhroutil na podlahu. Dozorce mlsně zamžoural po nádherných nohou, které školácká suknička vůbec nezakrývala.
+
+</section>

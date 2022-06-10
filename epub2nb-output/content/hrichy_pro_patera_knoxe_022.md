@@ -3,6 +3,8 @@ title: "Matematikové z\_Grizzly Drive"
 contentType: prose
 ---
 
+<section>
+
 Hřích sedmý
 
 Whodunit
@@ -31,7 +33,11 @@ Osoby, jak přicházejí na scénu:
 
 **Ebenezer Bradstreet**: vypočítal datum počátku světa a pak jej půlku přeletěl
 
+</section>
 
+
+
+<section>
 
 Když se chce názorně znázornit trapas – aspoň tady v Americe – poví se anekdota o tom hypotetickým pánovi, který do společnosti ve fracích přišel omylem v tvídovém saku. To je ale teda úplně nic proti mně, která se z čistý dobroty srdce ocitla na Dvaačtyřicátý ulici v jednom takovym tom krámku, co prodávaj časopisy pro pány. Jako známá mladá pražská naivka jsem netušila, že se to pro dívku nehodí, ani když je lesbi, a tam vedou i tenhle sortiment; je-li lesbi, že si má poslat nějakýho hoška, a to já měla udělat taky, jenomže mi to napadlo až vevnitř. Protože když jsem, po dlouhým odmlčení z jejich strany, obdržela list od mých dvou drahých přítelíků Pavly a Jiřiny, v němž mi plni touhy oznamovali, že prý podle zpráv jsou v USA k dostání i zájmový časopisy jejich mezinárodního spolku, popadla mě tak neodolatelná touha po jednom kutloušku na Malý Straně, co na něj vždycky myslím, když myslím na tu zem za louží, opačnym směrem, že jsem se sebrala a expresní podzemkou jsem to vzala rovnou na Forty Second Street. V řadě zářících obchůdků jsem si vybrala ten největší, i když mě trochu zarazily dvě černý holčičky, který tiskly nosy na sklo a strašně se smály tomu za výkladem, což byly řady takových těch magazínů a na každým rozvalená jedna až dvě nahotiny. Skoro jsem se jim ani nedivila, když jsem do toho výkladu mrkla taky. Svět sice horuje o krásách ženskýho těla, přirozeně, ale za prvé: krásný je jedno z tisíce – já se domnívám, že moje tílko k nim náhodou patří, a nedomnívám se to sama – ale i to jedno krásný z tisíce je krásný, jen pokud se krásně postaví. Ovšem když se postaví na hlavu, jak by to nestydy na těch obálkách byly jistě ochotný udělat, kdyby to dovedly, je po kráse, a ty černý holčičky z toho měly docela právem gaudium, až jim nějaká starší, taky černá, paní dala pohlavek a já vstoupila do tý samoobsluhy.
 
@@ -109,11 +115,15 @@ Pro přehled jsem si to nakreslila:
 
 * * *
 
+</section>
 
 
 
 
 
+
+
+<section>
 
 Nojo, povídám nad tím plánkem. Ale včera dopoledne byla přece Ann na simultánce. Tu závoru na předních dveřích zaklapla, když se vrátila. Houby, praví Markusek. Na žádný simultánce nebyla. To už jsem zjistil. Bill Snake tu bude co nevidět.
 
@@ -193,7 +203,9 @@ Ovšem nehádat. V oblasti matematiky se to obzvlášť nehodí.
 
 * * *
 
-  
+</section>
+
+<section>
 
 Eště s tim počkej, pravím Markuskovi, a podám mu ten nesrozumitelně vyčíslenej líbesbrífek. A mrkni na to. Co ti to řiká?
 
@@ -300,3 +312,5 @@ Po pravdě řečeno, tohle mě na Markuseláka mrzí vlastně víc, než že mě
 Todle jsem ovšem nemyslela, když jsem mluvila o neřesti. Na svatbu jsem přišla ve svym novym minkovym kožiše, kterej mi dal Markuselák, už když věděl, že mi zahne s tou šikmovokou, teda vlastně jako náplast na bébé, a neustále přitom naříkal, jak se kvůli mně plácnul přes kapsu, za což přirozeně dostal bohatou odměnu. A na té svatbě Andula, trapně světská, už jsem si tak zvykla na její svatý chování, že mi to připadalo teď málem nemravný, prstejčkama zajede do minkový srsti a praví: To je nádhera! To sis pořídila za těch deset táců? Za jakejch deset táců? tážu se. No, Andula se trošku zarazí, asi se o tom nemá mluvit, ale vždyť je to skoro jako v rodině, praví málem hříšně. Za těch deset táců, co ti jako projev vděčnosti poslal táta po strýci Marcusovi, aby tě jako neurazil, kdyby ti to dal sám, a FBI by to taky mohlo považovat za úplatek, tak abys ještě za všechno, cos pro mě udělala, neměla nějaké nepříjemnosti.
 
 Tak jsem ten večer ztropila Markouskovi scénu, která obávám se, uspíšila to s tou z Hong Kongu. Ten minkovej kožich stál sotva šest. Takovou nemravnost jsem od něj teda fakticky nečekala, jakej byl praselák.
+
+</section>

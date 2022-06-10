@@ -3,6 +3,8 @@ title: Intimní záležitost
 contentType: prose
 ---
 
+<section>
+
 Hřích první
 
 Whodunit
@@ -27,7 +29,11 @@ Osoby, jak přicházejí na scénu:
 
 **Pacientka sanatoria**: vyjela si na noční výlet
 
+</section>
 
+
+
+<section>
 
 Poručík Borůvka si v duchu říkal, že ho do ženské trestnice přivedla pracovní svědomitost. Když o věci cestou ve služební volze přemýšlel, byl ochoten připustit, že na tom měly podíl i výčitky svědomí. I v nejhlubším zákoutí duše však kategoricky popíral, že by to byla poněkud povadlá tvář světlovlasé dívky v hrubé vězeňské kazajce. Popíral to, neboť to byla pravda.
 
@@ -49,7 +55,9 @@ _PROKURÁTOR: Slyšela jste, že by obžalovaná při té příležitosti něco 
 
 _SVĚDKYNĚ: Slyšela. Mezi dveřma se otočila a dovnitř řekla, přesně teda zaječela: „Počkej ty –“ – řekla hrozně sprostý slovo –_
 
-  
+</section>
+
+<section>
 
 „Je to fakt, pane poručíku,“ řekla dívka v kabátci z kobercové látky. „I když se teda dnes tomu sama divím. I při mym poměrně mladym věku už bych měla mít rozum. Jenže co je to platný, ženská ho prostě někdy nemá. Já můžu mít hlavu jako účetní, jako že mám, a pak na mě sedne růžový opojení a chovám se jak Svéhlavička. To vy neznáte.“
 
@@ -85,7 +93,9 @@ Poručík neviděl v té chvíli ty oči, ale ten článek a ty fotografie:
 
 _Role sourozenců svěřil režisér Weyr zajímavé dvojici. Bratra bude hrát Petr Weyr, studující DAMU, režisérův syn, jeho sestru mladá studentka medicíny Petra Hejduková. Už shoda křestních jmen má jistý půvab, ale ještě pozoruhodnější je jiná okolnost. Třebaže pan Weyr ml. má na křestním listě uveden jako rok narození 1948 a slečna Hejduková 1949, jsou ve skutečnosti stejně staří. Petr Weyr se totiž narodil několik minut před půlnocí na Silvestra 1948, zatímco Petra Hejduková spatřila světlo světa několik minut po půlnoci 1. ledna 1949. Bůhví, není-li v tom něco osudového…_
 
-  
+</section>
+
+<section>
 
 Tak to napsala, i se třemi tečkami, paní redaktorka Malinovská ve Vlastě, v tom časopise pro ženy, sice socialistické, ale přesto ženy.
 
@@ -113,7 +123,9 @@ _SVĚDKYNĚ: Prosím?_
 
 _PROKURÁTOR: Říkala jste něco o optice._
 
-  
+</section>
+
+<section>
 
 Nic tak zavánějícího špionáží na dívku sice neprasklo, ale stejně to s ní skončilo špatně. Poručík hleděl na její bledou tvář a najednou si uvědomil, že ji v duchu označuje pojmem ‚dívka‘, ačkoliv mohla být Zuzančinou matkou. Nemohl si však pomoci. Nebyla, věkem nebo bůhvíčím, z kategorie paní Borůvkové. Uvědomil si nebezpečí toho, spojuje-li se žena trestančina věku muži jeho věku v duchu s tím oroseným slovíčkem, zatřásl hlavou a usilovně zavzpomínal na jiné místo soudního protokolu, kde se znovu hovořilo o optice:
 
@@ -137,7 +149,9 @@ _PROKURÁTOR: Chtěl jste říct: křičela?_
 
 _SVĚDEK: Jo, křičela. Bylo to slyšet až ke mně do ložnice._
 
-  
+</section>
+
+<section>
 
 „Nojo,“ pravila dívka. „Feminizace na úrovni naprostý primitivizace. Já mu tam totiž přišla hodit tu roličku do ksiftu. Měla sem takovou uhozenou teorii, že tim ho naštvu, ponivač bude muset ty dva záběry přetáčet s ňákou jinou a to stojí prachy.“
 
@@ -161,7 +175,9 @@ Poručík ovšem věděl, proč se režisér rozhodl rozbít tu ideální dvojic
 
 _Vlasta, ten časopis, se mi dostal do ruky v pondělí. Přinesla mi ji do ordinace jedna pacientka, jestli prý jsem to už viděl, a když já, že ne, tak abych se prý podíval, jak to Petrušce pěkně sluší. Byl tam ten článek, že naši Petru obsadil Weyr, aby hrála s jeho synem ve filmu. Jenomže něco takového jsem nemohl připustit. Proč? Podívejte se. V naší rodině se doktorské řemeslo dědí. Už pradědeček byl doktor, a děda, a můj otec taky. Já jsem první, kdo nemá syna. Nemohl jsem bohužel mít děti, trpím testikulární azoospermií, chci říct, že už jsem nemohl mít víc dětí. Štafetu musela proto převzít Petruška. Ale ona to udělala docela ráda. Už odmalička chtěla být doktorkou. A první ročník na fakultě jí dopad výborně. A teď se do toho, prosím vás, vžijte: Taková holka, hezká, veselá, výborná medička, a najednou se dostane k filmu. To jsem vám zapomněl říct jednu důležitou věc. Její matka, moje nebožka žena, byla herečka. Ne, že bych přeceňoval dědičnost, ale prostředí dělá hodně. Doma žila Petra pořád, abych tak řek, v ovzduší dezinfekce – a kdyby teď přičichla k filmu, ke slávě – ne. To jsem nechtěl riskovat. Tak jsem se vypravil za Rudou. Správně, za Weyrem. My jsme staří známí, ještě z gymplu, a s jeho manželkou vlastně Rudu seznámila moje první nebožka žena. Stýkali jsme se ještě nějakou dobu po jejich svatbě. Hráli jsme tenis, jezdili na chatu, jak to tak bývá. Ale Ruda pak dostal angažmá v Praze – to víte, jakoupak budoucnost má filmový režisér v Brně, jeho tchán byl šéfem nějaké tvůrčí skupiny na Barrandově. Tak naše styky přestaly. Mě sice pak přeložili do Pardubic, jenže to znáte. Už nebyl čas. Jednou dvakrát jsem se s Rudou viděl, když jsem byl služebně v Praze. Jinak nic. Děti se prakticky neznaly. A tak jsem se tedy za ním vypravil. On dal tu roli Petře stejně jen proto, aby mi udělal radost. Ale když jsem mu všechno vyložil, jak se bojím, aby z Petry nebyla mizerná filmová hvězda, když z ní může být dobrá doktorka, Ruda to uznal. Petra? Ne, té jsem to neřek. Ruda mi slíbil, že on jí to taky neřekne. Že se vymluví na kamerové zkoušky nebo na co. Že Petra není fotogenická. Že je? To já vím. Až moc. Je to moje dcera, ale snad to smím říct a nebude to vypadat jako sebechvála. Kdyby to nebyla moje dcera a kdyby mně bylo o čtvrtstoletí míň – no jo, uhod jste. Toho jsem se taky bál. Petr je kluk jako panna. A vyštudovat medicínu, to se dá těžce stihnout s jinýma starostma v hlavě, nebo dokonce s mrnětem v kočárku. Ne ne, já chci z Petry mít doktorku a pro ni taky bude mnohem lepší, když bude umět pořádně diagnostikovat apendicitýdu, místo aby hrála štěky ve filmu nebo obsluhovala nějakého hvězdu manžela. Tak jsem to Rudovi řek všechno tak, jak jsem si to myslel, a on mě poslech._
 
-  
+</section>
+
+<section>
 
 A ještě několik vět z udivené výpovědi studující medicíny Petry Hejdukové:
 
@@ -181,7 +197,9 @@ _SVĚDKYNĚ: No, že ji ale obsadil takovou napodobeninou, to teda - Takže je m
 
 _PROKURÁTOR: Děkuji, slečno, to stačí._
 
-  
+</section>
+
+<section>
 
 „Kdepak, kvůli mně by ji nepřevobsadil,“ vzdychla dívka. „I dyž jinak to byla záhada. Viděl ste tu Laštovičkovou, co jí eště stih osobně angažovat, než – než sem ho, podle vás, voddělala?“
 
@@ -195,7 +213,9 @@ A vzpomněl si na výslech režisérova asistenta:
 
 _Volal, to bylo v úterý, den před vraždou. Asi v osm večer. Zrovna u mě byla redaktorka Malinovská, tak to hned druhej den dala do Lidový demokracie. Abych okamžitě, ještě v noci, sehnal Laštovičkovou, že převezme tu roli místo Hejdukový. Já chtěl něco namítnout, ale on jenom řek, že Hejdukový to zakázal tatínek a že se s tím nedá nic dělat, a sek s telefonem. Malinovská to pak ráno v novinách rozmázla: Že Petra Hejduková se role vzdala na přání otce. Údajně prý aby jí práce na filmu nepřekážela při studiu. Ale kdo prý ví…_
 
-  
+</section>
+
+<section>
 
 „Rozum zůstává stát, viďte? Laštovičková!“ rozhořčovala se dívka. „Vyhodí takovýho cukrouška, jako je ta kráva Hejduková, a najme si vobličejík, kterej de zabírat jenom zezadu, aby se všichni v kině nepolekali. To mi teda vysvětlete!“ Dívka se málem rozohnila, vězeňskou šedí zázračně prosvitla bezmála svěží barva. Je to asi velice živá dívka, zauvažoval poručík. Tím smutněji jí musí být v base. A opět ho bodla výčitka svědomí, že si v tomhle případě trošku zalajdačil.
 
@@ -287,13 +307,17 @@ Dívka zavrtěla hlavou.
 
 * * *
 
-  
+</section>
+
+<section>
 
 Netušila, jakou vyslovila pravdu a jak se o ní v průběhu příštích dvou let, která stráví v daleké cizině, dokonale přesvědčí. Ani poručík to tehdy netušil. Obrátil list ve spisech a začetl se do výpovědi režisérova syna. I ta dívce tenkrát přitížila:
 
 _Jo, nějakou hádku jsem slyšel. Jenom matně, mám pokoj v podkroví a otcovy milenky mě nezajímaj. Nějaká ženská tam ječela. Jestli obžalovaná, to nevím. Ženský, když ječej, mají úplně všechny úplně stejnej hlas. Jo. To bylo v úterý. Ve středu jsem to trochu natáh, vrátil jsem se až po půlnoci. To už bylo ve vile ticho. A ráno jdu vzbudit tátu, protože máma je už víc jak měsíc v Poděbradech. Měli jsme jet brzo do aťasu, a on tam ležel a bylo jaksi po něm. Já jinak vydržím dost – ale když jsem poznal, že je táta studenej, udělalo se mi nalevačku. Málem jsem tam omdlel._
 
-  
+</section>
+
+<section>
 
 Ovšem neomdlel. Zavolal na policii a omdlel někdo jiný. A poručík, když v reminiscencích dospěl až sem, náhle jako by ožil. Vymrštil se z lenošky a zazíral do tmy pokoje. Před sebou, v místech, kde se na stěně slabě lesklo zarámované osvědčení vzorného pracovníka VB, uviděl tvář mladého Weyra, tu, na níž Zuzanka shledala jen nezajímavé, jalové hezounství. A pak mu vedle ní, před zrakem fantazie, naskočil obličej lékařovy dcery, permanentně a trochu příliš promyšleně udivený, jak říká: _„…takovou napodobeninou, to teda – Takže je mi to vlastně teď divný, proč mi tu roli vzal…“_ A poté oba obličeje zmizely a objevila se dívka v šatech z kobercové látky, to už neseděla za stolem, stála, podávala mu zmozolnatělou ruku, trápila ho šedivýma očima a na něco si vzpomněla: „Teď mi to došlo, pane poručíku – dejte mi tu fotku! No tu těch dvou nádherů.“ A když jí poručík ještě jednou podal výstřižek z novin, zahleděla se naň upřeně a pokračovala: „No jasně. Už to vim, co mně na těch dvou bylo divný. Mrkněte na to!“ Vrátila fotografii poručíkovi.
 
@@ -402,3 +426,5 @@ Poručík zesmutněl. Znovu se v něm probudila naděje.
 „V Hodkovičkách hrajou jeden jeho starší film. Fanfán Tulipán. Nešla,“ odkašlal si, zcela klasicky, nejsa si vědom toho starého klišé, tak životu vlastního, které právě naplňoval. „Neměla byste některý večer –“
 
 Dívka na něho pohlédla šedivýma očima. Už na to ani nepotřebovala instinkt. V poručíkově tváři to bylo napsáno palcovými titulky. Jenomže byla teprve třetí den z basy venku a měla toho dost. Na dlouhou dobu. Aspoň si to v té chvíli myslela. Vůbec si neuvědomila, že za svou svobodu vděčí vlastně poručíkovi, neboť dívky jsou vždycky nevděčné. A zavrtěla hlavou dřív, než smutný poručík dokončil otázku.
+
+</section>

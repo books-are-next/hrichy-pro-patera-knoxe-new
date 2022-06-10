@@ -3,6 +3,8 @@ title: Rozhřešení
 contentType: prose
 ---
 
+<section>
+
 V povídkách, kde by příliš těžký hřích proti Knoxovu Desateru znemožnil čtenáři logickou dedukci, je hřích „vykoupen“ stopou podstatně nápadnější, než káže dobrý mrav detektivky. Jindy lze zas vydedukovat řešení, jestliže se čtenář dobře naučí páterova přikázání.
 
 **1) Intimní záležitost**
@@ -48,3 +50,5 @@ V povídce Otázka alibi vystoupila Zuzán jako Evin watson, a příběh o vr
 Sexuologové by se možná o podstatu věci přeli. Páter Knox však homosexualitu jistě pokládal za faktor nepřirozený. Přikázání _druhé__._ Nepřirozenost – ve smyslu páterových názorů – vztahů a osob okolo ing. Ludvy Arnolda je v povídce naznačena víc než nápadně. A koneckonců, ani název není bez významu.
 
 Nakonec poznámka jazyková. Za nejednotnost tvarů (na jedné straně gentleman nebo cocktail, na druhé ofis nebo drajvovat apod.) nenese odpovědnost redaktorka prvního vydání paní Kožíšková, ale tvrdohlavost Evina watsona, myslím toho spisovatele, co se – na rozdíl od slušných lidí doma i v exilu – nestydí ani v krásné literatuře používat i tak silné výrazy jako například Potok; takové slovo, dle Vratislava Blažka blahé paměti, nemá přes rty českého spisovatele vůbec přejít. Proto jej Eva v téhle knize také nepoužívá.
+
+</section>

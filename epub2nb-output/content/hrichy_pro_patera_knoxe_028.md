@@ -3,6 +3,8 @@ title: Mezi námi děvčaty
 contentType: prose
 ---
 
+<section>
+
 Hřích devátý
 
 Whodunit
@@ -41,9 +43,13 @@ Osoby, jak přicházejí na scénu:
 
 **Toplesska Lucy**: omdlela
 
+</section>
 
 
- „Perosím, dámy,“ pravila osobitou výslovností černovláska s důlky ve tvářích a vzhlédla od novin ke dvěma hochům, kteří podobně jako ona seděli na vyšívaných polštářích na podlaze. Byly to francouzské noviny a byli to hoši oblečení v modrobíle pruhované kalhoty, jakým se na Západě říká _tights__,_ protože přiléhají k tělu jako slupka přiléhá k jablku. Ale nebylo to na Západě, nýbrž na Malé Straně; pokoj, kde seděli, zdobil malířský stojan s netknutým plátnem, orientální koberečky, červotočiví svatí, jaké v opuštěných kapličkách kradou podnikaví venkované pro valutové turisty, a mystické malby, znázorňující nahé muže, jak podivně propleteni poletují v oblacích. Místnost tajemně ozařovala měděná lampa se stínítkem perforovaným do podoby čínského draka a uprostřed pokoje ve dvou rokokových křeslech sražených k sobě tak, že vzniklo něco na způsob bohatě vyřezávané kolébky, spinkalo v pěně bleděmodrého krajkoví růžové děťátko se zlatými vlásky.
+
+<section>
+
+„Perosím, dámy,“ pravila osobitou výslovností černovláska s důlky ve tvářích a vzhlédla od novin ke dvěma hochům, kteří podobně jako ona seděli na vyšívaných polštářích na podlaze. Byly to francouzské noviny a byli to hoši oblečení v modrobíle pruhované kalhoty, jakým se na Západě říká _tights__,_ protože přiléhají k tělu jako slupka přiléhá k jablku. Ale nebylo to na Západě, nýbrž na Malé Straně; pokoj, kde seděli, zdobil malířský stojan s netknutým plátnem, orientální koberečky, červotočiví svatí, jaké v opuštěných kapličkách kradou podnikaví venkované pro valutové turisty, a mystické malby, znázorňující nahé muže, jak podivně propleteni poletují v oblacích. Místnost tajemně ozařovala měděná lampa se stínítkem perforovaným do podoby čínského draka a uprostřed pokoje ve dvou rokokových křeslech sražených k sobě tak, že vzniklo něco na způsob bohatě vyřezávané kolébky, spinkalo v pěně bleděmodrého krajkoví růžové děťátko se zlatými vlásky.
 
 „Perosím, dámy,“ pravila tedy dívka, podala noviny, které ten den přivezla letadlem z Paříže, oběma hochům a hoši jako jeden muž otevřeli ústa nad velikou fotografií téže dívky s dolíčky na první straně a vydechli: „Ó! No né! Zuzáne!“
 
@@ -133,7 +139,9 @@ Pozorný čtenář ví už přirozeně všechno, a odpustil i hříšek – p
 
 * * *
 
-  
+</section>
+
+<section>
 
 „No byla to peřirozeně milenka Chladnýho Jeana. Jedna ze dvou, co se řízenim osudu sešly na tom Evoušovým dámskym dýchánku v Neuilly,“ pravila potom Zuzán. „Jedna byla Joyce, o existenci tý druhý nevěděla, a doplatila na ten nedostatek praktickýho vzdělání. Druhá, co Joyce propíchla ice jéerpickem, se to na ni ten den dověděla, a jak se zlískala, přišlo jí to líto, no, a teď sedí. S polehčujícíma okolnostma bude ještě deset let.“
 
@@ -153,7 +161,9 @@ _Potom: Já, Evouš, Louise, Ginette, Lucy, Laura, Danielle_
 
 _Nakonec: Já, Evouš, Louise, Ginette, Lucy, Laura, Danielle, Mireille._
 
-  
+</section>
+
+<section>
 
 Pak Zuzán pohlédla na oba hochy tázavě, ale hoši nebyli příliš nadáni schopností logické dedukce, jež se ostatně objevuje spíše u mužů. Zapálila si tedy cigaretu, vyfoukla kouř a dolíčky ve tvářích na chvilku zahalil průsvitný stín. „Louise a Lucy,“ pravila, „který nebyly den předtím u Joyce, neslyšely, jak vypadá Evoušův milej. Laura a Danielle zase slyšely popis Evoušovýho milce a Chladnýho Jeana znaly, ale neslyšely to vo tom negramotnym milostnym psaníčku. A Mireille neslyšela z těchhle všech informací vůbec nic. A teďka: v úvahu pro autorství toho psaníčka plnýho chyb proti francouzský gramatice přicházely tři – když pominu sebe, ponivač já byla v Paříži poperve v životě a teprve dva dni, takže bych při nejlepší vůli Chladnýho Jeana zobnout nestačila: Mireille, ta byla venkovský trdlo, Evouš jako Češka a Joyce jako Angličanka.“ Zuzán vyňala z kabely dudlík a vrazila jej Pernille do růžové pusinky.
 
@@ -171,7 +181,9 @@ _Potom: Já, Evouš, Louise, GINETTE, Lucy, Laura, Danielle_
 
 _Nakonec: Já, Evouš, Louise, GINETTE, Lucy, Laura, Danielle, Mireille._
 
-  
+</section>
+
+<section>
 
 „Ginette to slyšela všecko,“ řekla potom. „A jediná znala Mireillinýho milence, takže věděla, že ta to neni. Vydedukovala si, úplně logicky, že je to Joyce, ponivač jako Angličanka dělá ve francouzštině chyby a bydlí v Neuilly. A že Evouš to není, ponivač Evoušovej Jean nemá voči jak nebe, ale spíš jako čert.“
 
@@ -194,3 +206,5 @@ Pernilliny výzvy nabyly na hlasitosti.
 „Tak to bylo s tim případem v Neuilly,“ řekla Zuzán. „A teď se votočte, páč je pět hodin a Pernille se musí nažerat.“
 
 Oba hoši se poslušně otočili čelem k baculaté barokní madoně s trošku moc tlustým Jezuletem.
+
+</section>

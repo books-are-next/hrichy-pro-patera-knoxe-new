@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 _Někdy je život jiný, než by měl být, a pak je dobře jej změnit. Pokud to jde. Protože to skoro nikdy nejde, je příjemné aspoň se uchýlit do světa vymyšleného pro takové případy. Do Londýna každého z nás, kteří chceme zapomenout; kudy rachotí Holmesův kočár a kde vražda není hřích._
 
 _Kde je to hra. Odjakživa jsem ji rád hrál, a tak jsem si vymyslil tyhle hříchy ne proti Desateru z dávných hodin katechismu, ale proti přikázáním jistého pátera, jenž kdysi také vraždíval v tom krásném městě Sira Conana. Jmenoval se Ronald Arbuthnot Knox, žil v letech 1888 až 1957, byl to anglikán, ale konvertoval ke katolictví. Udělal slušnou církevní kariéru a není bez významu v teologické literatuře. Byl také přítelem mnoha spisovatelů, mezi nimi G. K. Chestertona. Snad od něho se nakazil láskou k detektivkám._
@@ -19,3 +21,5 @@ _Jako v každé detektivce, je i zde čtenářovým úkolem odhalit buď pacha
 _Neboť čtenářův úkol je zde mimořádně nesnadný. Na rozdíl od jiných detektivek měl by také poznat, proti kterému přikázání Desatera pátera Knoxe ta která povídka hřeší. Každá hřeší pouze proti jednomu, a je jich jenom deset. Poznat ovšem – jak každý zkušený čtenář takto pokleslé literatury ví – neznamená uhodnout, ale vydedukovat a logicky dokázat._
 
 _Že se to mnohým čtenářům podaří, o tom nepochybuji. Doufám jenom, že ani ty ostatní hříchy veselé smutné dívky, která je tu poněkud neuvěřitelným holmesem, čtenáře nepopudí. Eva sice občas mluví tak, jak se nepíše, a třebaže je to svobodná slečna, dělá to, co je lidské a dělají to všichni. Po světě chodí nemorálnější charaktery, například jeden stárnoucí poručík. Ale ani on, přes svoje nevhodné tužby, není snad z nejhorších._
+
+</section>

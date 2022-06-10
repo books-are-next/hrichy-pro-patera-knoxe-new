@@ -3,6 +3,8 @@ title: Desatero pátera Ronalda Arbuthnota Knoxe
 contentType: prose
 ---
 
+<section>
+
 1) Zločinec musí být někdo, o němž je zmínka brzo na začátku příběhu.
 
 2) Všechny nadpřirozené nebo nepřirozené faktory jsou zcela vyloučeny.
@@ -24,3 +26,5 @@ contentType: prose
 10) Nesmí se vyskytovat dvojčata nebo dvojníci.
 
 Pokud sami nepoznáte, proti kterému přikázání ta která povídka hřeší, nahlédněte do ROZHŘEŠENÍ na konci.
+
+</section>
