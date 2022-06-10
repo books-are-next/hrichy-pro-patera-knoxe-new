@@ -3,6 +3,8 @@ title: Ženské za volantem
 contentType: prose
 ---
 
+<section>
+
 Hřích třetí
 
 Whodunit
@@ -29,7 +31,11 @@ Playboyové; jeden z nich to byl:
 
 **Sylvestri**
 
+</section>
 
+
+
+<section>
 
 Ležíme s Laurou na stráni v příjemným stínečku jakejchsi stromečků, kterým se říká pinie, před náma senzační výhled na nejmenší státeček světa San Marino, Laura brebentí češtinou, do které mísí četná slova italská, pátý přes devátý, a mně je blaze víc než v Praze. Je prima den, jsem daleko od Kartouz, za hranicema, Kartouzy jsou už úplně předminulá minulost, a teď nade mnou běsní středozemní slunce, obloha je modrá a šichta v baru Orient v Rimini začíná až v jedenáct večer. Laura, která není žádná Laura, ale Lubomíra Vosáhlová, kamarádka ještě z našeho starýho dobrýho biskupáku v Zeleným Hradci, kam jsme do naší třídy chodily jenom my dvě externistky, obě ze zbožnejch rodin, a dělaly neklidný sny těm hošíkům, co se tam šprtánim řečtiny připravovali ponejvíc na pozdější dráhu kněžskou, ta samá Lubomíra, chytře provdaná do Itálie a žijící zde v hříchu, vykládá mi zlomyslnosti o svým manželu velkoobchodníkovi, kterej neni žádnej její manžel, nýbrž pouze druh, protože Laura byla už jednou vdaná a teď je rozvedená a takový poběhlice se v Itálii podruhý vdát nemůžou, ponivač tady jsou v některejch ohledech zbožnější než na biskupáku. A tak spolu žijou Laura s velkoobchodníkem v hříchu, a v hříchu Laura povila sedm dětí, proto tolik, že těch prvních šest byly holky a ty velkoobchodník, říčnej na dědice, nepokládal jaksi za potomstvo.
 
@@ -221,7 +227,9 @@ To, milí čtenáři, víte jistě vy také. Vraha zatím označit nemůžete, a
 
 * * *
 
-  
+</section>
+
+<section>
 
 „Co nepravíte!“ kapitán spráskl ruce a pak udeřil pěstí rozjařeně do stolu, až z hrdla opletený láhve ustříklo Lauře za ňadra. „Bílý muž měl na nose knírek!“ Nová rána pěstí. „Ale pak to nemohl být žádný z přítomných pánů, cha, cha, cha!“ veselil se kapitán nad tou švandovní záležitostí. „Protože žádný nemá knírek _na_ nose!“
 
@@ -325,12 +333,18 @@ To tedy spíš to první, pomyslím si a kouknu taky na kresbičku. Nad ní st�
 
 _Dívka objehla chladič a posadila se vedle řídiče._
 
-  
+</section>
+
+<section>
 
 A pod tím byl celej ten fórek vyvedenej v pastelkách jedný ze šesti Lubomířinejch dcer.
 
 * * *
 
-  
+</section>
+
+<section>
 
 A já si řekla, že mi ten zloděj, co ukrad ty výhodný nabídky, prokázal možná dobrou službu. Playboyům s otevřenýma sporťákama není co věřit. A měsíc na soukromý jachtě. Tůdle.
+
+</section>

@@ -3,6 +3,8 @@ title: Otázka alibi
 contentType: prose
 ---
 
+<section>
+
 Hřích čtvrtý
 
 Howdunit
@@ -27,7 +29,11 @@ Osoby, jak přicházejí na scénu:
 
 **Zuzán**: převrhla pohár se zmrzlinou
 
+</section>
 
+
+
+<section>
 
 Na velkých stojacích hodinách proti recepci odtlouklo právě půl osmé, když turniket něžně vysadil černovlasého pána střední postavy v šedém dvouřadovém obleku, s knírkem a s masivními černými brýlemi na očích. Pán se rozhlédl, přistoupil k pultu a otázal se upjatého úředníka anglicky:
 
@@ -110,7 +116,9 @@ Usmála se.
 Put your cheek on my cheek,  
 Close your eyes, lift your hand…
 
-  
+</section>
+
+<section>
 
 Ve vchodu – v tom, co se jím do baru vcházelo z ulice – se objevil urostlý muž s huňatým obočím a zamračeně se rozhlédl barem. Pan Jensen odvrátil žádostivý zrak od flitrového přeludu, otočil se na stoličce a zabrejlil poněkud šilhavě do uhmataného zrcadla za láhvemi.
 
@@ -320,13 +328,15 @@ Oboustranná touha po odpuštění nemohla nevyústit ve smír. Stvrdili jej Nad
 
 * * *
 
+</section>
 
 
 
 
 
 
-  
+
+<section>
 
 „V Palmovém salóně pořádali maškarní bál,“ pravil Niels. „Pan Cyrus mohl mít v kapse škrabošku, nasadit si ji, nechat vyvěšené sluchátko, aby nad kabinou svítila červená, projít salónem na chodbu ke kuchyním a vyjet výtahem pro personál nahoru do třetího poschodí. Dorazil by tam přibližně ve chvíli, kdy paní Ericsonová zhasla televizor a odešla do svého pokoje. K vykonání činu stačilo pár vteřin, obzvlášť když pan Jensen byl opilý.“
 
@@ -372,7 +382,9 @@ Niels obrátil plánek a na zadní stranu napsal:
 
 483062 ................................................................ možné chyby
 
-  
+</section>
+
+<section>
 
 „Zjistit majitele jedenácti telefonních stanic ve Stockholmu je už detail. Za půl hodiny jsme ho měli. Byl to nějaký pan Wahlsund a potvrdil všechno –“
 
@@ -392,7 +404,9 @@ Ovšem nehádat – dedukovat!
 
 * * *
 
-  
+</section>
+
+<section>
 
 Když v půl čtvrté ráno zazvonila u dveří detektiva Nielse C. Köllna, detektiv jí vzdor té nekalvínské hodině okamžitě otevřel. Ukázalo se, že tu noc ještě vůbec neodešel spát. Zavedl zpěvačku do kuchyně, kam se dostavila i zamračená Zuzán a nabídla se, že zpěvačce uvaří kafe.
 
@@ -452,7 +466,9 @@ _9.50 – Cyrus vychází z telefonní kabiny, připojuje se k Ericsonové a�
 
 _Cca 9.55 – Všichni tři objevují v pokoji zavražděného Jensena. Má na zápěstí hodinky, které se při pádu na zem rozbily a zastavily na 8.57._
 
-  
+</section>
+
+<section>
 
 Niels C. Kölln položil prst na konec posledního řádku a pravil:
 
@@ -462,7 +478,9 @@ Niels C. Kölln položil prst na konec posledního řádku a pravil:
 
 _Cca 9.00 – Jensen vychází ze svého pokoje a přitom ho vidí Ericsonová. Jensen _nevypadá opile.__
 
-  
+</section>
+
+<section>
 
 „Ericsonová tam seděla tou dobou už asi hodinu,“ řekla blondýnka. „Dívala se na nějaký politiky. Jestli byl Angličan u Jensena, musel vodejít před vosmou hodinou, ponivač ty politikové Ericsonovou nezajímali tak, aby neviděla a neslyšela, a ponivač seděla u televizoru až do půl desátý. A Anglán už krátce po devátý byl u recepčního. Jestli ale Anglán vodešel vod Jensena už před vosmou, kde potom byl až do devíti hodin?“
 
@@ -472,7 +490,9 @@ _Cca 9.00 – Jensen vychází ze svého pokoje a přitom ho vidí Ericsonová
 
 _Krátce po 9.00 – Jensen přichází do baru vchodem z ulice. _Je opilý.__
 
-  
+</section>
+
+<section>
 
 „Kdepak se to asi Jensen nadral,“ zeptala se zpěvačka. „Ve vejtahu? Protože dyž šel kolem babky Ericsonový, eště nevrávoral. A proč šel do baru vchodem z ulice, dyž pak z něj vyšel východem do haly?“
 
@@ -559,3 +579,5 @@ Niels se usmál, něžně vzal manželčinu ručku do dlaně a vznesl ji k ús
 Dívka ve flitrové róbě to pozorovala a zdálo se, že zesmutněla. Chvíli byla zticha. Niels políbil druhý dolíček. Zpěvačka přehodila nohu přes nohu. Detektivova ústa směřovala nyní k ústům jeho manželky, ale nedospěla tam, protože do té rodinné idylky netrpělivě zazněl plavovlásčin hlas:
 
 „Tak co bude s tim kafem?“
+
+</section>

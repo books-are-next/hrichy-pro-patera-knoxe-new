@@ -3,6 +3,8 @@ title: Atlantická romance
 contentType: prose
 ---
 
+<section>
+
 Hřích osmý
 
 Whodunit
@@ -29,7 +31,11 @@ Osoby, jak vstupují na scénu:
 
 **Fonetik na promenádní palubě**: zaznamenal si podivný výrok
 
+</section>
 
+
+
+<section>
 
 Mr. Right, dospěv v žlutém taxíku velikými oklikami na molo Cunard Line, usoudil, že se definitivně zbavil paní Deborah Bellové, před níž právě prchal do Evropy. Nebyla to jeho žena, pouze milenka; a jako by to ještě nestačilo, byla to navíc vdavekchtivá vdova. Ani na tom však nebylo dost: Deborah Bellová měla pětiletého syna, a ten se nápadně podobal Mr. Rightovi. Mr. Right a paní Bellová se seznámili před šesti lety, ještě za života pana Bella. Od chvíle, kdy tento zámožný výrobce krabic před rokem zesnul, začal se Mr. Righta zmocňovat postupně sílící neklid. Vyvrcholil toho zimního dne panickou jízdou z Páté avenue přes Bronx a Long Island směrem do manhattanské West Side, kde taxík konečně stanul na molu společnosti Cunard Line. Cestující, připraveni k nástupu na zaoceánskou paroloď Queen Elisabeth, tam právě podupávali v mrazivém odpoledni newyorské zimy a Mr. Right se k nim spokojeně připojil. Paní Bellovou spatřil naposled kdesi poblíž Coney Island. Vykláněla se v nádherném minkovém kožiše ze zelené drožky a pátravě se rozhlížela, naštěstí opačným směrem. Nato definitivně zmizela v babylónu skalního města zvaného New York a Mr. Right si při té vzpomínce zhluboka oddechl. A jak už to na této cestě všeho těla bývá, sotva si oddechl, upoutal jeho pozornost jiný, stejně nádherný minkový kožich a v něm jiná žena, podstatně nádhernější nežli paní Bellová. Mr. Right vůbec nebyl proti ženám, jenom proti ženění. Obhlédl ji tedy znalým okem a pohotově zaujal výchozí pozici k útoku.
 
@@ -427,7 +433,9 @@ Nyní už víte, kdo zavraždil pana Kozymu a co ho k tomu vedlo. A je vám j
 
 * * *
 
-  
+</section>
+
+<section>
 
 „Oho!“ zvolal plukovník. „Kam tak zhurta, milá slečno Adamová? Přišel jsem vás pozvat na malou partii bridže, hrajete-li.“
 
@@ -468,3 +476,5 @@ Plavovláska řekla nahlas něco v jakési cizí řeči. Neduživý profesor fo
 Dle jeho záznamu cizinka pravila:
 
 Tope: tele pra: tse!
+
+</section>

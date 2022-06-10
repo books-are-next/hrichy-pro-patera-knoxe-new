@@ -3,6 +3,8 @@ title: Třetí vrchol trojúhelníku
 contentType: prose
 ---
 
+<section>
+
 Hřích desátý
 
 Whydunit
@@ -35,7 +37,11 @@ Osoby, jak přicházejí na scénu:
 
 **Secesní dáma**: viděla vycházet měsíc nad prejzovými střechami
 
+</section>
 
+
+
+<section>
 
 Poručík Borůvka zachmuřeně zíral z okna své kanceláře na oprýskané průčelí starého kostela naproti, kde se pod sněhovou čepicí hrbil poťouchlý svatý Sidonius a z nosu mu visel křišťálový střechýlek. Poručíkovi se zdálo, že se mu opět posmívá, jako už jednou, před třemi lety, jenže to bylo na jaře, za vlahé májové noci, a Zuzance bylo teprv sedmnáct. Dnes, v kalném únorovém večeru, měl poručík, obvykle smutný, obzvláštní důvod k zachmuřenosti. Dcera Zuzanka oznámila totiž ráno rodině, asi jako by je seznamovala s rozhodnutím jet na prázdniny k babičce do Kostelce místo k tetě na Šumavu, že melancholický poručík se přibližně za sedm měsíců stane dědečkem, ale nikoli tchánem. Kandidát zeťovství, pravila Zuzanka, je idiot a pitomec, což prý bohužel zjistila až trochu pozdě, ale bohudík ještě včas na to, aby si ho uvázala na krk. Poručík vyvinul značné úsilí, aby vypáčil z dcery pitomcovo jméno. Ztroskotal, neboť se neodvážil uplatnit na Zuzance metody podobné výslechu třetího stupně: měl jakési mlhavé představy o tělesné křehkosti těhotných žen (třebaže v druhém měsíci a třebaže těhotnou ženou byla Zuzanka, studující tělesné výchovy, přebornice Univerzity Karlovy na sto metrů prsa). Konečně po amatérském pokusu zrežírovat scénu, v níž by on sehrál staromódně zneuctěného otce a paní Borůvková zlomenou matku (drama ztroskotalo na jeho velmi moderní lásce k dceři a na ještě modernější věcnosti paní Borůvkové), odešel poručík do práce. Ihned po příchodu přemluvil příslušnici s nádherným drdolem, že je jí nevolno, a donutil ji odejít domů, neboť zřetelné příznaky nejméně osmého měsíce (její strýc, zastupující zesnulého otce, slavný spisovatel Kopanec, byl na rozdíl od kriminalisty opatřen řádným zetěm, mozkovým chirurgem) poručíka toho dne popuzovaly. Pracovní dobu strávil předstíráním běžné činnosti a nyní čekal, až padne. Chmurně přitom přemýšlel o nemravné erotizaci světa, s níž služebně nesouhlasil, a v okamžicích sebeupřímnosti si uvědomoval, že jí sám s chutí, i když spíše jen teoreticky podléhá. Pak se přinutil meditovat o smutném případu své dcery, ale nějak mu nepřipadal smutný. Pohlédl na sádrového světce. Zasažen pohledem jeho poťouchlých očí, přiznal si, že smutný je na případu Zuzanky Borůvkové hlavně fakt, že z mladistvé nerozvážnosti promění svého ještě naprosto zachovalého otce téměř rok před jeho padesátými narozeninami nominálně v dědka. V tom zazvonil telefon a rozčilený hlas řekl: „Prosím vás, mohli byste sem někdo přijet? Tady se stalo – náhlé úmrtí.“
 
@@ -589,7 +595,9 @@ A vy, milí čtenáři, jistě už víte, kdo zavraždil Ludvíka Arnolda a pr
 
 * * *
 
-  
+</section>
+
+<section>
 
 Poručík Borůvka se probudil se strašlivou kocovinou. Opět měl velice nepříjemný pocit, že včera moc mluvil. Pocit se netýkal ani tak služebních tajemství jako obavy, že se mluvením znemožnil před svou znovunalezenou přítelkyní. V osm hodin seděl už u psacího stolu, polykal prášky, zapíjel je kávou a v duchu se rozhodoval napsat důvěrný dopis sestře do Kostelce, jestli by k ní Zuzanka nemohla přijet na kratší návštěvu, asi tak na osm měsíců. Jak jedním uchem poslouchal hlášení praporčíka Málka, úmysl opět zrušil jako příliš romantický. Ráno u snídaně Zuzanka totiž pravila: „To sem zvědavá, jak budu na jaře dělat zápočet ze skoku vysokýho, když sem zbouchnutá!“ Poručík zoufale usoudil, že takový cynik by závětřím otcova rodného města pohrdl. Pak si uvědomil, že i kdyby nepohrdl, poškodil by jeho vlastní dobrou pověst, kterou kdysi v tom starosvětském městečku získal tím, že vyvodil správné, i když ovšem nevyhnutelné důsledky z nečekaných následků svého působení na dívčí škole.
 
@@ -720,3 +728,5 @@ Nemilosrdně vbodla do poručíka šedý šíp.
 „Máte pravdu,“ připustil a svět se začal hroutit. „Nezlobte se –“
 
 „Ale já _mám_ čas,“ řekla plavovláska.
+
+</section>

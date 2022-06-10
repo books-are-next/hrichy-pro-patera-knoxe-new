@@ -3,6 +3,8 @@ title: "Omyl v\_Šlágrsé"
 contentType: prose
 ---
 
+<section>
+
 Hřích druhý
 
 Howdunit
@@ -35,7 +37,11 @@ Osoby, jak přicházejí na scénu:
 
 **Pan Oskar**: křepce vyběhl do schodů
 
+</section>
 
+
+
+<section>
 
 Do jídelny vstoupila mladá žena, štíhlá, v elegantním kostýmu, s pečlivě upraveným blond účesem. V ruce nesla paperback. Rozhlédla se, posadila se ke stolku blízko barového pultu a objednala si snídani.
 
@@ -739,7 +745,9 @@ Here’s my catastrophy!
 Tragedy, tragedy!  
 My man’s gone from me…
 
-  
+</section>
+
+<section>
 
 Po její levici dul obvykle sexuálně vyhladovělý Švéd do tenorsaxofonu, po pravici obvykle přiopilý Dán do trubky, za ní brnkal obvykle nadopovaný černý Američan na elektrofonickou basu a rezignovaný muž bez státní příslušnosti, obvykle se sklonem k těžkým blues, tremoloval na elektrických varhanách. V tomto malém symbolu století obsluhovala zpěvačka navíc bicí nástroje: módním střevíčkem šlapala charlestonky, košťátky v rukou s postříbřenými nehty lechtala malý bubínek, občas udeřila do velkého činelu, a zpívala:
 
@@ -749,7 +757,9 @@ Stop the whole month of June!
 Stop the band, stop this tune!  
 My man’s gone!
 
-  
+</section>
+
+<section>
 
 Tu sezónu bylo takové obsazení v módě a mimoto za to měla desetiprocentní příplatek. Kromě toho ušetřil majitel baru devadesát procent za bubeníkovu gáži. A plavovláska zpívala:
 
@@ -760,7 +770,9 @@ Stop each loud radio!
 I demand: Stop the show!  
 My man’s gone!
 
-  
+</section>
+
+<section>
 
 Večer co večer předváděla také černovláska s dolíčky ve tvářích platícímu publiku decentně, nicméně úplně, své tělíčko. Na Pragokoncertu to vedli jako taneční výstup v národním kroji a příplatek za totální odložení kroje šel do brunetčiny vlastní kapsy. Téměř každý večer pozoroval výstup bez národního kroje i detektiv Niels C. Kölln.
 
@@ -822,3 +834,5 @@ Dívka ho zavraždila pohledem.
 Otočila se. Na rtech recepčního se objevil zlomyslný úšklebek, ale hned zas nasadil uctivou tvář, protože zpěvačka se zastavila a pohlédla na něho přes rameno.
 
 „Ale pošlete dvě láhve,“ řekla.
+
+</section>

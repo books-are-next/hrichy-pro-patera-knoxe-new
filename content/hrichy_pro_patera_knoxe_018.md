@@ -3,6 +3,8 @@ title: Proč tolik šámusů
 contentType: prose
 ---
 
+<section>
+
 Hřích pátý
 
 Whodunit
@@ -37,7 +39,11 @@ Osoby, jak přicházejí na scénu:
 
 **Rachel Starrettová**: viděla duchy
 
+</section>
 
+
+
+<section>
 
 V sobotním _Evening Echu_ bylo sedm zajímavých vražd a večer předtím byl v Růžový džungli fízl. Fízl není vlastně správné slovo, když se v Praze řekne fízl, je na spadnutí facka, a tohle byl _shamus__,_ což v New Yorku žádná zvláštní nadávka není. Jeden bohatý Izraelita, který chodíval do Růžové džungle, když jsem tam dostala flek, ale později bohužel přestal, dřív než jsem se s ním stihla blíže seznámit, mi vysvětloval, že to slovo znamená v jiddiš kostelníka, jenomže tohle rozhodně kostelník nebyl, ale naopak hezký chlap jako z detektivky, vysoký, atletický, se šedivýma očima. Ono to v angličtině taky už dávno kostelníka neznamená: jeden pisatel krváků, nějaký Hammett, to mi taky řek ten Izraelita, tím obohatil jazyk, když ho zrovna nenapadlo žádné hezčí slovíčko pro ten druh lidí, co se živí soukromým pronásledováním zločinu, většinou víte jakého. Ten Izraelita se ho tenkrát nedopustil, aspoň ne na mně. No, ale není to zrovna moc šeredný slovíčko, _šámus__._
 
@@ -139,7 +145,9 @@ A já mezitím sedím, čučím na ty malovánky a ujišťuju se o tom mystic
 
 * * *
 
-  
+</section>
+
+<section>
 
 Tři kulky ve třech mrtvejch, tři irští detektivové udeřený tupym předmětem, jeden z nich taky s jednou z těch třech kulek v těle. Na tý kulce to všechno visí, to cítím, nevím proč, ale cítím. I ty dva ostatní šámusove bez vlastních kuliček v tělíčkách. Tak je to a ne že ne.
 
@@ -167,7 +175,9 @@ Avšak Raglánek zavrtí hlavičkou. Myšlení je pouze výjimečně silnou str�
 
 * * *
 
-  
+</section>
+
+<section>
 
 _Damned, baby!_ vykulí oči Raglánek. Ty ses zbláznila! Ne, odseknu a vraštím čelo a mozek mi pracuje, zase hodně šejdrem, ale na plný obrátky. A tu radost, abys mě viděl v _birthdaysuit__,_ ti neudělám, Ezekielku. Vidíš, jak se nám to pěkně skládá do trojúhelníků? Jak nám tu vznikaj nový spojnice? O’Malley – Henrickson, O’Malley – Connie – chybí nám jen ta šestá mrtvola, abysme to celý mohli dát do Davidový hvězdy, pravím. A ta šestá mrtvola je Henrickson, povídám. Jenže ten je naživu, řekne Raglánek. Tak už dlouho nebude, ušklíbnu se. A máme tu novou spojnici O’Malley – Connie, takže kvůli mystický symetrii musí existovat taky spojnice Leary – Mac Dougall! A taky – čučím na svůj grafickej výtvor a v hlavě mi hučí a Raglánek vrtí kanadským trávníčkem – taky Leary – Henrickson, dyž je Henrickson – O’Malley, a Raglánek vzdychá, _baby_, ty trojčíš, a já si rovněž v duchu říkám, Evi, striptýz bude, tohle přece neni možný! a vzpomenu si na malůvky, co je v Shakespearových verších dělal Cejnek, takovej brejlatej študent anglistiky, co za mnou chodil, ještě když jsem zpívala v T-clubu, a co měl fixní ideu, že Macbetha napsala královna Alžběta a zašifrovala se do textu, a tak spojoval po stránkách písmenka a vycházely mu podobný takový trojúhelníky a hrbatý můří nohy, a Raglánek praví: Nech toho, _cutiepie__,_ a radši si mě doposlechni. A všimni si toho zapalovače, praví. Všimnu si, a nic. No to přeci neni zapalovač. Teda přesně vzato neni to jenom zapalovač. Je to fízlovská mikrokamera. A O’Malley s ní fotí ty dva na lavičce, praví Raglán jakoby nic.
 
@@ -175,13 +185,17 @@ A já – to znamená – tak počkat. Počkat! O’Malley fotí ty dva na la
 
 * * *
 
-  
+</section>
+
+<section>
 
 MacDougalla, povídá Raglánek, si najal Pete Starrett a Learymu jeho šámus O’Malley nějak bokem zjistil, že MacDougall je mu – myslím Learymu – na stopě. Takže Leary, kterej už se chystal k vraždě Henricksona, oddělal nejdřív MacDougalla, aby už neměl možnost něco se dovtípit, a dřív, než moh dokončit ten svůj bohulibej úmysl a vodkrouhnout Connii a starýho Henricksona, starej Henrickson, protože ten měl hlášku vod McPhersona – a řikalas přeci, že McPherson je vyděrač, já si to zjistím, to by vysvětlovalo, proč McPherson fotil vlastního zaměstnavatele _in flagranti_, tak tedy starej Henrickson Learyho předešel, je to teda nějaký zamotaný – To je, pravím protože ne McPherson, ale O’Malley má bejt vyděrač, ale Raglánek najednou zařval, opět slušně: _Damned!_ a majitel Granady, kterej jde zrovna kolem, si ho káravě změří, neboť je věřící mormon. Všechno špatně! sténá Raglán a vytahuje z kapsičky u vesty tlustej červenej krejón. Je třeba doplnit naši diabolickou geometrii vo další spoje, a ty, _baby_, zcela, ale úplně, měněj podstatu! Pak vyreje červeným krejónem do servítku, co má na mysli:
 
 * * *
 
-  
+</section>
+
+<section>
 
 Pozoruje to jak hlubokomořská ryba, otvírá a zavírá pusu a nic neříká, já valím augny, v hale Granady je atmosféra cvokhausu. Tak, a máme místo židovský hvězdy vo šesti cípech dobrej starej katolickej kříž, vzdychne a volá na číšníka kvůli nový whisky. Henrickson najal McPhersona, Leary O’Malleyho, poněvač McPherson je taky Ir a taky zrzavej! Koukne na mě, jak mi dal fleka. _Kříž_, povídá, a žádná hvězda, co je ty naši kluci katolický donutili nosit židáky ve Španělsku. A po nich Hitler, podotknu já, cítím vzadu na krku dech Belzebuba, ale ovládnu se a dodám: V Německu. A náhle se mi celá mystika počne nějak sesypávat. A už vím, že to není Belzebub, ale voči těch plešounů, a že tomu striptýzu přece jen neuklouznu, a pravím: A žádný kluci katolický, ale kluci arabský. Dyž vokupovali Španělsko pro Mohameda. A teprve po těch Hitler.
 
@@ -193,13 +207,17 @@ A právě když se morálně připravuju na myšlenku na striptýz, vrazí do h
 
 * * *
 
-  
+</section>
+
+<section>
 
 Načež řekne: A mimoto se Pete Starrett přiznal. K vraždě? otážu se mechanicky a hledím zpitoměle na pravé zamítnutou Davidovu hvězdu na servítku. Ne, zabručí Raglánek. Jenom k tomu, že najal McPhersona, aby mu hlídal Connii, protože byla moc veselá v r – ozkroku, doplním ho a on se ani teď nezapomene začervenat a stříbrným parkerem připisuje k hvězdě legendu:
 
 * * *
 
-  
+</section>
+
+<section>
 
 A nakonec na nejvyšší, zatím pořád prázdnej cíp hvězdy, pečlivě a krasopisně namaluje tiskacíma písmenama:
 
@@ -272,3 +290,5 @@ Prý nesnáší cynické ženy, oznámil mi potom, když jsem ho, litujíc toho 
 Takže teď chodím po těch obchodech s americkým způsobem humoru na Dvaačtyřicátý ulici, co tam manžel naší Bubblesky koupil to děravý negližé, a sháním fíkovej list.
 
 Ale maj jenom samý děsně maličký, vůbec se na to netěším.
+
+</section>
