@@ -11,7 +11,7 @@ Redakce Jaroslava Bednářová
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
 </section>  
-1. vydání z 10. 6. 2022.
+1. vydání z 11. 6. 2022.
 
 ***
 
@@ -27,6 +27,6 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož 
 
 Citační záznam této e-knihy:
 
-ŠKVORECKÝ, Josef. _Hříchy pro pátera Knoxe: detektivní divertimento_ \[online\].  Praha: Městská knihovna v Praze, 2017 \[cit. 10. 6. 2022]. ISBN 978-80-7532-742-0 (epub). Dostupné z:
+ŠKVORECKÝ, Josef. _Hříchy pro pátera Knoxe: detektivní divertimento_ \[online\].  Praha: Městská knihovna v Praze, 2017 \[cit. 11. 6. 2022]. ISBN 978-80-7532-742-0 (epub). Dostupné z:
 
 [http://web2.mlp.cz/koweb/00/04/33/49/96/hrichy\_pro\_patera\_knoxe.epub](http://web2.mlp.cz/koweb/00/04/33/49/96/hrichy_pro_patera_knoxe.epub).
