@@ -30,7 +30,6 @@ Osoby, jak přicházejí na scénu:
 </section>
 
 
-
 <section>
 
 Dívka stála u výkladní skříně s nosem přimáčknutým na zářící křišťál a v kratičké sukni, jaké donedávna nosívaly jenom školačky čtvrté obecné. Následkem toho poutaly její pozoruhodné nohy pozornost většiny mužů čekajících v hale binghamtonského letiště na večerní let společnosti MOHAWK z New Yorku do Binghamtonu a dále do Buffala a Chicaga. Ale ona sama patřila nadšeně na falešné zlato předmětů za výkladem _souvenir shopu__,_ otočila se a zavolala:

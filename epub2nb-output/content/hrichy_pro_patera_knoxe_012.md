@@ -34,7 +34,6 @@ Playboyové; jeden z nich to byl:
 </section>
 
 
-
 <section>
 
 Ležíme s Laurou na stráni v příjemným stínečku jakejchsi stromečků, kterým se říká pinie, před náma senzační výhled na nejmenší státeček světa San Marino, Laura brebentí češtinou, do které mísí četná slova italská, pátý přes devátý, a mně je blaze víc než v Praze. Je prima den, jsem daleko od Kartouz, za hranicema, Kartouzy jsou už úplně předminulá minulost, a teď nade mnou běsní středozemní slunce, obloha je modrá a šichta v baru Orient v Rimini začíná až v jedenáct večer. Laura, která není žádná Laura, ale Lubomíra Vosáhlová, kamarádka ještě z našeho starýho dobrýho biskupáku v Zeleným Hradci, kam jsme do naší třídy chodily jenom my dvě externistky, obě ze zbožnejch rodin, a dělaly neklidný sny těm hošíkům, co se tam šprtánim řečtiny připravovali ponejvíc na pozdější dráhu kněžskou, ta samá Lubomíra, chytře provdaná do Itálie a žijící zde v hříchu, vykládá mi zlomyslnosti o svým manželu velkoobchodníkovi, kterej neni žádnej její manžel, nýbrž pouze druh, protože Laura byla už jednou vdaná a teď je rozvedená a takový poběhlice se v Itálii podruhý vdát nemůžou, ponivač tady jsou v některejch ohledech zbožnější než na biskupáku. A tak spolu žijou Laura s velkoobchodníkem v hříchu, a v hříchu Laura povila sedm dětí, proto tolik, že těch prvních šest byly holky a ty velkoobchodník, říčnej na dědice, nepokládal jaksi za potomstvo.

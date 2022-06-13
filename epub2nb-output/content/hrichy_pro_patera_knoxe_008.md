@@ -32,7 +32,6 @@ Osoby, jak přicházejí na scénu:
 </section>
 
 
-
 <section>
 
 Poručík Borůvka si v duchu říkal, že ho do ženské trestnice přivedla pracovní svědomitost. Když o věci cestou ve služební volze přemýšlel, byl ochoten připustit, že na tom měly podíl i výčitky svědomí. I v nejhlubším zákoutí duše však kategoricky popíral, že by to byla poněkud povadlá tvář světlovlasé dívky v hrubé vězeňské kazajce. Popíral to, neboť to byla pravda.

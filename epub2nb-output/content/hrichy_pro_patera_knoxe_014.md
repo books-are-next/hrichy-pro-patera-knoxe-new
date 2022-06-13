@@ -32,7 +32,6 @@ Osoby, jak přicházejí na scénu:
 </section>
 
 
-
 <section>
 
 Na velkých stojacích hodinách proti recepci odtlouklo právě půl osmé, když turniket něžně vysadil černovlasého pána střední postavy v šedém dvouřadovém obleku, s knírkem a s masivními černými brýlemi na očích. Pán se rozhlédl, přistoupil k pultu a otázal se upjatého úředníka anglicky:
@@ -329,10 +328,6 @@ Oboustranná touha po odpuštění nemohla nevyústit ve smír. Stvrdili jej Nad
 * * *
 
 </section>
-
-
-
-
 
 
 
