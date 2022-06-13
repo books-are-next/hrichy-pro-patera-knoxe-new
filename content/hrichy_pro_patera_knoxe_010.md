@@ -40,7 +40,6 @@ Osoby, jak přicházejí na scénu:
 </section>
 
 
-
 <section>
 
 Do jídelny vstoupila mladá žena, štíhlá, v elegantním kostýmu, s pečlivě upraveným blond účesem. V ruce nesla paperback. Rozhlédla se, posadila se ke stolku blízko barového pultu a objednala si snídani.

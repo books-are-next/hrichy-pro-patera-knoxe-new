@@ -46,7 +46,6 @@ Osoby, jak přicházejí na scénu:
 </section>
 
 
-
 <section>
 
 „Perosím, dámy,“ pravila osobitou výslovností černovláska s důlky ve tvářích a vzhlédla od novin ke dvěma hochům, kteří podobně jako ona seděli na vyšívaných polštářích na podlaze. Byly to francouzské noviny a byli to hoši oblečení v modrobíle pruhované kalhoty, jakým se na Západě říká _tights__,_ protože přiléhají k tělu jako slupka přiléhá k jablku. Ale nebylo to na Západě, nýbrž na Malé Straně; pokoj, kde seděli, zdobil malířský stojan s netknutým plátnem, orientální koberečky, červotočiví svatí, jaké v opuštěných kapličkách kradou podnikaví venkované pro valutové turisty, a mystické malby, znázorňující nahé muže, jak podivně propleteni poletují v oblacích. Místnost tajemně ozařovala měděná lampa se stínítkem perforovaným do podoby čínského draka a uprostřed pokoje ve dvou rokokových křeslech sražených k sobě tak, že vzniklo něco na způsob bohatě vyřezávané kolébky, spinkalo v pěně bleděmodrého krajkoví růžové děťátko se zlatými vlásky.

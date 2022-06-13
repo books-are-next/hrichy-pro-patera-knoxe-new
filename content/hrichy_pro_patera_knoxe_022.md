@@ -36,7 +36,6 @@ Osoby, jak přicházejí na scénu:
 </section>
 
 
-
 <section>
 
 Když se chce názorně znázornit trapas – aspoň tady v Americe – poví se anekdota o tom hypotetickým pánovi, který do společnosti ve fracích přišel omylem v tvídovém saku. To je ale teda úplně nic proti mně, která se z čistý dobroty srdce ocitla na Dvaačtyřicátý ulici v jednom takovym tom krámku, co prodávaj časopisy pro pány. Jako známá mladá pražská naivka jsem netušila, že se to pro dívku nehodí, ani když je lesbi, a tam vedou i tenhle sortiment; je-li lesbi, že si má poslat nějakýho hoška, a to já měla udělat taky, jenomže mi to napadlo až vevnitř. Protože když jsem, po dlouhým odmlčení z jejich strany, obdržela list od mých dvou drahých přítelíků Pavly a Jiřiny, v němž mi plni touhy oznamovali, že prý podle zpráv jsou v USA k dostání i zájmový časopisy jejich mezinárodního spolku, popadla mě tak neodolatelná touha po jednom kutloušku na Malý Straně, co na něj vždycky myslím, když myslím na tu zem za louží, opačnym směrem, že jsem se sebrala a expresní podzemkou jsem to vzala rovnou na Forty Second Street. V řadě zářících obchůdků jsem si vybrala ten největší, i když mě trochu zarazily dvě černý holčičky, který tiskly nosy na sklo a strašně se smály tomu za výkladem, což byly řady takových těch magazínů a na každým rozvalená jedna až dvě nahotiny. Skoro jsem se jim ani nedivila, když jsem do toho výkladu mrkla taky. Svět sice horuje o krásách ženskýho těla, přirozeně, ale za prvé: krásný je jedno z tisíce – já se domnívám, že moje tílko k nim náhodou patří, a nedomnívám se to sama – ale i to jedno krásný z tisíce je krásný, jen pokud se krásně postaví. Ovšem když se postaví na hlavu, jak by to nestydy na těch obálkách byly jistě ochotný udělat, kdyby to dovedly, je po kráse, a ty černý holčičky z toho měly docela právem gaudium, až jim nějaká starší, taky černá, paní dala pohlavek a já vstoupila do tý samoobsluhy.
@@ -116,10 +115,6 @@ Pro přehled jsem si to nakreslila:
 * * *
 
 </section>
-
-
-
-
 
 
 

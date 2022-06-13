@@ -42,7 +42,6 @@ Osoby, jak přicházejí na scénu:
 </section>
 
 
-
 <section>
 
 V sobotním _Evening Echu_ bylo sedm zajímavých vražd a večer předtím byl v Růžový džungli fízl. Fízl není vlastně správné slovo, když se v Praze řekne fízl, je na spadnutí facka, a tohle byl _shamus__,_ což v New Yorku žádná zvláštní nadávka není. Jeden bohatý Izraelita, který chodíval do Růžové džungle, když jsem tam dostala flek, ale později bohužel přestal, dřív než jsem se s ním stihla blíže seznámit, mi vysvětloval, že to slovo znamená v jiddiš kostelníka, jenomže tohle rozhodně kostelník nebyl, ale naopak hezký chlap jako z detektivky, vysoký, atletický, se šedivýma očima. Ono to v angličtině taky už dávno kostelníka neznamená: jeden pisatel krváků, nějaký Hammett, to mi taky řek ten Izraelita, tím obohatil jazyk, když ho zrovna nenapadlo žádné hezčí slovíčko pro ten druh lidí, co se živí soukromým pronásledováním zločinu, většinou víte jakého. Ten Izraelita se ho tenkrát nedopustil, aspoň ne na mně. No, ale není to zrovna moc šeredný slovíčko, _šámus__._
