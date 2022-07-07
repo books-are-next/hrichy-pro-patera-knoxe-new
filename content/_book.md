@@ -31,7 +31,7 @@ readingOrder:
   - hrichy_pro_patera_knoxe_032.html
   - hrichy_pro_patera_knoxe_033.html
   - hrichy_pro_patera_knoxe_034.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
