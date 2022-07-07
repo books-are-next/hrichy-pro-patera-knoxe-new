@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "skvorecky-hrichy-pro-patera-knoxe-7182a94",
-  "revision": "7182a94",
+  "identifier": "skvorecky-hrichy-pro-patera-knoxe-9ac1b26",
+  "revision": "9ac1b26",
   "readingOrder": [
     "promo.html",
     "hrichy_pro_patera_knoxe_005.html",
@@ -28,11 +28,11 @@
     "hrichy_pro_patera_knoxe_032.html",
     "hrichy_pro_patera_knoxe_033.html",
     "hrichy_pro_patera_knoxe_034.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:07:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978851032
+    "date": "Thu Jul 07 2022 08:27:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182456818
   },
   "documents": [
     {
@@ -161,7 +161,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ženské za volantem",
+          "name": "Ženské za volantem",
           "id": null,
           "children": []
         }
@@ -356,7 +356,7 @@
       "role": "chapter",
       "order": 16,
       "prev": "hrichy_pro_patera_knoxe_033.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -369,11 +369,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 207,
-      "chars": 1503,
+      "chars": 1500,
       "ideas": 20,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "hrichy_pro_patera_knoxe_034.html",
       "next": null,
@@ -391,7 +391,7 @@
   "totals": {
     "all": {
       "words": 84481,
-      "chars": 510925,
+      "chars": 510922,
       "ideas": 2182
     },
     "chapters": {
