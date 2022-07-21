@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "skvorecky-hrichy-pro-patera-knoxe-c9fc575",
-  "revision": "c9fc575",
+  "identifier": "skvorecky-hrichy-pro-patera-knoxe-aff7058",
+  "revision": "aff7058",
   "readingOrder": [
     "promo.html",
     "hrichy_pro_patera_knoxe_005.html",
@@ -31,8 +31,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:00:38 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188038204
+    "date": "Thu Jul 21 2022 14:38:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414305855
   },
   "documents": [
     {
@@ -371,7 +371,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 207,
-      "chars": 1500,
+      "chars": 1503,
       "ideas": 20,
       "role": "about",
       "order": null,
@@ -391,7 +391,7 @@
   "totals": {
     "all": {
       "words": 84481,
-      "chars": 510922,
+      "chars": 510925,
       "ideas": 2182
     },
     "chapters": {
