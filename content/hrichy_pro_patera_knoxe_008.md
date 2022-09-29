@@ -324,7 +324,7 @@ Poručík mrkl, ale nechápal.
 
 „Dyť to bije do vočí!“ pravila dívka netrpělivě. „Sou si přece děsně podobný!“
 
-Poručík zíral a najednou to uviděl. Jemnou, nenápadnou podobu, jako by tvář lékařovy dcery téměř neznatelně pronikla do tahů režisérova syna. Tak nějak, uvědomil si, jako shledával – dost těžce sice – shodné rysy na kulaté tváři své dcery Zuzanky a na ještě mnohem kulatější tváři syna Pepíčka za oněch občasných manželských sporů o to, po kom se ty děti vlastně vyvedly. Z nevysvětlitelných důvodů neměla paní Borůvková ty spory ráda, ačkoliv jinak se hádala s chutí. Ubohý poručík nikdy nestudoval genetiku, a tak ho nikdy nenapadlo to, co kdysi háralo v hlavě jisté příslušníci s nádherným drdolem, jež se později provdala za mozkového chirurga.[\[1\]](./resources/undefined)
+Poručík zíral a najednou to uviděl. Jemnou, nenápadnou podobu, jako by tvář lékařovy dcery téměř neznatelně pronikla do tahů režisérova syna. Tak nějak, uvědomil si, jako shledával – dost těžce sice – shodné rysy na kulaté tváři své dcery Zuzanky a na ještě mnohem kulatější tváři syna Pepíčka za oněch občasných manželských sporů o to, po kom se ty děti vlastně vyvedly. Z nevysvětlitelných důvodů neměla paní Borůvková ty spory ráda, ačkoliv jinak se hádala s chutí. Ubohý poručík nikdy nestudoval genetiku, a tak ho nikdy nenapadlo to, co kdysi háralo v hlavě jisté příslušníci s nádherným drdolem, jež se později provdala za mozkového chirurga.[^1]
 
 Zamnul si čelo, vyjeveně se rozhlédl po pracovně. Jakoby omámen dovrávoral pak ke knihovně, chvíli hledal, vytáhl tlustou knihu, jakýsi slovník. Donesl si jej na psací stůl a netrpělivými prsty otevřel u písmene A.
 
