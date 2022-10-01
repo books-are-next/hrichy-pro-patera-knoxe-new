@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "skvorecky-hrichy-pro-patera-knoxe-b71fe0b",
-  "revision": "b71fe0b",
+  "identifier": "skvorecky-hrichy-pro-patera-knoxe-dcd754d",
+  "revision": "dcd754d",
   "readingOrder": [
     "promo.html",
     "hrichy_pro_patera_knoxe_005.html",
@@ -31,8 +31,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:25:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486711463
+    "date": "Sat Oct 01 2022 15:55:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639735803
   },
   "documents": [
     {
@@ -110,9 +110,9 @@
     {
       "title": "Intimní záležitost",
       "file": "hrichy_pro_patera_knoxe_008.html",
-      "words": 7108,
-      "chars": 42777,
-      "ideas": 186,
+      "words": 7208,
+      "chars": 43385,
+      "ideas": 187,
       "role": "chapter",
       "order": 4,
       "prev": "hrichy_pro_patera_knoxe_007.html",
@@ -350,9 +350,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "hrichy_pro_patera_knoxe_034.html",
-      "words": 103,
-      "chars": 631,
-      "ideas": 2,
+      "words": 203,
+      "chars": 1239,
+      "ideas": 3,
       "role": "chapter",
       "order": 16,
       "prev": "hrichy_pro_patera_knoxe_033.html",
@@ -370,9 +370,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 207,
-      "chars": 1503,
-      "ideas": 20,
+      "words": 198,
+      "chars": 1460,
+      "ideas": 19,
       "role": "about",
       "order": null,
       "prev": "hrichy_pro_patera_knoxe_034.html",
@@ -390,14 +390,14 @@
   ],
   "totals": {
     "all": {
-      "words": 84481,
-      "chars": 510927,
-      "ideas": 2182
+      "words": 84672,
+      "chars": 512100,
+      "ideas": 2183
     },
     "chapters": {
-      "words": 84266,
-      "chars": 509375,
-      "ideas": 2158
+      "words": 84466,
+      "chars": 510591,
+      "ideas": 2160
     }
   }
 }
